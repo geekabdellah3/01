@@ -14,14 +14,20 @@ form{display:flex;gap:8px;padding:12px 16px;max-width:760px;width:100%;margin:0 
 textarea{flex:1;resize:none;padding:10px 12px;border-radius:12px;border:1px solid var(--border);background:transparent;color:inherit;font:inherit;max-height:160px}
 button{background:var(--accent);color:#fff;border:0;border-radius:12px;padding:0 18px;font:inherit;cursor:pointer}
 button.ghost{background:transparent;color:inherit;border:1px solid var(--border);padding:4px 12px}
+select{background:transparent;color:inherit;border:1px solid var(--border);border-radius:8px;padding:4px;max-width:45vw}
+select option{color:#000}
 button:disabled{opacity:.5}
 </style></head><body>
-<header><strong>Chat</strong><button class="ghost" id="new">New chat</button></header>
+<header><strong>Chat</strong><select id="model"></select><button class="ghost" id="new">New chat</button></header>
 <div id="log"></div>
 <form id="f"><textarea id="q" rows="1" placeholder="Write a message…" autofocus></textarea><button id="send">Send</button></form>
 <script>
 const log=document.getElementById('log'),q=document.getElementById('q'),send=document.getElementById('send');
 let history=[];
+const sel=document.getElementById('model');
+fetch('/api/models').then(r=>r.json()).then(({default:d,models})=>{
+  for(const m of new Set([d,...models])){const o=document.createElement('option');o.value=o.textContent=m;sel.appendChild(o)}
+  sel.value=d}).catch(()=>{});
 const add=(role,text)=>{const d=document.createElement('div');d.className='msg '+(role==='user'?'user':'bot');d.textContent=text;log.appendChild(d);log.scrollTop=log.scrollHeight;return d};
 document.getElementById('new').onclick=()=>{history=[];log.innerHTML=''};
 q.addEventListener('keydown',e=>{if(e.key==='Enter'&&!e.shiftKey){e.preventDefault();f.requestSubmit()}});
@@ -30,7 +36,7 @@ document.getElementById('f').onsubmit=async e=>{
   q.value='';send.disabled=true;history.push({role:'user',content:text});add('user',text);
   const out=add('assistant','…');let full='';
   try{
-    const r=await fetch('/api/chat',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({messages:history})});
+    const r=await fetch('/api/chat',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({messages:history,model:sel.value})});
     if(!r.ok)throw new Error(await r.text());
     const reader=r.body.getReader(),dec=new TextDecoder();let buf='';
     for(;;){const{done,value}=await reader.read();if(done)break;buf+=dec.decode(value,{stream:true});

@@ -4,9 +4,9 @@ const http = require('http');
 const fs = require('fs');
 const path = require('path');
 
-const { APX_API_KEY, APX_BASE_URL, APX_MODEL, PORT = 3000 } = process.env;
-if (!APX_API_KEY || !APX_BASE_URL || !APX_MODEL) {
-  console.error('Missing APX_API_KEY / APX_BASE_URL / APX_MODEL. See .env.example');
+const { APX_API_KEY, APX_BASE_URL = 'https://api.apmix.ai/v1', APX_MODEL = 'claude-sonnet-5', PORT = 3000 } = process.env;
+if (!APX_API_KEY) {
+  console.error('Missing APX_API_KEY. See .env.example');
   process.exit(1);
 }
 
@@ -25,14 +25,27 @@ http.createServer(async (req, res) => {
     res.writeHead(200, { 'Content-Type': 'text/html; charset=utf-8' });
     return res.end(indexHtml);
   }
+  if (req.method === 'GET' && req.url === '/api/models') {
+    try {
+      const r = await fetch(`${APX_BASE_URL.replace(/\/$/, '')}/models`, {
+        headers: { Authorization: `Bearer ${APX_API_KEY}` },
+      });
+      const j = r.ok ? await r.json() : { data: [] };
+      res.writeHead(200, { 'Content-Type': 'application/json' });
+      return res.end(JSON.stringify({ default: APX_MODEL, models: (j.data || []).map((m) => m.id) }));
+    } catch {
+      res.writeHead(200, { 'Content-Type': 'application/json' });
+      return res.end(JSON.stringify({ default: APX_MODEL, models: [APX_MODEL] }));
+    }
+  }
   if (req.method === 'POST' && req.url === '/api/chat') {
     try {
-      const { messages } = JSON.parse(await readBody(req));
+      const { messages, model } = JSON.parse(await readBody(req));
       if (!Array.isArray(messages)) throw new Error('messages must be an array');
       const upstream = await fetch(`${APX_BASE_URL.replace(/\/$/, '')}/chat/completions`, {
         method: 'POST',
         headers: { 'Content-Type': 'application/json', Authorization: `Bearer ${APX_API_KEY}` },
-        body: JSON.stringify({ model: APX_MODEL, messages, stream: true }),
+        body: JSON.stringify({ model: typeof model === 'string' && model ? model : APX_MODEL, messages, stream: true }),
       });
       if (!upstream.ok) {
         res.writeHead(upstream.status, { 'Content-Type': 'text/plain' });
