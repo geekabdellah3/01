@@ -1,0 +1,161 @@
+Panel,Variable,M1 Morocco,M2 Korea,M3 Pooled,M4 Pooled x Korea
+Adopted energy-management measures (ge8d),Product innovation (h1),"-0.622
+(1.244)","0.199
+(0.452)","-0.056
+(0.473)","-0.814
+(1.281)"
+Adopted energy-management measures (ge8d),Process innovation (h5),"1.646
+(1.158)","0.655
+(0.724)","1.112
+(0.718)","1.800
+(1.250)"
+Adopted energy-management measures (ge8d),Website (c22b),"1.419***
+(0.429)","0.587**
+(0.297)","0.713***
+(0.258)","1.387***
+(0.421)"
+Adopted energy-management measures (ge8d),Korea (vs Morocco),,,"0.183
+(0.280)","0.807**
+(0.356)"
+Adopted energy-management measures (ge8d),Product innovation x Korea,,,,"1.027
+(1.358)"
+Adopted energy-management measures (ge8d),Process innovation x Korea,,,,"-1.122
+(1.439)"
+Adopted energy-management measures (ge8d),Website x Korea,,,,"-0.802
+(0.490)"
+Adopted energy-management measures (ge8d),ln employment (current),"0.524***
+(0.197)","0.471***
+(0.120)","0.451***
+(0.100)","0.473***
+(0.100)"
+Adopted energy-management measures (ge8d),ln(1+age),"-0.233
+(0.324)","0.318
+(0.274)","0.190
+(0.215)","0.179
+(0.215)"
+Adopted energy-management measures (ge8d),Foreign owned (>=10%),"-0.413
+(0.713)","-1.100**
+(0.449)","-0.718
+(0.498)","-0.738
+(0.466)"
+Adopted energy-management measures (ge8d),Exporter (>=10%),"-1.072**
+(0.444)","-0.118
+(0.439)","-0.341
+(0.344)","-0.304
+(0.342)"
+Adopted energy-management measures (ge8d),Corporation,"2.269***
+(0.855)","0.066
+(0.363)","0.267
+(0.337)","0.247
+(0.340)"
+Adopted energy-management measures (ge8d),Retail (vs manufacturing),"-1.548*
+(0.866)","-1.348**
+(0.646)","-1.416***
+(0.511)","-1.418***
+(0.508)"
+Adopted energy-management measures (ge8d),Other services (vs manufacturing),"-0.872
+(0.542)","-0.839***
+(0.280)","-0.845***
+(0.240)","-0.835***
+(0.243)"
+Adopted energy-management measures (ge8d),Constant,"-5.551***
+(1.400)","-4.145***
+(0.839)","-4.068***
+(0.713)","-4.669***
+(0.714)"
+Adopted energy-management measures (ge8d),AME Product innovation (h1),"-4.3pp
+(7.2)","1.9pp
+(4.5)","-0.5pp
+(4.1)",
+Adopted energy-management measures (ge8d),AME Process innovation (h5),"19.6pp
+(17.1)","7.2pp
+(9.5)","13.5pp
+(11.3)",
+Adopted energy-management measures (ge8d),AME Website (c22b),"9.0pp***
+(3.3)","5.7pp*
+(3.1)","6.5pp***
+(2.5)",
+Adopted energy-management measures (ge8d),Observations,502,1476,1978,1978
+Adopted energy-management measures (ge8d),N treated: product / process / website,74 / 39 / 317,116 / 47 / 598,190 / 86 / 915,190 / 86 / 915
+Adopted energy-management measures (ge8d),R2 / pseudo-R2,0.197,0.147,0.146,0.150
+Adopted energy-management measures (ge8d),Wald p: all 3 x Korea = 0,,,,0.343
+Monitors CO2 emissions (ge7),Product innovation (h1),"2.294***
+(0.854)","-0.368
+(0.413)","0.617
+(0.482)","2.320***
+(0.843)"
+Monitors CO2 emissions (ge7),Process innovation (h5),"-6.519***
+(1.431)","-0.537
+(0.531)","-1.861***
+(0.718)","-5.743***
+(1.333)"
+Monitors CO2 emissions (ge7),Website (c22b),"-0.003
+(0.699)","-0.234
+(0.337)","-0.190
+(0.284)","0.405
+(0.907)"
+Monitors CO2 emissions (ge7),Korea (vs Morocco),,,"-0.048
+(0.367)","0.729
+(0.952)"
+Monitors CO2 emissions (ge7),Product innovation x Korea,,,,"-2.625***
+(0.957)"
+Monitors CO2 emissions (ge7),Process innovation x Korea,,,,"5.017***
+(1.410)"
+Monitors CO2 emissions (ge7),Website x Korea,,,,"-0.679
+(0.994)"
+Monitors CO2 emissions (ge7),ln employment (current),"0.703**
+(0.293)","0.611***
+(0.132)","0.541***
+(0.131)","0.562***
+(0.116)"
+Monitors CO2 emissions (ge7),ln(1+age),"0.928**
+(0.409)","0.472
+(0.341)","0.548*
+(0.286)","0.594**
+(0.283)"
+Monitors CO2 emissions (ge7),Foreign owned (>=10%),"1.732***
+(0.615)","-0.460
+(0.495)","0.692
+(0.555)","0.517
+(0.481)"
+Monitors CO2 emissions (ge7),Exporter (>=10%),"-0.501
+(0.532)","-0.235
+(0.421)","-0.126
+(0.348)","-0.195
+(0.343)"
+Monitors CO2 emissions (ge7),Corporation,"-0.748
+(1.424)","0.323
+(0.438)","0.156
+(0.423)","0.204
+(0.429)"
+Monitors CO2 emissions (ge7),Retail (vs manufacturing),"0.775
+(0.966)","-0.368
+(0.572)","-0.401
+(0.485)","-0.379
+(0.492)"
+Monitors CO2 emissions (ge7),Other services (vs manufacturing),"0.612
+(0.781)","-1.447***
+(0.455)","-1.011***
+(0.340)","-1.074***
+(0.332)"
+Monitors CO2 emissions (ge7),Constant,"-7.975***
+(2.466)","-5.358***
+(0.909)","-5.422***
+(0.838)","-6.314***
+(1.420)"
+Monitors CO2 emissions (ge7),AME Product innovation (h1),"17.8pp*
+(9.8)","-1.8pp
+(1.8)","4.0pp
+(3.8)",
+Monitors CO2 emissions (ge7),AME Process innovation (h5),"-7.7pp***
+(2.1)","-2.5pp
+(2.0)","-5.3pp***
+(1.2)",
+Monitors CO2 emissions (ge7),AME Website (c22b),"-0.0pp
+(2.9)","-1.3pp
+(1.8)","-1.0pp
+(1.5)",
+Monitors CO2 emissions (ge7),Observations,504,1495,1999,1999
+Monitors CO2 emissions (ge7),N treated: product / process / website,74 / 39 / 318,116 / 48 / 606,190 / 87 / 924,190 / 87 / 924
+Monitors CO2 emissions (ge7),R2 / pseudo-R2,0.276,0.190,0.173,0.190
+Monitors CO2 emissions (ge7),Wald p: all 3 x Korea = 0,,,,0.003

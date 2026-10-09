@@ -1,0 +1,69 @@
+Panel,Variable,M1 Morocco,M2 Korea,M3 Pooled,M4 Pooled x Korea
+"Employment growth (annualised log, pp)",Product innovation (h1),"-1.32
+(1.51)","1.71
+(2.14)","0.54
+(1.47)","-1.43
+(1.51)"
+"Employment growth (annualised log, pp)",Process innovation (h5),"3.47
+(2.76)","-3.46*
+(1.87)","0.11
+(2.00)","2.98
+(2.67)"
+"Employment growth (annualised log, pp)",Website (c22b),"1.46
+(1.05)","1.11
+(0.78)","0.95
+(0.61)","1.27
+(1.01)"
+"Employment growth (annualised log, pp)",Korea (vs Morocco),,,"-1.89***
+(0.59)","-1.64*
+(0.91)"
+"Employment growth (annualised log, pp)",Product innovation x Korea,,,,"3.24
+(2.65)"
+"Employment growth (annualised log, pp)",Process innovation x Korea,,,,"-6.15**
+(3.14)"
+"Employment growth (annualised log, pp)",Website x Korea,,,,"-0.47
+(1.26)"
+"Employment growth (annualised log, pp)",ln employment 3y ago,"-0.12
+(0.45)","-2.66***
+(0.50)","-2.09***
+(0.39)","-2.04***
+(0.40)"
+"Employment growth (annualised log, pp)",ln(1+age),"-1.62*
+(0.84)","-0.15
+(0.53)","-0.50
+(0.45)","-0.50
+(0.45)"
+"Employment growth (annualised log, pp)",Foreign owned (>=10%),"-0.95
+(1.69)","2.86*
+(1.72)","0.48
+(1.21)","0.40
+(1.19)"
+"Employment growth (annualised log, pp)",Exporter (>=10%),"1.36
+(1.34)","1.40*
+(0.72)","1.18*
+(0.68)","1.27*
+(0.71)"
+"Employment growth (annualised log, pp)",Corporation,"0.22
+(1.29)","-0.24
+(0.68)","-0.17
+(0.61)","-0.23
+(0.62)"
+"Employment growth (annualised log, pp)",Retail (vs manufacturing),"-0.49
+(1.11)","-1.07
+(1.12)","-0.88
+(0.91)","-0.83
+(0.90)"
+"Employment growth (annualised log, pp)",Other services (vs manufacturing),"-0.06
+(0.92)","0.13
+(0.62)","0.10
+(0.53)","0.13
+(0.53)"
+"Employment growth (annualised log, pp)",Constant,"7.69***
+(2.59)","9.12***
+(1.83)","10.60***
+(1.59)","10.28***
+(1.71)"
+"Employment growth (annualised log, pp)",Observations,495,1456,1951,1951
+"Employment growth (annualised log, pp)",N treated: product / process / website,72 / 38 / 315,112 / 48 / 597,184 / 86 / 912,184 / 86 / 912
+"Employment growth (annualised log, pp)",R2 / pseudo-R2,0.073,0.109,0.096,0.102
+"Employment growth (annualised log, pp)",Wald p: all 3 x Korea = 0,,,,0.263

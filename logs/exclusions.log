@@ -1,0 +1,32 @@
+2026-10-09T20:22:25 | KOR | Interviewed establishments | n=1518
+2026-10-09T20:22:25 | KOR |   minus: l2 = -7 (not in business 3 FY ago; no baseline) -> excluded from growth samples | n=1478
+2026-10-09T20:22:25 | KOR |   valid sales growth (d2>0 & n3>0) | n=1449
+2026-10-09T20:22:25 | KOR |   valid employment growth (l1>0 & l2>0) | n=1469
+2026-10-09T20:22:25 | KOR |   valid productivity growth (both) | n=1443
+2026-10-09T20:22:25 | KOR |   valid product/process innovation (h1,h5) | n=1508
+2026-10-09T20:22:25 | KOR |   valid digitalization proxy (c22b) | n=1518
+2026-10-09T20:22:25 | KOR |   complete main regressors + growth controls | n=1456
+2026-10-09T20:22:25 | KOR |   MAIN SAMPLE D1_sales (g_sales): outcome + X + controls complete | n=1431
+2026-10-09T20:22:25 | KOR |   MAIN SAMPLE D1_lp (g_lp): outcome + X + controls complete | n=1431
+2026-10-09T20:22:25 | KOR |   MAIN SAMPLE D2_emp (g_emp): outcome + X + controls complete | n=1456
+2026-10-09T20:22:25 | KOR |   MAIN SAMPLE D3_female (female_share): outcome + X + controls complete | n=1485
+2026-10-09T20:22:25 | KOR |   MAIN SAMPLE D3_lowskill (lowskill_prod_share): outcome + X + controls complete | n=1465
+2026-10-09T20:22:25 | KOR |   MAIN SAMPLE D4_energy (env_energy_mgmt): outcome + X + controls complete | n=1476
+2026-10-09T20:22:25 | KOR |   MAIN SAMPLE D4_co2 (env_co2_monitor): outcome + X + controls complete | n=1495
+2026-10-09T20:22:25 | MAR | Interviewed establishments | n=598
+2026-10-09T20:22:25 | MAR |   minus: l2 = -7 (not in business 3 FY ago; no baseline) -> excluded from growth samples | n=587
+2026-10-09T20:22:25 | MAR |   valid sales growth (d2>0 & n3>0) | n=589
+2026-10-09T20:22:25 | MAR |   valid employment growth (l1>0 & l2>0) | n=585
+2026-10-09T20:22:25 | MAR |   valid productivity growth (both) | n=584
+2026-10-09T20:22:25 | MAR |   valid product/process innovation (h1,h5) | n=566
+2026-10-09T20:22:25 | MAR |   valid digitalization proxy (c22b) | n=596
+2026-10-09T20:22:25 | MAR |   complete main regressors + growth controls | n=495
+2026-10-09T20:22:25 | MAR |   MAIN SAMPLE D1_sales (g_sales): outcome + X + controls complete | n=494
+2026-10-09T20:22:25 | MAR |   MAIN SAMPLE D1_lp (g_lp): outcome + X + controls complete | n=494
+2026-10-09T20:22:25 | MAR |   MAIN SAMPLE D2_emp (g_emp): outcome + X + controls complete | n=495
+2026-10-09T20:22:25 | MAR |   MAIN SAMPLE D3_female (female_share): outcome + X + controls complete | n=418
+2026-10-09T20:22:25 | MAR |   MAIN SAMPLE D3_lowskill (lowskill_prod_share): outcome + X + controls complete | n=407
+2026-10-09T20:22:25 | MAR |   MAIN SAMPLE D4_energy (env_energy_mgmt): outcome + X + controls complete | n=502
+2026-10-09T20:22:25 | MAR |   MAIN SAMPLE D4_co2 (env_co2_monitor): outcome + X + controls complete | n=504
+2026-10-09T20:22:54 | R08a Korea implausible sales ratio (>5 or <0.2): 28 firms set missing for sales/productivity growth
+2026-10-09T20:22:55 | R08b Morocco heaping n3 = 0.9*d2: 118 firms set missing for sales/productivity growth

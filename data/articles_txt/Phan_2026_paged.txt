@@ -1,0 +1,1000 @@
+
+=====PDFPAGE 1=====
+Phan Discover Sustainability  (2026) 7:848  Discover Sustainability
+https://doi.org/10.1007/s43621-026-03226-5
+
+
+
+
+ RESEARCH  Open Access
+
+
+The impact of green economy practices on firm
+innovation using data from the World Bank
+Enterprise Surveys
+Quynh Trang Phan1*
+
+*Correspondence:
+Quynh Trang Phan  Abstract
+trang.pq@ou.edu.vn  This study explores how adopting green economy practices (GEP) shapes firm
+1
+ Faculty of Finance and Banking,
+Ho Chi Minh City Open University,  innovation. A comprehensive GEP adoption index is developed to evaluate whether
+35 – 37 Ho Hao Hon, Cau Ong Lanh  greater engagement in green practices enhances a firm’s product and process
+Ward, Ho Chi Minh City, Vietnam  innovation. The analysis covers ten types of GEPs, including improvements in
+  heating and cooling, on-site clean energy generation, machinery upgrades, energy
+  management systems, waste and recycling measures, air pollution controls, water
+  management initiatives, fleet upgrades, lighting improvements, and other pollution
+  control activities. Furthermore, the study investigates how different dimensions of
+  GEPs relate to innovation outcomes. Using a firm-level dataset comprising 18,860
+  observations from the World Bank Enterprise Surveys (WBES), the logistic regression
+  results indicate that firms with higher levels of GEP adoption are significantly
+  more likely to innovate in both products and processes. These findings provide
+  robust empirical evidence that environmental responsibility and innovation are
+  complementary rather than competing objectives. The study offers important
+  implications for managers seeking to integrate sustainability into innovation
+  strategies and for policymakers promoting green and inclusive economic growth.
+  Keywords Green economy practices, Process innovation, Product innovation, WBES
+  JEL Classification G31 G38
+
+
+
+  1 Introduction
+  In recent years, the concept of the green economy has become central to global policy
+  discussions as nations seek to balance economic growth with environmental sustain-
+  ability. The United Nations Environment Programme (UNEP) defines an inclusive green
+  economy as one that “results in improved human well-being and social equity while sig-
+  nificantly reducing environmental risks and ecological scarcities.” Accordingly, a green
+  economy is characterized by low carbon emissions, resource efficiency, and social inclu-
+  siveness. To operationalize these principles, firms increasingly adopt green economy
+  practices (GEPs) as a strategic response to the global pursuit of sustainable economic
+  growth. This pursuit, as defined by the Organisation for Economic Co-operation and
+
+
+  © The Author(s) 2026. Open Access This article is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International
+  License, which permits any non-commercial use, sharing, distribution and reproduction in any medium or format, as long as you give appropriate
+  credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if you modified the licensed material.
+  You do not have permission under this licence to share adapted material derived from this article or parts of it. The images or other third party
+  material in this article are included in the article’s Creative Commons licence, unless indicated otherwise in a credit line to the material. If material
+  is not included in the article’s Creative Commons licence and your intended use is not permitted by statutory regulation or exceeds the permitted
+  use, you will need to obtain permission directly from the copyright holder. To view a copy of this licence, visit ​h​t​t​p​:​/​​/​c​r​e​a​​t​i​v​e​c​o​​m​m​o​n​​s​.​o​r​g​​/​l​i​c​e​​n​s​
+  e​s​/​b​​y​-​n​c​​-​n​d​/​4​.​0​/.
+
+=====PDFPAGE 2=====
+Phan Discover Sustainability  (2026) 7:848  Page 2 of 17
+
+
+
+
+  Development (2011) and UNEP (2012), involves expanding economic output while
+  preserving natural resources, minimizing environmental degradation, and enhancing
+  social welfare and long-term productivity. At the firm level, implementing GEPs such as
+  energy-efficient technologies, water recycling, and waste minimization enables firms to
+  enhance resource productivity [1], strengthen competitiveness [2], and improve overall
+  performance [3]. Moreover, the integration of GEPs aligns with national commitments
+  to the Sustainable Development Goals (SDGs), particularly SDG 8 (Decent Work and
+  Economic Growth) and SDG 12 (Responsible Consumption and Production). Firms that
+  embrace GEPs also gain greater legitimacy among stakeholders [4] by demonstrating
+  environmental responsibility and compliance with Environmental, Social, and Gover-
+  nance (ESG) standards. Ultimately, the adoption of GEPs should be viewed not only as
+  an environmental mandate but as a strategic necessity for achieving long-term sustain-
+  ability and competitiveness.
+  Innovation plays a pivotal role in enhancing firm competitiveness [5] and driving
+  long-term growth [6]. A substantial body of literature suggests that firm innovation is
+  shaped by a wide range of internal and external factors, including financial resources [7],
+  corporate governance mechanisms [8], market competition [9], and institutional qual-
+  ity and regulatory frameworks [10]. In the current global economic environment, firms
+  must continuously innovate to enhance efficiency, develop new products and processes,
+  and sustain competitive advantage. Such efforts enable firms to respond proactively to
+  market changes, regulatory pressures, and evolving consumer expectations, while trans-
+  forming environmental and social challenges into opportunities for value creation [11].
+  Against this backdrop, the adoption of GEPs has emerged as an important driver of
+  innovation. By integrating environmental practices into their operations and strategies,
+  firms can address regulatory and societal demands [12] and build dynamic capabilities
+  that support product differentiation and process improvement. Accordingly, the adop-
+  tion of GEPs not only contributes to environmental objectives but may also enhance
+  firms’ innovative capacity, reinforce competitiveness, and promote sustainable economic
+  performance. Building on this perspective, this study investigates the impact of GEP
+  adoption on firm innovation using a World Bank Enterprise Surveys (WBES) database.
+  A key advantage of the WBES database is that it enables researchers to measure firms’
+  engagement in green economy practices in a detailed and standardized manner. Spe-
+  cifically, the WBES includes a Green Economy module, which captures multiple aspects
+  of firms’ environmental management. This module identifies ten dimensions of GEPs:
+  (1) heating and cooling improvements; (2) climate-friendly on-site energy generation;
+  (3) machinery upgrades; (4) energy management systems; (5) waste minimization, recy-
+  cling, and waste management; (6) air pollution control measures; (7) water management
+  measures; (8) upgrades of vehicles, vessels, or aircraft within the firm’s fleet; (9) improve-
+  ments in lighting systems; and (10) other pollution control measures. This detailed clas-
+  sification enables a more granular investigation of whether and which specific green
+  economy practices are associated with firm-level innovation.
+  By empirically examining the relationship between GEPs and firm innovation, this
+  study makes several important contributions to the literature. First, this study extends
+  existing research by focusing on firms’ adoption of specific GEPs and their direct effects
+  on firm-level innovation. This aspect has received limited attention. In contrast, much
+  of the prior literature has emphasized sustainability or environmental performance
+
+=====PDFPAGE 3=====
+Phan Discover Sustainability  (2026) 7:848  Page 3 of 17
+
+
+
+
+  outcomes [13] rather than innovation-related consequences. Furthermore, previous
+  studies have often relied on proxy measures of environmental engagement, such as cor-
+  porate social responsibility (CSR) ratings [14] or ISO 14000 certification [15], rather than
+  on the actual implementation of green practices. Second, by examining firms’ adoption
+  across ten distinct dimensions of GEPs, this study enables a more granular assessment
+  of whether and which practices are most effective in fostering innovative activity. Third,
+  this study provides cross-country empirical evidence on the relationship between GEPs
+  and firm innovation, thereby addressing a key gap in the literature, which has largely
+  relied on single-country analyses [16, 17]. Drawing on a diverse sample of firms oper-
+  ating across multiple institutional and economic environments, the findings offer more
+  generalizable insights into how GEPs influence innovation outcomes. This broader per-
+  spective enhances the understanding of the global relevance and effectiveness of GEPs in
+  stimulating firm-level innovation.
+  This study is structured as follows. Section 2 presents the theoretical background
+  and relevant literature on GEPs and firm innovation. Section 3 outlines the research
+  design and methodology, describing the data, model, and variables. Section 4 reports
+  the empirical results and provides a detailed discussion. Section 5 offers the conclusion.
+
+  2 Literature review
+  Many studies have examined the determinants of firm innovation, highlighting the roles
+  of both internal firm characteristics and external environmental factors. Prior studies
+  emphasize internal drivers such as financial resources [7], ownership structure [18], or
+  corporate governance [8], which influence a firm’s ability and willingness to invest in
+  innovative activities. Beyond firm-specific factors, external conditions, including mar-
+  ket competition [9] and institutional quality and regulatory frameworks [10], also play
+  a critical role in shaping innovation outcomes. Given the context-dependent nature of
+  innovation drivers, recent studies have focused on whether and how sustainability-ori-
+  ented practices, such as adopting GEPs, serve as an additional channel through which
+  firms enhance their innovation.
+  The Resource-Based View [19] posits that firms achieve competitive advantage by
+  developing resources and capabilities that are valuable, rare, inimitable, and non-sub-
+  stitutable. In particular, physical capital resources, including plant, machinery, equip-
+  ment, and production technology, constitute tangible assets that support firms’ strategic
+  activities. The adoption of GEPs typically entails targeted investments in such physical
+  capital, including energy-efficient machinery, cleaner production technologies, pollu-
+  tion-control equipment, and upgrades to logistics and transportation infrastructure.
+  These investments enhance the productivity and environmental efficiency of firms’
+  tangible assets while simultaneously embedding firm-specific technological capabili-
+  ties. As a result, the implementation of GEPs through physical capital upgrading can
+  strengthen firms’ resource bases and stimulate innovation by fostering the development
+  of new capabilities and operational processes [20], and facilitate compliance with regu-
+  latory and societal expectations [12]. Complementing the Resource-Based View, the
+  Porter Hypothesis [21] provides an innovation-oriented framework. It argues that well-
+  designed environmental practices and regulations can drive innovation by encouraging
+  firms to reduce inefficiencies, rethink production processes, and adopt cleaner technolo-
+  gies. From this perspective, adopting GEPs can generate innovation offsets that partially
+
+=====PDFPAGE 4=====
+Phan Discover Sustainability  (2026) 7:848  Page 4 of 17
+
+
+
+
+  or fully offset compliance costs [22], thereby reinforcing the positive link between the
+  adoption of GEPs and firm innovation.
+  Furthermore, Institutional Theory explains the link between GEPs and firm innovation
+  through the lens of institutional pressures and legitimacy. Firms often adopt GEPs in
+  response to coercive pressures (environmental regulations), normative pressures (indus-
+  try standards and professional norms), and mimetic pressures (the imitation of success-
+  ful peers). These drivers encourage firms to redesign internal processes and develop new
+  products. By conforming to these institutional expectations, firms enhance their legiti-
+  macy [23]; ultimately, this compliance-driven adaptation frequently catalyzes increased
+  innovation [24].
+  While extant literature establishes a positive correlation between sustainability initia-
+  tives and innovation outcomes, several critical gaps persist. Primarily, prior research
+  often relies on sustainability proxies, such as formal certifications, which reflect oper-
+  ational and managerial intent rather than the actual adoption of GEPs. For instance
+  [14], demonstrated that firms with CSR engagement, as evidenced by high CSR ratings,
+  possess superior innovative capabilities and higher new product introduction rates.
+  Similarly [15], observed that ISO 14000 certification, denoting the implementation of
+  environmental management systems, significantly augments both innovation inputs and
+  outputs. While these findings suggest that voluntary environmental frameworks can
+  catalyze innovation performance, the reliance on such certifications may overlook the
+  nuances of actual green integration.
+  Second, previous studies have primarily assessed the impact of green practice imple-
+  mentation indirectly through a regulatory lens, leading to inconsistent empirical evi-
+  dence. For example [25], utilized a quasi-natural experiment involving China’s National
+  Specially Monitored Firms program to demonstrate that heightened environmental
+  supervision stimulates innovation, particularly within state-owned enterprises, export-
+  ers, and large-scale firms. In contrast [26], found that China’s Carbon Intensity Con-
+  straint Policy actually suppressed corporate innovation. This inconsistency in prior
+  findings suggests that, although environmental oversight can act as a catalyst for techno-
+  logical progress, rigid regulatory mandates may weaken firms’ incentives to innovate by
+  imposing substantial resource constraints.
+  Third, a significant body of research focuses on domain-specific practices and their
+  respective innovation implications, particularly within energy management, emissions
+  control, and sustainable logistics. Regarding energy efficiency [27], found that firms
+  adopting climate-friendly management practices engage in more intensive climate-
+  related research and development, which facilitates long-term improvements in energy
+  performance. This finding is complemented by the work of [28], who utilized factor anal-
+  ysis and logistic regression on a sample of Danish manufacturing firms. They argue that
+  product innovation and energy efficiency are endogenously determined, suggesting that
+  firms may face strategic trade-offs when simultaneously optimizing these objectives.
+  Closely related to our study, recent empirical evidence examines the nexus between
+  the adoption of green-oriented practices and firm innovation, suggesting that such inte-
+  gration yields significant positive synergies and innovation-related gains. For instance
+  [29], employed partial least squares structural equation modeling to analyze survey data
+  from 3,184 firms. The findings demonstrated that pro-environmental practices are posi-
+  tively associated with green process, product, and organizational innovation. Similarly
+
+=====PDFPAGE 5=====
+Phan Discover Sustainability  (2026) 7:848  Page 5 of 17
+
+
+
+
+  [30], argued that adopting green practices supports firm innovation, particularly when
+  they foster the development of specialized sustainability-oriented capabilities. This
+  empirical evidence supports the perspective that sustainability serves as a transforma-
+  tive catalyst, driving the emergence of novel products and processes that challenge con-
+  ventional industrial paradigms [31].
+  Based on existing theories and empirical evidence, we propose the following
+  hypothesis:
+
+  H1: Firms with greater adoption of GEPs are more likely to engage in innovation activities.
+
+  3 The model and sample
+  3.1 The sample
+  Our dataset is drawn from the WBES, which provides firm-level data from a represen-
+  tative sample of manufacturing and service firms across more than 150 countries. The
+  standardized survey, initiated in 2006, is designed to capture a wide range of firm char-
+  acteristics and indicators of the business environment. In this study, we utilize the Green
+  Economy module, which collects data on firms’ perceptions and practices related to the
+  green economy in selected countries between 2018 and 2023. The original dataset covers
+  46 countries; however, four countries, namely Timor-Leste, Indonesia, Peru, and Bangla-
+  desh, were excluded due to non-standardized questions in this module. One limitation
+  of the WBES is the absence of a consistent panel structure across countries and survey
+  waves, which limits longitudinal analysis and the use of panel-specific econometric tech-
+  niques. Nevertheless, the WBES has been widely employed in recent corporate finance
+  and innovation studies [32–34]. After excluding missing observations, the final sample
+  comprises 18,860 firm-level observations from 42 countries over the 2018–2023 period.
+
+  3.2 Model description
+  Model 1 aims to investigate how the adoption of GEP affects product innovation:
+
+  PRODUCTi,j =β0 + β1−5 GEPi,j + β6 CFLi,j + β7 DEBTi,j
+  + β8 SIZEi,j + β9 FOi,j + β9 LARGEi,j + β9 AGEi,j + β9 SKILLi,j + ϵi (1)
+
+  Model 2 aims to investigate how the adoption of GEP affects process innovation:
+
+  PROCESSi,j =β0 + β1−5 GEPi,j + β6 CFLi,j + β7 DEBTi,j + β8 SIZEi,j
+  + β9 FOi,j + β9 LARGEi,j + β9 AGEi,j + β9 SKILLi,j + ϵi (2)
+
+
+  3.2.1 Dependent variables
+  Firm innovation is proxied by two binary indicators: product innovation (PRODUCT)
+  and process innovation (PROCESS). PRODUCT is derived from the survey ques-
+  tion asking whether the firm introduced a new product or service. PROCESS captures
+  whether the firm introduced a new or significantly improved process.
+
+  3.2.2 Independent variable
+  We construct a GEP index as in [35] to measure the extent of firms’ engagement in GEPs.
+  The index is based on responses to a series of questions in the Green Economy module
+  of the WBES that ask whether the firm has adopted specific measures to reduce its envi-
+  ronmental impact. Ten measurements are requested, namely: (1) Heating and cooling
+
+=====PDFPAGE 6=====
+Phan Discover Sustainability  (2026) 7:848  Page 6 of 17
+
+
+
+
+  improvements; (2) Climate-friendly energy generation on site; (3) Machinery upgrades;
+  (4) Energy management systems; (5) Waste minimization, recycling, and waste manage-
+  ment; (6) Air pollution control measures; (7) Water management measures; (8) Upgrades
+  of vehicles, vessels, or aircraft in the fleet; (9) Improvement of lighting systems; and (10)
+  Other pollution control measures. Each adopted practice is assigned a score of 1, and the
+  index is calculated as the sum of the scores. The maximum possible score is ten, indicat-
+  ing that the firm has implemented all ten measures.
+
+  3.2.3 Control variables
+  The other firm-level control variables include cash flow (CFL), debt (DEBT), and firm
+  size (SIZE). We also account for ownership structure through foreign ownership (FO)
+  and the presence of large shareholders (LARGE). Additionally, we control for firm age
+  (AGE) and human capital, proxied by the proportion of skilled workers (SKILL). Table 1
+  provides detailed descriptions of all variables and their corresponding survey question
+  codes.
+
+  3.3 Methodology
+  We employ logistic regression to examine how the adoption of GEPs influences firm
+  innovation. Logistic regression is an appropriate method when the dependent variable is
+  binary. This model estimates the probability of a firm engaging in innovation as a func-
+  tion of a set of explanatory variables. The predicted values from the logistic regression
+  range between 0 and 1, representing the estimated likelihood of the outcome. In this
+  study, the dependent variable is a binary indicator equal to 1 if the firm engages in inno-
+  vation activities and 0 otherwise. While the raw logistic coefficients represent changes in
+  the log-odds, they are often exponentiated and interpreted as odds ratios: a value greater
+  than 1 indicates that an increase in the independent variable (adopting more GEPs) is
+  associated with higher odds of the firm engaging in innovation. In contrast, a value less
+  than 1 suggests a negative association.
+  We first estimate a baseline model using the composite GEP index to capture the
+  overall intensity of GEP adoption. We then estimate separate regressions for each GEP
+  dimension to examine heterogeneity in the relationship between specific green practices
+  and firm innovation outcomes. Estimating each dimension separately allows us to assess
+  the association between a given practice and innovation without imposing a joint struc-
+  ture across potentially highly correlated practices. This approach mitigates concerns
+  about multicollinearity and facilitates clearer interpretation of the effects of individual
+
+
+  Table 2 Statistical description
+  Variables  Observations  Mean  Standard deviation  Minimum  Maximum
+  PRODUCT  18,860  0.1745  0.3796  0  1
+  PROCESS  18,860  0.0978  0.2971  0  1
+  GEP  18,860  3.6257  3.1189  0  10
+  CFL  18,860  0.9078  0.2892  0  1
+  DEBT  18,860  0.2548  0.4357  0  1
+  SIZE  18,860  3.5823  1.3530  0  9.3398
+  FO  18,860  4.2907  18.7609  0  100
+  LARGE  18,860  82.7647  24.8507  1  100
+  AGE  18,860  2.857436  0.7307  0  5.3083
+  SKILL  18,860  0.4546  0.2976  0  1
+
+=====PDFPAGE 7=====
+Phan Discover Sustainability  (2026) 7:848  Page 7 of 17
+
+
+
+
+  Table 1 Variable description. Source: WBES database
+  Variable name  Abbreviation  Measurement  Survey
+  item
+  Firm innovation
+  Product innovation  PRODUCT  The variable takes a value of one if the firm reports  h1
+  introducing new or services.
+  Process innovation  PROCESS  The variable takes a value of one if the firm reports intro- h5
+  ducing new or significantly improved process
+  GEPs
+  Heating and cooling  GEP1  The variable takes a value of one if the firm reports  BMGc23a
+  improvements  implementing this measurement
+  Climate-friendly  GEP2  The variable takes a value of one if the firm reports  BMGc23b
+  energy generation  implementing this measurement
+  on-site
+  Machinery upgrades  GEP3  The variable takes a value of one if the firm reports  BMGc23c
+  implementing this measurement
+  Energy management  GEP4  The variable takes a value of one if the firm reports  BMGc23d
+  systems  implementing this measurement
+  Waste minimization,  GEP5  The variable takes a value of one if the firm reports  BMGc23e
+  recycling, and waste  implementing this measurement
+  management
+  Air pollution control  GEP6  The variable takes a value of one if the firm reports  BMGc23f
+  measures  implementing this measurement
+  Water management  GEP7  The variable takes a value of one if the firm reports  BMGc23g
+  measures  implementing this measurement
+  Upgrades of vehicles,  GEP8  The variable takes a value of one if the firm reports  BMGc23h
+  vessels, or aircraft in  implementing this measurement
+  the fleet
+  Improvement of light-  GEP9  The variable takes a value of one if the firm reports  BMGc23i
+  ing systems  implementing this measurement
+  Other pollution con-  GEP10  The variable takes a value of one if the firm reports  BMGc23j
+  trol measures  implementing this measurement
+  Green Economy Prac-  GEP  GEP=(GEP1 + GEP2+GEP3 + GEP4+GEP5 + GEP6+GEP7 +
+  tices Index  GEP8+GEP9 + GEP10)
+  Control variables
+  Cash flow  CFL  The variable takes a value of one if the firm reports hav-  k6
+  ing checking and/or saving accounts.
+  Firm debt  DEBT  The variable takes a value of one if the firm reports hav-  k8
+  ing a line of credit or a loan from financial institutions
+  Firm size  SIZE  Firm size is the natural logarithm of number of full-time  l1
+  workers
+  Foreign ownership  FO  Ownership by foreig shareholders  b2b
+  Ownership by large  LARGE  Ownership by large owners  b3
+  shareholders
+  Firm age  AGE  Firm age is calculated as the natural logarithm of the  a14y; b5
+  number of years elapsed from the firm’s founding to the
+  year the survey was conducted.
+  Human capital  SKILL  The ratio of skilled workers to total employment, where  l4a1; l4a;
+  total employment is defined as the sum of skilled, semi-  l4a2; l4b
+  skilled, and unskilled workers.
+
+  practices. All specifications incorporate country, year, and industry fixed effects to
+  control for unobserved heterogeneity and common shocks. In all regressions, statisti-
+  cal inference is based on robust standard errors clustered by country. Additionally, as
+  a robustness check, we re-estimate the models after excluding firms from India, which
+  accounts for 39.69% of the sample, to ensure the overrepresentation of a single country
+  does not drive the results.
+
+=====PDFPAGE 8=====
+Phan Discover Sustainability  (2026) 7:848  Page 8 of 17
+
+
+
+
+  4 Results and discussion
+  4.1 Statistical description
+  Table 2 presents the descriptive statistics for all variables. On average, 17.45% of firms
+  reported introducing a product innovation, while 9.78% engaged in process innovation.
+  The GEP index ranges from 0 to 10, indicating a wide range of adoption, from firms with
+  no green engagement to those implementing all 10 practices. The mean value of CFL is
+  0.9078, indicating that 90.78% of firms report having a checking and/or savings account.
+  In terms of DEBT, 25.48% of firms report having a loan from a financial institution or
+  an active line of credit. FO has a mean of 4.29%, while LARGE averages 82.76%. Finally,
+  SKILL has a mean of 0.4546, suggesting that 45.46% of the workforce consists of high-
+  skilled workers.
+  Table 3 presents the distribution of observations by country. The dataset comprises
+  18,860 observations across 42 countries. India accounts for the largest share, with 7,486
+  observations (39.69%), followed by Egypt with 1,491 observations (7.91%). In contrast,
+  the smallest shares are observed for Kosovo (47 observations; 0.25%) and Montenegro
+  (55 observations; 0.29%).
+  Table 4 shows the distribution of the sample by GEP score. A significant proportion of
+  firms (23.54%) have not adopted any GEPs (score = 0). Nearly half of the sample (46.83%)
+  adopted between one and five practices, indicating partial engagement rather than com-
+  prehensive implementation. In contrast, only 1.26% of firms adopted all ten practices,
+  demonstrating that full-scale green transformation remains limited across the surveyed
+  countries.
+  Table 5 shows that the adoption rates of GEPs vary significantly across firms, ranging
+  from 7.99% to 53.68%. The most widely adopted practices are those that offer direct cost
+
+  Table 3 Data distribution by country
+  Order Country  Observations Percentage  Order Country  Observations Percentage
+  1  Jordan  131  0.69  22  Mongolia  114  0.60
+  2  West Bank  103  0.55  23  Estonia  79  0.42
+  and Gaza
+  3  Morocco  195  1.03  24  Kosovo  47  0.25
+  4  Albania  107  0.57  25  Czech  234  1.24
+  5  Belarus  304  1.61  26  Hungary  443  2.35
+  6  Georgia  127  0.67  27  Latvia  86  0.46
+  7  Tajikistan  66  0.35  28  Lithuania  102  0.54
+  8  Turkey  803  4.26  29  Slovak  164  0.87
+  9  Ukraine  740  3.92  30  Slovenia  130  0.69
+  10  Uzbekistan  628  3.33  31  Bulgaria  306  1.62
+  11  Russia  611  3.24  32  Croatia  144  0.76
+  12  Poland  567  3.01  33  Montenegro  54  0.29
+  13  Romania  334  1.77  34  Egypt  1,491  7.91
+  14  Serbia  82  0.43  35  Greece  264  1.4
+  15  Kazakhstan  694  3.68  36  Portugal  684  3.63
+  16  Moldova  65  0.34  37  Lebanon  236  1.25
+  17  Bosnia and  61  0.32  38  India  7,486  39.69
+  Herzegovina
+  18  Azerbaijan  32  0.17  39  Tunisia  214  1.13
+  19  Macedonia  81  0.43  40  Cyprus  70  0.37
+  20  Armenia  179  0.95  41  Italy  420  2.23
+  21  Kyrgyz  113  0.60  42  Malta  69  0.37
+  Republic
+
+=====PDFPAGE 9=====
+Phan Discover Sustainability  (2026) 7:848  Page 9 of 17
+
+
+
+
+  Table 4 Data distribution by GEPs
+  GEP score  Observation  Percentage
+  0  4,440  23.54
+  1  1,981  10.5
+  2  1,944  10.31
+  3  1,807  9.58
+  4  1,607  8.52
+  5  1,494  7.92
+  6  1,216  6.45
+  7  1,260  6.68
+  8  1,161  6.16
+  9  1,712  9.08
+  10  238  1.26
+  Total  18,860  100.00
+
+
+
+  Table 5 Adoption of GEPs
+  Index  GEPs  Adoption rate (%)
+  GEP1  Heating and cooling improvements  41.72
+  GEP2  Climate-friendly energy generation on site  7.99
+  GEP3  Machinery upgrades  49.95
+  GEP4  Energy management systems  41.15
+  GEP5  Waste minimization, recycling, and waste management  44.36
+  GEP6  Air pollution control measures  28.94
+  GEP7  Water management measures  33.01
+  GEP8  Upgrades of vehicles, vessels, or aircraft in the fleet  35.55
+  GEP9  Improvement of lighting systems  53.68
+  GEP10  Other pollution control measures  26.21
+
+  savings or efficiency benefits, such as lighting system improvements (53.68%), machin-
+  ery upgrades (49.95%), waste minimization and recycling (44.36%), heating and cool-
+  ing improvements (41.72%), and energy management systems (41.15%). Conversely, the
+  least frequently adopted practice is climate-friendly energy generation on site (7.99%),
+  suggesting that capital-intensive investments remain nascent. This low adoption rate is
+  likely attributable to high upfront costs or a lack of internal technical capacity.
+
+  4.2 Results and discussion
+  4.2.1 Baseline results
+  Table 6 reports the odds ratios from logistic regression models examining the relation-
+  ship between the GEP index and firm innovation outcomes. The estimates indicate that
+  the GEP index is positively and significantly associated with innovation. Specifically, a
+  one-unit increase in the GEP index, representing the adoption of one additional GEP, is
+  associated with significantly higher odds of both product innovation (odds ratio = 1.157,
+  p < 0.01) and process innovation (odds ratio = 1.194, p < 0.01). In percentage terms, the
+  adoption of an additional GEP is associated with an increase of 15.7% and 19.4% in the
+  odds of product and process innovation, respectively. Several underlying mechanisms
+  can explain the positive relationship. The adoption of GEPs encourages firms to use
+  energy, materials, and water more efficiently, prompting them to redesign production
+  systems, implement cleaner technologies, and optimize resource flows to reduce waste
+  and emissions [36, 37]. At the same time, firms may develop new eco-efficient products
+  that consume fewer resources and generate lower environmental impacts in response to
+
+=====PDFPAGE 10=====
+Phan Discover Sustainability  (2026) 7:848  Page 10 of 17
+
+
+
+
+  Table 6 The GEP index and firm innovation
+  Variables  Product  PROCESS
+  Odds ratio  z-statistics  Odds ratio  z-statistics
+  GEP  1.157***  (5.880)  1.194***  (8.885)
+  CFL  1.264  (1.096)  1.640  (1.864)
+  DEBT  1.440***  (3.881)  1.946***  (4.913)
+  SIZE  1.077*  (2.446)  1.053  (1.602)
+  FO  1.000  (−0.389)  1.000  (0.290)
+  LARGE  0.997**  (−2.736)  0.998  (−1.561)
+  AGE  1.018  (0.564)  0.946  (−1.133)
+  SKILL  1.117  (1.174)  0.955  (−0.328)
+  Observations  18,860
+  z-statistics based on robust standard errors clustered at the country level are reported in parentheses. ***, **, and * denote
+  statistical significance at the 1%, 5%, and 10% levels, respectively. All models include country, year, and industry fixed
+  effects
+
+
+  growing regulatory requirements and market demand for sustainable goods [38]. More-
+  over, green product standards and certifications motivate firms to develop innovative,
+  compliant products, thereby strengthening their competitive position [39]. These find-
+  ings suggest that the adoption of GEPs should not be viewed as a compliance-driven
+  response to environmental regulations, but rather as a strategic mechanism through
+  which firms can strengthen their innovative capabilities.
+  From a theoretical perspective, the findings provide empirical support for Institutional
+  Theory by showing that firms adopt GEPs not only in response to regulatory pressures
+  but also to gain legitimacy among international stakeholders, customers, and indus-
+  try peers. This legitimacy-seeking behavior encourages isomorphic learning, whereby
+  standardized green practices, such as waste and energy management, facilitate organi-
+  zational renewal and innovation. The results also align with the Porter Hypothesis, sug-
+  gesting that environmental practices can stimulate innovation by improving efficiency
+  and encouraging process redesign and cleaner technologies. In addition, the evidence is
+  consistent with the Resource-Based View, indicating that investments in green physical
+  capital, including machinery upgrades and energy-efficient systems, are closely associ-
+  ated with higher probabilities of product and process innovation, reflecting incremental
+  learning and technological upgrading.
+  Importantly, the cumulative effect captured by the GEP index suggests significant com-
+  plementarities among diverse green practices. Rather than acting in isolation, multiple
+  environmental initiatives may mutually reinforce one another, creating synergies across
+  production cycles, energy consumption patterns, and environmental management sys-
+  tems. Such internal complementarities can enhance absorptive capacity and facilitate
+  the cross-functional diffusion of knowledge, thereby increasing the likelihood of innova-
+  tion. This finding provides a robust explanation for why firms adopting a broader, inte-
+  grated suite of green practices tend to achieve superior innovation outcomes compared
+  to those implementing isolated or fragmented measures.
+  These results also contribute to the empirical literature by extending existing stud-
+  ies that have focused primarily on environmental or sustainability performance [13], or
+  that have relied on proxy measures such as CSR ratings or environmental certifications
+  [14, 15]. Moreover, the cross-country nature of the dataset suggests that the innovation-
+  enhancing effects of GEP adoption are not idiosyncratic to a particular institutional or
+
+=====PDFPAGE 11=====
+Phan Discover Sustainability  (2026) 7:848  Page 11 of 17
+
+
+
+
+  economic context. Instead, they reflect a pervasive mechanism that enables environ-
+  mental practices to foster innovation across diverse global settings.
+  Regarding the control variables, DEBT significantly and positively affects both product
+  and process innovation, suggesting that external financing provides the capital necessary
+  to fund innovative activities. Specifically, firms securing a new credit line or loan are
+  associated with a 44.0% and 94.6% increase in the odds of product and process innova-
+  tion, respectively. SIZE and LARGE have significant effects on product innovation; how-
+  ever, they are statistically insignificant for process innovation. Specifically, a one-unit
+  increase in firm size is associated with a 7.7% increase in the odds of product innovation.
+  Conversely, higher ownership concentration by large shareholders is associated with a
+  slight decrease in the odds of product innovation. Other factors, including CFL, AGE,
+  FO, and SKILL, do not demonstrate significant effects within this specification.
+
+  4.2.2 Several dimensions of GEPs
+  In this subsection, we estimate separate regressions for each GEP dimension to exam-
+  ine the heterogeneous associations between specific green practices and firm innova-
+  tion outcomes. Tables 7 and 8 present the logistic regression results for the individual
+  dimensions of GEPs on product and process innovation, respectively. The results reveal
+  that all ten dimensions positively and significantly influence the likelihood of introduc-
+  ing both types of innovation. This uniform significance suggests that whether a practice
+  is operational (e.g., improvements in lighting systems or machinery upgrades) or capital-
+  intensive (e.g., climate-friendly energy generation), the adoption of green measures con-
+  sistently serves as a catalyst for broader firm-level innovation.
+  Among these dimensions, machinery upgrades exhibit the most pronounced effect:
+  adopting this practice increases the odds of product innovation by 2.419 and process
+  innovation by 2.794. These results suggest that firms implementing machinery upgrades
+  have 141.9% and 179.4% higher odds of introducing product and process innovations,
+
+  Table 7 The adoption of GEPs and product
+  GEP1  GEP2  GEP3  GEP4  GEP5  GEP6  GEP7  GEP8  GEP9  GEP10
+  GEP  1.702***  1.594***  2.419***  1.718***  1.840***  1.480***  1.515***  1.700***  1.644***  1.528***
+  (4.994)  (5.649)  (11.602)  (4.144)  (5.489)  (5.373)  (3.981)  (6.473)  (3.747)  (5.771)
+  CFL  1.250  1.308  1.193  1.281  1.269  1.314  1.296  1.281  1.240  1.333
+  (1.090)  (1.369)  (0.906)  (1.230)  (1.162)  (1.354)  (1.305)  (1.267)  (1.075)  (1.406)
+  DEBT  1.516***  1.546***  1.438***  1.520***  1.514***  1.540***  1.539***  1.504***  1.524***  1.545***
+  (4.360)  (4.759)  (3.861)  (4.499)  (4.712)  (4.864)  (4.744)  (4.353)  (4.371)  (4.966)
+  SIZE  1.132***  1.146***  1.113**  1.129***  1.135***  1.146***  1.143***  1.133***  1.144***  1.152***
+  (3.731)  (3.897)  (3.086)  (3.876)  (3.397)  (3.723)  (3.974)  (3.472)  (3.881)  (3.990)
+  FO  1.000  1.000  1.000  1.000  1.000  1.000  1.000  1.000  1.000  1.000
+  (0.012)  (0.131)  (−0.102)  (−0.149)  (−0.091)  (0.009)  (−0.046)  (0.283)  (0.027)  (0.111)
+  LARGE  0.997**  0.997**  0.997**  0.997**  0.998*  0.997**  0.997**  0.997**  0.997**  0.997**
+  (−2.789)  (−2.884)  (−2.837)  (−2.894)  (−2.572)  (−2.905)  (−2.981)  (−2.750)  (−2.756)  (−2.928)
+  AGE  1.030  1.031  1.036  1.019  1.032  1.024  1.026  1.036  1.029  1.030
+  (0.936)  (1.035)  (1.103)  (0.663)  (1.024)  (0.827)  (0.864)  (1.101)  (0.979)  (0.995)
+  SKILL  1.103  1.088  1.137  1.110  1.125  1.104  1.107  1.122  1.114  1.096
+  (0.983)  (0.885)  (1.336)  (1.095)  (1.177)  (1.024)  (1.001)  (1.158)  (1.071)  (0.959)
+  Observa-  18860  18860  18860  18860  18860  18860  18860  18860  18860  18860
+  tions
+  z-statistics based on robust standard errors clustered at the country level are reported in parentheses. ***, **, and * denote
+  statistical significance at the 1%, 5%, and 10% levels, respectively. All models include country, year, and industry fixed
+  effects
+
+=====PDFPAGE 12=====
+Phan Discover Sustainability  (2026) 7:848  Page 12 of 17
+
+
+
+
+  Table 8 The adoption of GEPs and process
+  GEP1  GEP2  GEP3  GEP4  GEP5  GEP6  GEP7  GEP8  GEP9  GEP10
+  GEP  1.725***  1.830***  2.794***  1.909***  2.012***  1.791***  1.632***  2.158***  1.780***  1.900***
+  (5.521)  (5.690)  (11.221)  (5.879)  (7.285)  (8.066)  (5.781)  (9.997)  (4.453)  (7.212)
+  CFL  1.578*  1.665*  1.514  1.610*  1.616*  1.680*  1.637*  1.634*  1.572*  1.725*
+  (2.054)  (2.461)  (1.823)  (2.068)  (2.047)  (2.293)  (2.256)  (2.159)  (2.007)  (2.273)
+  DEBT  2.057***  2.091***  1.942***  2.061***  2.045***  2.074***  2.087***  2.014***  2.073***  2.088***
+  (5.062)  (5.292)  (4.678)  (5.277)  (5.370)  (5.578)  (5.444)  (4.958)  (5.146)  (5.614)
+  SIZE  1.130***  1.139***  1.110**  1.120***  1.128***  1.132***  1.136***  1.118**  1.140***  1.138***
+  (3.444)  (3.802)  (2.946)  (3.397)  (3.297)  (3.366)  (3.603)  (3.011)  (3.629)  (3.637)
+  FO  1.001  1.001  1.001  1.001  1.001  1.001  1.001  1.001  1.001  1.001
+  (0.879)  (0.986)  (0.677)  (0.533)  (0.653)  (0.662)  (0.690)  (1.209)  (0.856)  (0.843)
+  LARGE  0.998  0.998  0.998  0.998  0.998  0.998  0.998  0.998  0.998  0.998
+  (−1.584)  (−1.616)  (−1.752)  (−1.582)  (−1.299)  (−1.614)  (−1.640)  (−1.597)  (−1.572)  (−1.666)
+  AGE  0.961  0.963  0.971  0.951  0.964  0.953  0.958  0.966  0.962  0.961
+  (−0.847)  (−0.749)  (−0.624)  (−1.043)  (−0.759)  (−0.997)  (−0.896)  (−0.723)  (−0.831)  (−0.815)
+  SKILL  0.935  0.917  0.969  0.944  0.948  0.933  0.927  0.944  0.947  0.919
+  (−0.481)  (−0.657)  (−0.221)  (−0.420)  (−0.403)  (−0.526)  (−0.584)  (−0.442)  (−0.402)  (−0.646)
+  Observa-  18860  18860  18860  18860  18860  18860  18860  18860  18860  18860
+  tions
+  z-statistics based on robust standard errors clustered at the country level are reported in parentheses. ***, **, and * denote
+  statistical significance at the 1%, 5%, and 10% levels, respectively. All models include country, year, and industry fixed
+  effects
+
+
+
+  Table 9 The GEP index and firm innovation, excluding India
+  Variables  Product  Process
+  Odds ratio  z-statistics  Odds ratio  z-statistics
+  GEP  1.185***  (10.411)  1.214***  (13.655)
+  CFL  1.615***  (4.572)  2.061***  (3.773)
+  DEBT  1.337***  (4.037)  1.728***  (6.486)
+  SIZE  1.089**  (2.637)  1.065  (1.798)
+  FO  0.999  (−1.108)  1.000  (−0.336)
+  LARGE  0.997**  (−2.773)  0.998  (−1.360)
+  AGE  1.023  (0.666)  0.950  (−0.951)
+  SKILL  1.155  (1.506)  0.992  (−0.055)
+  Observations  11374  11,217
+  z-statistics based on robust standard errors clustered at the country level are reported in parentheses. ***, **, and * denote
+  statistical significance at the 1%, 5%, and 10% levels, respectively. All models include country, year, and industry fixed
+  effects
+
+
+  respectively, than non-adopters. For product innovation, other practices yield odds
+  ratios ranging from 1.515 to 1.840, indicating that adopting any single practice is associ-
+  ated with a 51.5% to 84.0% increase in the likelihood of innovation. Similarly, for process
+  innovation, other practices yield odds ratios ranging from 1.632 to 2.158, representing a
+  63.2% to 115.8% increase in the odds of implementation.
+
+  4.2.3 Robustness checks
+  In this subsection, we address potential selection bias stemming from the disproportion-
+  ate representation of Indian firms, which comprise 39.69% of the total sample. To ensure
+  the results are not driven by sample composition or country-specific factors, we perform
+  robustness checks by excluding Indian firms from the analysis. The findings remain con-
+  sistent: the adoption of GEPs significantly stimulates firm innovation (Tables 9, 10 and
+  11).
+
+=====PDFPAGE 13=====
+Phan Discover Sustainability  (2026) 7:848  Page 13 of 17
+
+
+
+
+  Table 10 The adoption of GEPs and product, excluding India
+  GEP1  GEP2  GEP3  GEP4  GEP5  GEP6  GEP7  GEP8  GEP9  GEP10
+  GEP  1.885***  1.565***  2.516***  1.941***  1.944***  1.535***  1.646***  1.797***  1.849***  1.577***
+  (9.859)  (5.356)  (11.848)  (7.671)  (5.928)  (5.361)  (5.336)  (7.537)  (6.791)  (5.188)
+  CFL  1.567***  1.606**  1.482**  1.604***  1.589***  1.632***  1.608***  1.587***  1.550***  1.661***
+  (3.318)  (3.123)  (3.287)  (3.916)  (3.547)  (3.529)  (3.552)  (3.591)  (3.392)  (3.753)
+  DEBT  1.406***  1.441***  1.337***  1.412***  1.413***  1.440***  1.435***  1.396***  1.412***  1.448***
+  (4.644)  (5.155)  (3.957)  (4.898)  (5.117)  (5.180)  (5.140)  (4.700)  (4.637)  (5.236)
+  SIZE  1.156***  1.178***  1.141***  1.150***  1.164***  1.175***  1.169***  1.163***  1.172***  1.181***
+  (4.689)  (5.488)  (4.407)  (4.594)  (4.551)  (4.871)  (5.080)  (4.768)  (5.008)  (5.281)
+  FO  0.999  1.000  0.999  0.999  0.999  0.999  0.999  1.000  0.999  1.000
+  (−0.619)  (−0.411)  (−0.727)  (−0.827)  (−0.733)  (−0.585)  (−0.703)  (−0.286)  (−0.628)  (−0.441)
+  LARGE  0.997**  0.997**  0.997**  0.997**  0.997*  0.997**  0.997**  0.997**  0.997**  0.997**
+  (−2.986)  (−3.015)  (−2.989)  (−2.907)  (−2.560)  (−3.028)  (−3.054)  (−2.855)  (−2.857)  (−3.070)
+  AGE  1.035  1.040  1.045  1.024  1.039  1.031  1.032  1.045  1.037  1.039
+  (0.982)  (1.227)  (1.276)  (0.739)  (1.156)  (0.966)  (0.972)  (1.243)  (1.125)  (1.193)
+  SKILL  1.151  1.122  1.181  1.152  1.163  1.135  1.146  1.165  1.160  1.118
+  (1.407)  (1.159)  (1.732)  (1.479)  (1.452)  (1.255)  (1.304)  (1.518)  (1.468)  (1.087)
+  Oberva-  11374  11374  11374  11374  11,374  11374  11374  11374  11374  11374
+  tions
+  z-statistics based on robust standard errors clustered at the country level are reported in parentheses. ***, **, and * denote
+  statistical significance at the 1%, 5%, and 10% levels, respectively. All models include country, year, and industry fixed
+  effects
+
+
+
+  Table 11 The adoption of GEPs and product, excluding India
+  GEP1  GEP2  GEP3  GEP4  GEP5  GEP6  GEP7  GEP8  GEP9  GEP10
+  GEP  1.839***  1.821***  2.922***  2.072***  2.056***  1.784***  1.718***  2.247***  1.974***  1.953***
+  (6.753)  (5.597)  (11.724)  (8.021)  (6.844)  (6.807)  (6.669)  (10.589)  (6.660)  (6.605)
+  CFL  1.923***  1.983***  1.834***  1.962***  1.973***  2.033***  1.976***  1.978***  1.922***  2.106***
+  (3.989)  (4.111)  (3.490)  (3.877)  (3.876)  (4.118)  (4.077)  (3.874)  (3.973)  (3.995)
+  DEBT  1.817***  1.848***  1.715***  1.825***  1.817***  1.850***  1.853***  1.774***  1.828***  1.866***
+  (6.691)  (7.429)  (6.084)  (7.289)  (7.465)  (7.581)  (7.581)  (6.905)  (6.950)  (7.383)
+  SIZE  1.154***  1.166***  1.136***  1.141***  1.157***  1.160***  1.160***  1.146***  1.165***  1.163***
+  (4.236)  (4.955)  (3.927)  (3.981)  (4.415)  (4.404)  (4.383)  (4.064)  (4.423)  (4.455)
+  FO  1.000  1.000  1.000  1.000  1.000  1.000  1.000  1.001  1.000  1.000
+  (0.326)  (0.475)  (0.101)  (−0.071)  (0.085)  (0.122)  (0.112)  (0.694)  (0.287)  (0.326)
+  LARGE  0.998  0.998  0.998  0.998  0.998  0.998  0.998  0.998  0.998  0.998
+  (−1.410)  (−1.391)  (−1.558)  (−1.339)  (−1.073)  (−1.401)  (−1.410)  (−1.398)  (−1.373)  (−1.467)
+  AGE  0.964  0.969  0.977  0.955  0.968  0.958  0.963  0.972  0.967  0.968
+  (−0.716)  (−0.571)  (−0.457)  (−0.882)  (−0.605)  (−0.810)  (−0.731)  (−0.557)  (−0.663)  (−0.614)
+  SKILL  0.981  0.951  1.011  0.986  0.983  0.963  0.965  0.984  0.994  0.938
+  (−0.136)  (−0.364)  (0.078)  (−0.097)  (−0.123)  (−0.276)  (−0.270)  (−0.119)  (−0.041)  (−0.461)
+  Observa-  11217  11217  11217  11217  11217  11217  11217  11217  11217  11217
+  tions
+  z-statistics based on robust standard errors clustered at the country level are reported in parentheses. ***, **, and * denote
+  statistical significance at the 1%, 5%, and 10% levels, respectively. All models include country, year, and industry fixed
+  effects
+
+
+  5 Conclusion and implications
+  This study investigates the impact of GEP adoption on firm-level product and process
+  innovation. Using a WBES dataset of 18,860 observations, a composite GEP index was
+  constructed using data from the Green Economy module. The logistic regression results
+  indicate that firms that implement more green practices are more likely to engage in
+  both product and process innovation. Further analysis of the ten individual dimensions
+  of GEPs, including (1) heating and cooling improvements; (2) climate-friendly on-site
+
+=====PDFPAGE 14=====
+Phan Discover Sustainability  (2026) 7:848  Page 14 of 17
+
+
+
+
+  energy generation; (3) machinery upgrades; (4) energy management systems; (5) waste
+  minimization, recycling, and management; (6) air pollution control; (7) water manage-
+  ment; (8) fleet upgrades (vehicles, vessels, or aircraft); (9) lighting system improvements;
+  and (10) other pollution control measures, reveals that each dimension is positively
+  associated with firm innovation. Based on these results, several implications are pro-
+  posed below.
+
+  5.1 Theoretical implications
+  This study contributes to the literature by linking environmental management and inno-
+  vation from three theoretical perspectives: Institutional Theory, the Resource-Based
+  View, and the Porter Hypothesis. First, the findings provide empirical support for Insti-
+  tutional Theory. Previous studies often suggest that firms may adopt green practices as
+  symbolic actions to satisfy regulators or external stakeholders. However, our results indi-
+  cate that firms respond to regulatory and social pressures through substantive organiza-
+  tional changes that make them more likely to engage in innovation. This result suggests
+  that conformity to environmental expectations does not necessarily weaken competi-
+  tiveness. Instead, complying with green standards can serve as a foundation for improv-
+  ing internal processes and developing new capabilities. In this way, the study offers a
+  more nuanced understanding of how institutional pressures can contribute to firm-level
+  innovation.
+  Second, our results extend the Resource-Based View by showing that GEPs are more
+  than just operational costs; they are a source of valuable organizational capabilities.
+  While the initial investment often involves physical capital, such as machinery and
+  energy systems, the real value lies in the technical knowledge and improved routines that
+  firms develop during the implementation process. These firm-specific strengths may be
+  difficult for competitors to replicate. Our study confirms that these practices should be
+  viewed as strategic resources that enhance efficiency and directly support long-term
+  product and process innovation.
+  Third, the findings provide support for the strong version of the Porter Hypothesis. By
+  examining a wide range of green practices, we show that environmental initiatives can
+  lead to innovation offsets. Instead of being a permanent financial drain, activities like
+  redesigning processes or upgrading technology help firms become more efficient over
+  time. Our study demonstrates that environmental responsibility is not a burden; rather,
+  it acts as a driver for long-term competitiveness. This shifts the focus away from a win-
+  lose trade-off and toward a win-win scenario, where green standards encourage, rather
+  than hinder, technological creativity.
+
+  5.2 Managerial and policy implications
+  5.2.1 Managerial implications
+  The findings of this study offer several important implications for managers seek-
+  ing to enhance innovation through environmental initiatives. First, the positive asso-
+  ciation between GEP adoption and both product and process innovation suggests that
+  green practices should not be viewed merely as regulatory compliance or cost burdens.
+  Instead, managers can approach environmental initiatives as strategic investments that
+  stimulate technological upgrading. Firms that systematically adopt a broader portfolio of
+
+=====PDFPAGE 15=====
+Phan Discover Sustainability  (2026) 7:848  Page 15 of 17
+
+
+
+
+  green practices are more likely to enhance their innovative capacity, indicating that envi-
+  ronmental strategy can serve as a catalyst for competitive differentiation.
+  Second, the results show that each of the ten individual dimensions of GEPs is posi-
+  tively linked to innovation outcomes. This implies that managers do not need to rely on
+  a single flagship initiative to generate innovative benefits. Operational improvements,
+  such as heating and cooling upgrades, lighting system modernization, waste manage-
+  ment systems, or energy management tools, can individually contribute to innovation.
+  Therefore, managers may pursue incremental and modular green investments that fit
+  their resource constraints while still generating innovation-enhancing effects.
+
+  5.2.2 Policy implications
+  The findings of this study also suggest several important implications for policymakers
+  aiming to promote sustainable development and innovation-led growth. First, the posi-
+  tive relationship between GEP adoption and both product and process innovation sug-
+  gests that environmental policies can yield dual benefits: environmental improvement
+  and technological advancement. Rather than imposing excessive compliance burdens,
+  well-designed environmental regulations may stimulate firms to modernize production
+  systems and introduce innovative products. Policymakers should therefore view green
+  regulations not only as environmental protection instruments but also as mechanisms to
+  enhance national innovation capacity.
+  Second, because the adoption of multiple green practices appears to strengthen inno-
+  vation outcomes, policymakers should design integrated policy frameworks rather than
+  fragmented initiatives. Coordinated measures, combining environmental standards,
+  green financing schemes, R&D subsidies, and technical advisory programs, can encour-
+  age firms to adopt complementary green practices and build long-term capabilities.
+  Such systemic support is particularly important for small and medium-sized enterprises
+  that may face resource constraints.
+
+  5.3 Limitations and future research
+  Despite the significant insights, this study is subject to several limitations that pave
+  the way for future research. First, while the GEP index and its ten dimensions cap-
+  ture various aspects of green practices, they may not fully reflect the intensity, quality,
+  or effectiveness of implementation within firms. The current measures primarily indi-
+  cate whether specific practices have been adopted, but they do not capture the depth of
+  integration or the level of managerial commitment underlying these initiatives. Future
+  research could rely on in-depth interviews or case studies to examine how firms inter-
+  nally execute GEPs, thereby providing a more nuanced understanding of capability
+  development.
+  Second, this study relies on cross-sectional data, which limits the ability to observe
+  how the relationship between GEPs and innovation evolves over time. Because green
+  investments and innovation outcomes rarely occur simultaneously, establishing a clear
+  cause-and-effect relationship remains challenging. Future research should prioritize
+  longitudinal designs to track the long-term development of green capabilities. Such
+  approaches would help identify potential time-lag effects and clarify the period between
+  the initial adoption of green practices and the realization of innovation benefits.
+
+=====PDFPAGE 16=====
+Phan Discover Sustainability  (2026) 7:848  Page 16 of 17
+
+
+
+
+  Third, while the cross-country evidence provides a broad overview, it may not fully
+  capture how national institutional environments influence the relationship between
+  GEPs and innovation. National programs, such as carbon pricing mechanisms or green
+  R&D grants, vary significantly across countries and can act as important moderating fac-
+  tors. Future research should examine these country-specific policies to determine how
+  the regulatory framework in a firm’s home country strengthens or weakens the impact
+  of GEPs on innovation outcomes. This would provide a more detailed understanding of
+  how government support interacts with firm-level green initiatives.
+  Acknowledgements
+  We thank the Enterprise Analysis Unit of the Development Economics Global Indicators Group of the World Bank for the
+  data.
+  Author contributions
+  Quynh Trang Phan was responsible for the conceptualization, data collection, analysis, and writing of the manuscript, as
+  well as the preparation of all figures and tables. The author reviewed and approved the final version of the manuscript.
+  Funding
+  No Funding.
+  Data availability
+  The data that support the findings of this study are available at [https://www.enterprisesurveys.org/en/data].
+
+
+  Declarations
+  Ethics approval and consent to participate
+  Not Applicable.
+  Competing interests
+  The authors declare no competing interests.
+  Consent for publication
+  Not Applicable.
+  Clinical trial number
+  Not Applicable.
+
+  Received: 24 December 2025 / Accepted: 6 April 2026
+
+
+
+
+  References
+  1. Vedanarayanan V, Vibhakar C, Sujaatha A, Chavda JK, Karthik M, Pramila PV, et al. Utilization of sustainable resources for
+  promoting energy efficiency in environment using smart technologies. Int J Photoenergy. 2022;2022:6711300. ​h​t​t​p​s​:​/​/​d​o​i​.​
+  o​r​g​/​1​0​.​1​1​5​5​/​2​0​2​2​/​6​7​1​1​3​0​0​​​​.​​​
+  2. Ngowi AB. Creating competitive advantage by using environment-friendly building processes. Build Environ. 2001;36:291–
+  8. ​h​t​t​p​s​:​​/​/​d​o​i​​.​o​r​g​/​1​​0​.​1​0​​1​6​/​S​0​3​6​0​-​1​3​2​3​(​0​0​)​0​0​0​0​6​-​8.
+  3. Pons M, Bikfalvi A, Llach J, Palcic I. Exploring the impact of energy efficiency technologies on manufacturing firm perfor-
+  mance. J Clean Prod. 2013;52:134–44. ​h​t​t​p​s​:​​/​/​d​o​i​​.​o​r​g​/​1​​0​.​1​0​​1​6​/​j​.​​j​c​l​e​p​​r​o​.​2​0​1​​3​.​0​3​​.​0​1​1.
+  4. Baah C, Agyabeng-Mensah Y, Afum E, Mncwango MS. Do green legitimacy and regulatory stakeholder demands stimulate
+  corporate social and environmental responsibilities, environmental and financial performance? Evidence from an emerg-
+  ing economy. Manage Environ Quality: Int J. 2021;32:787–803. https://doi.org/10.1108/MEQ-10-2020-0225.
+  5. Agazu BG, Kero CA. Innovation strategy and firm competitiveness: a systematic literature review. J Innov Entrep.
+  2024;13:24. https://doi.org/10.1186/s13731-024-00381-9.
+  6. Spescha A, Woerter M. Innovation and firm growth over the business cycle. Ind Innov Routledge. 2019;26:321–47. ​h​t​t​p​s​:​​/​/​
+  d​o​i​​.​o​r​g​/​1​​0​.​1​0​​8​0​/​1​3​​6​6​2​7​1​​6​.​2​0​1​8​​.​1​4​3​​1​5​2​3.
+  7. Demirkan I. The impact of firm resources on innovation. Eur J Innov Manage. 2018;21:672–94. ​h​t​t​p​s​:​/​/​d​o​i​.​o​r​g​/​1​0​.​1​1​0​8​/​E​J​I​
+  M​-​1​2​-​2​0​1​7​-​0​1​9​6​​​​.​​​
+  8. Jia N, Huang KG, Man Zhang C. Public governance, corporate governance, and firm innovation: an examination of state-
+  owned enterprises. AMJ Acad Manage. 2019;62:220–47. https://doi.org/10.5465/amj.2016.0543.
+  9. Sheikh S. The impact of market competition on the relation between CEO power and firm innovation. J Multinatl Financial
+  Manag. 2018;44:36–50. https://doi.org/10.1016/j.mulfin.2018.01.003.
+  10. Kawabata MK, Camargo Junior AS. Innovation and institutions’ quality: a comparative study between countries. Int J Innov
+  Sci. 2020;12:169–85. https://doi.org/10.1108/IJIS-10-2019-0100.
+  11. Huang X, Hu Z, Liu C, Yu D, Yu L. The relationships between regulatory and customer pressure, green organizational
+  responses, and green innovation performance. J Clean Prod. 2016;112:3423–33. ​h​t​t​p​s​:​​/​/​d​o​i​​.​o​r​g​/​1​​0​.​1​0​​1​6​/​j​.​​j​c​l​e​p​​r​o​.​2​0​1​​5​.​1​0​​.​1​
+  0​6.
+  12. Lee JW, Kim YM, Kim YE. Antecedents of adopting corporate environmental responsibility and green practices. J Bus Ethics.
+  2018;148:397–409. https://doi.org/10.1007/s10551-016-3024-y.
+
+=====PDFPAGE 17=====
+Phan Discover Sustainability  (2026) 7:848  Page 17 of 17
+
+
+
+
+  13. Yang Q, Du Q, Razzaq A, Shang Y. How volatility in green financing, clean energy, and green economic practices derive
+  sustainable performance through ESG indicators? A sectoral study of G7 countries. Resour Policy. 2022;75:102526. ​h​t​t​p​s​:​​/​/​
+  d​o​i​​.​o​r​g​/​1​​0​.​1​0​​1​6​/​j​.​​r​e​s​o​u​​r​p​o​l​.​2​​0​2​1​.​​1​0​2​5​2​6.
+  14. Luo X, Du S. Exploring the relationship between corporate social responsibility and firm innovation. Mark Lett.
+  2015;26:703–14. https://doi.org/10.1007/s11002-014-9302-5.
+  15. Bu M, Qiao Z, Liu B. Voluntary environmental regulation and firm innovation in China. Econ Model. 2020;89:10–8. ​h​t​t​p​s​:​​/​/​d​
+  o​i​​.​o​r​g​/​1​​0​.​1​0​​1​6​/​j​.​​e​c​o​n​m​​o​d​.​2​0​1​​9​.​1​2​​.​0​2​0.
+  16. Chapple K, Kroll C, Lester TW, Montero S. Innovation in the green economy: an extension of the regional innovation
+  system model? Economic development quarterly. Volume 25. SAGE Publications Inc; 2011. pp. 5–25. ​h​t​t​p​s​:​/​/​d​o​i​.​o​r​g​/​1​0​.​1​1​
+  7​7​/​0​8​9​1​2​4​2​4​1​0​3​8​6​2​1​9​​​​.​​​
+  17. Dou Q, Gao X. The double-edged role of the digital economy in firm green innovation: micro-evidence from Chinese
+  manufacturing industry. Environ Sci Pollut Res. 2022;29:67856–74. https://doi.org/10.1007/s11356-022-20435-3.
+  18. Chi J, Liao J, Yang J. Institutional stock ownership and firm innovation: Evidence from China. J Multinatl Financial Manag.
+  2019;50:44–57. https://doi.org/10.1016/j.mulfin.2019.04.003.
+  19. Barney J. Firm Resources and Sustained Competitive Advantage. J Manag. SAGE Publications Inc. 1991;17:99–120. ​h​t​t​p​s​:​/​/​
+  d​o​i​.​o​r​g​/​1​0​.​1​1​7​7​/​0​1​4​9​2​0​6​3​9​1​0​1​7​0​0​1​0​8​​​​.​​​
+  20. Loiseau E, Saikku L, Antikainen R, Droste N, Hansjürgens B, Pitkänen K, et al. Green economy and related concepts: An
+  overview. J Clean Prod. 2016;139:361–71. ​h​t​t​p​s​:​​/​/​d​o​i​​.​o​r​g​/​1​​0​.​1​0​​1​6​/​j​.​​j​c​l​e​p​​r​o​.​2​0​1​​6​.​0​8​​.​0​2​4.
+  21. Porter ME, van der Linde C. Toward a New Conception of the Environment-Competitiveness Relationship. J Economic
+  Perspect. 1995;9:97–118. https://doi.org/10.1257/jep.9.4.97.
+  22. Darnall N, Regulatory, stringency. green production offsets, and organizations’ financial performance. Public Adm Rev.
+  2009;69:418–34. ​h​t​t​p​s​:​​/​/​d​o​i​​.​o​r​g​/​1​​0​.​1​1​​1​1​/​j​.​​1​5​4​0​-​​6​2​1​0​.​2​​0​0​9​.​​0​1​9​8​9​.​x.
+  23. Bunduchi R. Legitimacy-seeking mechanisms in product innovation: a qualitative study. J Prod Innov Manage.
+  2017;34:315–42. https://doi.org/10.1111/jpim.12354.
+  24. Doyle E, McGovern D, McCarthy S. Compliance–innovation: integrating quality and compliance knowledge and practice.
+  Total Qual Manage Bus Excellence Routledge. 2014;25:1156–70. https://doi.org/10.1080/14783363.2014.914641.
+  25. Fang J, Gao C, Lai M. Environmental regulation and firm innovation: Evidence from National Specially Monitored Firms
+  program in China. J Clean Prod. 2020;271:122599. ​h​t​t​p​s​:​​/​/​d​o​i​​.​o​r​g​/​1​​0​.​1​0​​1​6​/​j​.​​j​c​l​e​p​​r​o​.​2​0​2​​0​.​1​2​​2​5​9​9.
+  26. Huang Z, Yang X. Carbon emissions and firm innovation. Econ Anal Policy. 2021;69:503–13. ​h​t​t​p​s​:​/​/​d​o​i​.​o​r​g​/​1​0​.​1​0​1​6​/​j​.​e​a​p​.​2​
+  0​2​1​.​0​1​.​0​0​9​​​​.​​​
+  27. Martin R, Muûls M, de Preux LB, Wagner UJ. Anatomy of a paradox: Management practices, organizational structure and
+  energy efficiency. J Environ Econ Manag. 2012;63:208–23. https://doi.org/10.1016/j.jeem.2011.08.003.
+  28. Gerstlberger W, Præst Knudsen M, Stampe I. Sustainable Development Strategies for Product Innovation and Energy Effi-
+  ciency. Business Strategy and the Environment. Volume 23. Wiley, Ltd;; 2014. pp. 131–44. https://doi.org/10.1002/bse.1777.
+  29. Gomes S, Pinho M, Lopes JM. From environmental sustainability practices to green innovations: Evidence from small and
+  medium-sized manufacturing companies. Corp Soc Responsib Environ Manag. 2024;31:1677–87. ​h​t​t​p​s​:​/​/​d​o​i​.​o​r​g​/​1​0​.​1​0​0​2​/​
+  c​s​r​.​2​6​5​7​​​​.​​​
+  30. Demirel P, Kesidou E. Sustainability-oriented capabilities for eco-innovation: Meeting the regulatory, technology, and
+  market demands. Bus Strategy Environ. 2019;28:847–57. https://doi.org/10.1002/bse.2286.
+  31. Bos-Brouwers HEJ. Corporate sustainability and innovation in SMEs: Evidence of themes and activities in practice. Bus
+  Strategy Environ. 2010;19:417–35. https://doi.org/10.1002/bse.652.
+  32. Phan QT. Country-level governance quality, foreign ownership, and firm investment: evidence from WBES database.
+  Cogent Econ Finance Cogent OA. 2024;12:2302633. ​h​t​t​p​s​:​​/​/​d​o​i​​.​o​r​g​/​1​​0​.​1​0​​8​0​/​2​3​​3​2​2​0​3​​9​.​2​0​2​4​​.​2​3​0​​2​6​3​3.
+  33. Phan QT, Nguyen VD. National governance quality, competition and firm investment. Econ - Innovative Econ Res J.
+  2025;13:449–66. https://doi.org/10.2478/eoik-2025-0021.
+  34. Williams CC, Martinez-Perez A, Kedir A. Does bribery have a negative impact on firm performance? A firm-level analysis
+  across 132 developing countries. Int J Entrepreneurial Behav Res. 2016;22:398–415. ​h​t​t​p​s​:​/​/​d​o​i​.​o​r​g​/​1​0​.​1​1​0​8​/​I​J​E​B​R​-​0​1​-​2​0​1​
+  6​-​0​0​0​2​​​​.​​​
+  35. Ali J, Singh S. Does the size of the firm matter in determining the adoption of green economy practices in India? Int J Soc
+  Econ. 2024;52:561–77. https://doi.org/10.1108/IJSE-11-2023-0918.
+  36. Cainelli G, D’Amato A, Mazzanti M. Resource efficient eco-innovations for a circular economy: Evidence from EU firms. Res
+  Policy. 2020;49:103827. https://doi.org/10.1016/j.respol.2019.103827.
+  37. Theyel G. Management practices for environmental innovation and performance. Int J Oper Prod Manage. 2000;20:249–
+  66. https://doi.org/10.1108/01443570010304288.
+  38. Rennings K, Rammer C, The Impact of Regulation-Driven Environmental Innovation on Innovation Success and Firm
+  Performance. Ind Innov Routledge. 2011;18:255–83. https://doi.org/10.1080/13662716.2011.561027.
+  39. Dangelico RM. What Drives Green Product Development and How do Different Antecedents Affect Market Performance?
+  A Survey of Italian Companies with Eco-Labels. Bus Strategy Environ. 2017;26:1144–61. https://doi.org/10.1002/bse.1975.
+
+
+  Publisher’s note
+  Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.
+
+=====PDFPAGE 18=====

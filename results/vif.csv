@@ -1,0 +1,63 @@
+sample,outcome_key,variable,VIF,n
+MAR,D1_sales,prod_innov,1.1504345934187787,494
+MAR,D1_sales,proc_innov,1.1796510760767744,494
+MAR,D1_sales,web,1.0587146684989093,494
+MAR,D1_sales,ln_size_init,1.6626456889437395,494
+MAR,D1_sales,ln_age,1.2375736460485236,494
+MAR,D1_sales,foreign_own,1.1597855842474498,494
+MAR,D1_sales,exporter,1.2387120952784647,494
+MAR,D1_sales,corporation,1.1484184731798244,494
+MAR,D1_sales,sec_Retail,1.2957905448053506,494
+MAR,D1_sales,sec_Other services,1.2533296139625385,494
+KOR,D1_sales,prod_innov,1.189353893988805,1431
+KOR,D1_sales,proc_innov,1.1660137335541008,1431
+KOR,D1_sales,web,1.3138901049804363,1431
+KOR,D1_sales,ln_size_init,1.7906410786347207,1431
+KOR,D1_sales,ln_age,1.3243774134012178,1431
+KOR,D1_sales,foreign_own,1.1200775498096593,1431
+KOR,D1_sales,exporter,1.3719790231818243,1431
+KOR,D1_sales,corporation,1.2111838470725378,1431
+KOR,D1_sales,sec_Retail,1.1467065751741712,1431
+KOR,D1_sales,sec_Other services,1.1759779530596783,1431
+Pooled,D1_sales,prod_innov,1.17378678456754,1925
+Pooled,D1_sales,proc_innov,1.1733453407595709,1925
+Pooled,D1_sales,web,1.237410613089078,1925
+Pooled,D1_sales,ln_size_init,1.663481214878102,1925
+Pooled,D1_sales,ln_age,1.2795706995684757,1925
+Pooled,D1_sales,foreign_own,1.1480640041336387,1925
+Pooled,D1_sales,exporter,1.317564995711064,1925
+Pooled,D1_sales,corporation,1.1932088331140596,1925
+Pooled,D1_sales,sec_Retail,1.198833041605721,1925
+Pooled,D1_sales,sec_Other services,1.1677386580374185,1925
+Pooled,D1_sales,Korea,1.131382931122022,1925
+MAR,D3_female,prod_innov,1.1286970649376031,418
+MAR,D3_female,proc_innov,1.1527340317311665,418
+MAR,D3_female,web,1.0635617348899031,418
+MAR,D3_female,ln_size_cur,1.6539143825666927,418
+MAR,D3_female,ln_age,1.2509631963737944,418
+MAR,D3_female,foreign_own,1.1644770526372175,418
+MAR,D3_female,exporter,1.242572894446468,418
+MAR,D3_female,corporation,1.1642264484540443,418
+MAR,D3_female,sec_Retail,1.305382578728422,418
+MAR,D3_female,sec_Other services,1.2700031342022997,418
+KOR,D3_female,prod_innov,1.1682761685195386,1485
+KOR,D3_female,proc_innov,1.1628482886149936,1485
+KOR,D3_female,web,1.315553389846865,1485
+KOR,D3_female,ln_size_cur,1.765871010695987,1485
+KOR,D3_female,ln_age,1.3210759094860896,1485
+KOR,D3_female,foreign_own,1.1232758455498892,1485
+KOR,D3_female,exporter,1.374769465592784,1485
+KOR,D3_female,corporation,1.2143827073094708,1485
+KOR,D3_female,sec_Retail,1.1543905328276027,1485
+KOR,D3_female,sec_Other services,1.1796788274755587,1485
+Pooled,D3_female,prod_innov,1.160912482901749,1903
+Pooled,D3_female,proc_innov,1.1621897406899184,1903
+Pooled,D3_female,web,1.252230331375959,1903
+Pooled,D3_female,ln_size_cur,1.6667054315313523,1903
+Pooled,D3_female,ln_age,1.2811738190408983,1903
+Pooled,D3_female,foreign_own,1.1494231025585544,1903
+Pooled,D3_female,exporter,1.3238784073347822,1903
+Pooled,D3_female,corporation,1.1953696842346708,1903
+Pooled,D3_female,sec_Retail,1.2136710711391605,1903
+Pooled,D3_female,sec_Other services,1.1733619495610312,1903
+Pooled,D3_female,Korea,1.124378528687946,1903

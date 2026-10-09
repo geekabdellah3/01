@@ -1,0 +1,1368 @@
+
+=====PDFPAGE 1=====
+  Journal of Cleaner Production 548 (2026) 147857
+
+
+  Contents lists available at ScienceDirect
+
+
+  Journal of Cleaner Production
+  journal homepage: www.elsevier.com/locate/jclepro
+
+
+
+
+When less is more: The puzzling impact of employee education on green
+innovation performance
+Olugbenga Michael Adewumi a,* , Dengjun Zhang b
+a
+  Inland Norway University of Applied Sciences, Campus Lillehammer, No-2604 Lillehammer, Norway
+b
+  UiS School of Business and Law, University of Stavanger, Stavanger, N-4036, Norway
+
+
+
+
+A R T I C L E I N F O  A B S T R A C T
+
+Keywords:  Environmental sustainability increasingly requires that firms adopt green innovation (GI) to balance their
+Financial performance  strategy for ecological protection with financial performance. However, the role of employee education in
+Green innovation  shaping this relationship remains ambivalent. Drawing on the World Bank Enterprise Survey, which covers 8941
+Employee education
+  firms across 42 countries, we employ a two-stage least squares approach to estimate these effects. Results show
+Sustainability transitions
+  that GI improves overall financial performance, though the effect is insignificant in knowledge-intensive business
+Stratified absorptive capacity
+Human capital theory  services and among Asian firms. Strikingly, we uncover a “less is more” dynamic that challenges proportionality
+  assumptions in human capital theory: GI's financial performance benefits are strongest at low levels of formal
+  employee education and decline to negligible effects as education increases. This pattern is most pronounced in
+  low-tech manufacturing, among European firms, and in large organizations. Extending absorptive capacity
+  theory to sustainability, this suggests that practical, adaptive skills outweigh theoretical knowledge in translating
+  GI into performance gains. We recommend that firms balance formal education with experiential learning and
+  hands-on implementation skills to enhance GI performance.
+
+
+
+
+1. Introduction  illustrate how GI capabilities create sustainable competitive advantages
+  (Andersén, 2021; Silvério et al., 2025).
+  Environmental impacts driven by economic activities are increas­  In this regard, GI becomes imperative for firms seeking to reconcile
+ingly alarming and have concurrently triggered an urgent need for ac­  environmental responsibility with competitive advantages, such as
+tions that support sustainability paradigm shifts. Projects, such as the  financial performance. Here, there is an emergence of “green gazelles”
+European Green Deal, have been introduced to address these new  whereby firms can achieve rapid growth by deploying technologically
+environmental realities (IPCC, 2023), given the need for inclusive  and regulatory-responsive strategies to facilitate eco-driven competi­
+ecological protection. The focus is primarily on increased resource ef­  tiveness (Colombelli et al., 2015). These firms can align with environ­
+ficiency and on new avenues for social development that do not exac­  mental requirements to catalyze strategic differentiation, particularly
+erbate environmental degradation (European Commission, 2011; Sala  because they possess absorptive capacity to identify, assimilate, and
+et al., 2014). In the current context, green innovation (GI) has become a  apply external knowledge (Cohen and Levinthal, 1990; Silvério et al.,
+transformative business strategy that addresses some environmental  2025; Zahra and George, 2002). From the RBV perspective, GI capa­
+challenges and meets the growing consumer demand for sustainable  bilities represent how organizations utilize human capital and knowl­
+solutions (Pinkse, 2023). Business analysts argue that companies that  edge assets to create unique value in sustainability-driven markets, such
+are leaders in sustainable practices and environmentally sound green  as securing long-term economic benefits (Becker, 1975; Crook et al.,
+technologies have a crucial competitive edge (Bentham, 2024). Lower  2011). In this context, human capital, such as employee education, is
+operational costs, larger market share, increased brand equity, and  often considered an enabler of innovation. Prior studies indicate that
+improved corporate perception are the means through which this  educated and skilled workers are fundamental in facilitating environ­
+competitive edge has been recognized (Winston, 2024). Consistent with  mental knowledge and turning it into profitable innovation
+the resource-based view (RBV) (Barney, 1991), these economic gains  (Barba-Aragón and Jiménez-Jiménez, 2024; Shafiullah et al., 2021;
+
+
+  * Corresponding author.
+  E-mail addresses: olugbenga.adewumi@inn.no, michael_crown1@yahoo.com (O.M. Adewumi), dengjun.zhang@uis.no (D. Zhang).
+
+https://doi.org/10.1016/j.jclepro.2026.147857
+Received 26 August 2025; Received in revised form 14 January 2026; Accepted 22 February 2026
+Available online 25 February 2026
+0959-6526/© 2026 The Authors. Published by Elsevier Ltd. This is an open access article under the CC BY license (http://creativecommons.org/licenses/by/4.0/).
+
+=====PDFPAGE 2=====
+O.M. Adewumi and D. Zhang  Journal of Cleaner Production 548 (2026) 147857
+
+
+Wang et al., 2022). Nonetheless, despite this conception, the influence of  in Section 6.
+employee education on shaping GI performance remains underexplored
+and potentially paradoxical.  2. Theoretical perspectives and research hypotheses
+  Consequently, the traditional premises of human capital theory and
+the RBV may not fully capture the dynamics of GI implementation. From  This section reviews existing research on the relationship between GI
+the perspective of absorptive capacity theory (ACT), employee educa­  and firm financial performance, with a focus on the role of employee
+tion generates stratified absorptive capacity, whereby different levels of  education. It critiques traditional human capital and RBV perspectives,
+educational attainment contribute distinct yet complementary capabil­  which often assume a linear link between education and innovation
+ities (Aghion et al., 2009; Cohen and Levinthal, 1990; Leal-Rodríguez  capacity. Drawing on ACT and complemented by STT, the section in­
+et al., 2013). We challenge the assumption that absorptive capacity  troduces the concept of stratified absorptive capacity, proposing that
+uniformly enhances GI returns across all education levels and instead  different education levels contribute distinct yet complementary capa­
+propose that higher education levels may reduce the marginal financial  bilities for acquiring and applying green knowledge.
+benefit of GI. Highly educated workforces possess greater theoretical
+absorptive capacity. However, they may experience diminishing or even  2.1. Green innovation and financial performance
+negative returns to GI when formal knowledge structures misalign with
+the practical, incremental nature of many GIs. This framing situates our  Sustainability theory provides a basis for conceptualizing an inter­
+study to explore how education moderates GI effectiveness, extending  connectivity of environmental protection, economic growth, and social
+ACT to the context of sustainability transitions. We propose that edu­  well-being (Purvis et al., 2018). It conceptualizes sustainability as a
+cation's effect on GI performance is context-dependent and varies sys­  trade-off among the pillars and a process of system change to resilient
+tematically across firms. It is shaped by educational distribution  socio-technical systems that ensure intergenerational equity. Transition
+(workforce coordination patterns), contextual fit (alignment between  theory extends this view by emphasizing the co-evolution of technology,
+knowledge types and GI demands), and cognitive load constraints  institutions, policies, and culture required to set economies on
+(implementation pragmatism versus analytical complexity). Lower and  low-carbon and resource-efficient trajectories (Hundloe, 2021). Transi­
+moderate levels of education may generate stronger GI returns when  tions are multilevel processes of reconfiguration wherein innovation,
+implementation agility and operational integration outweigh purely  governance, and stakeholder collaboration interact to yield long-term
+research-intensive capabilities, particularly in manufacturing contexts  systemic change (Hundloe, 2021; Purvis et al., 2018; Zhai and Chang,
+where GIs are predominantly incremental and process-oriented.  2018). The RBV paradigm complements sustainability strategies, given
+Following Wales et al. (2013), organizational capabilities are most  that it explains how “valuable,” resource-based competencies that are
+effective when aligned with contextualized contingencies, so the stra­  difficult to imitate enable businesses to achieve a competitive advantage
+tegic value of employee education depends on its fit with organizational  (Barney, 1991). This model is further extended to argue that GI, as a
+structure, sectoral demands, and institutional environments. This  dynamic capability, enables companies to turn environmental pressures
+perspective challenges traditional RBV assumptions about linear human  into strategic opportunities for a competitive edge (Andersén, 2021;
+capital optimization and suggests that increasing workforce education  Silvério et al., 2025).
+can reduce the marginal financial benefit of GI in certain contexts. To  Empirical studies progressively position GI as a driver of firm-level
+empirically test this proposition, we analyze data from the World Bank  competitiveness and broad sustainability transitions. According to
+Enterprise Surveys (WBES) on 8941 firms across 42 countries using a  Colombelli et al. (2015), eco-innovation is one of the principal accel­
+two-stage least squares (2SLS) approach. We advance this conversation  erators of the transition to a green economic path. The study confirmed
+by unpacking how employee education moderates the relationship be­  that only those firms that follow an innovation-based strategy are likely
+tween GI and financial performance, while accounting for firm hetero­  to present stronger growth and environmental performance. This is ex­
+geneity across contexts and firm characteristics.  pected in light of the technological-innovation-systems perspective that
+  Our investigation addresses three core questions: Does employee  sustains the theory of sustainability transitions. In line with this notion,
+education enhance GI's financial effectiveness? How do education levels  evidence from Jia et al. (2021) supports the view that green technology
+shape this relationship across contexts? Moreover, to what extent does  innovation is a means of achieving sustainable industrial practices.
+the moderating effect of education vary by firm characteristics? While  Behavioral and organizational factors shape firms' capacity to adapt to
+we confirm that GI improves financial performance (Shuwaikh et al.,  sustainability transitions. These transformations are also shaped by
+2023), this effect is conditioned by organizational and contextual het­  policy and institutional contexts (Leoncini et al., 2019). As noted by
+erogeneity. Moreover, we provide insights that qualify dominant as­  Holzner and Wagner (2022) and Acemoglu et al. (2023), accelerating
+sumptions about human capital optimization. We question the  the transformation toward eco-friendly markets is possible through the
+presumption of a linear positive relationship between employee edu­  establishment of appropriate policy instruments, economic incentives,
+cation levels and GI outcomes (Domadenik et al., 2020; Consoli et al.,  and governance mechanisms. These tools are developed to align markets
+2016). We uncover a counterintuitive “less is more” dynamic: firms with  with ecological targets and stimulate the adoption of green technologies.
+lower levels of education often derive greater performance benefits from  This conforms with the multiple levels of analysis in the literature on
+GI than those with higher levels of education. This suggests that em­  sustainability transitions, whereby innovations at the niche level, such
+ployees' absorptive capacity is not uniformly enhanced by education,  as GI, interact with higher-level regimes, such as policy, markets, and
+but instead shaped by its distribution, contextual fit, and cognitive load  society, which regulate unsustainable systems.
+constraints. By bridging gaps in the literature and integrating insights  Such a context enables GI to establish a linkage among environ­
+from RBV, the ACT, and sustainability transitions theory (STT), our  mental resilience, technological development, and economic perfor­
+study offers a differentiated understanding of how human capital con­  mance (Purvis et al., 2018; Zhai and Chang, 2018). From the perspective
+figurations influence the financial performance of GI. Overall, the  of RBV, it reconfigures organizational assets to simultaneously pursue
+findings offer practical implications for workforce development, policy  both environmental and economic goals (Andersén, 2021; Silvério et al.,
+plans, and strategic management of sustainability-driven innovations.  2025). Empirical evidence supports these perspectives: Colombelli et al.
+  The remaining part of the paper is configured as follows: In Section 2,  (2015) and Holzner and Wagner (2022) show that GI improves envi­
+we present the theoretical perspectives and the tested hypotheses. Next,  ronmental efficiency and economic resilience, while Acemoglu et al.
+we described the research method in Section 3, followed by the empir­  (2023) show that it plays a role in developing the clean economy
+ical analysis and results in Section 4. These results are discussed in  through purposefully deployed policy and technology channels. Shu­
+Section 5, including the research implications, and the paper concludes  waikh et al. (2023) provide more evidence that GI investments have
+
+  2
+
+=====PDFPAGE 3=====
+O.M. Adewumi and D. Zhang  Journal of Cleaner Production 548 (2026) 147857
+
+
+both financial and environmental benefits, while Jia et al. (2021) indi­  as well as employee engagement, are essential for the positive impact of
+cate increased cost efficiency and profitability in places with strong  GI capabilities on financial performance (Barba-Aragón and
+sustainable development policies. Dangelico (2016) connects green  Jiménez-Jiménez, 2024; Liao, 2017). Green human resource manage­
+product innovation with cost advantage and market differentiation, and  ment activities (Aloqaily, 2023) and corporate social responsibility to­
+Banelienė and Strazdas (2023) show a positive relationship between  wards employees (Guinot et al., 2023) facilitate the creation of inclusive
+GDP growth and GI in the European Union. Reconciliating these findings  innovation cultures that enhance human capital, leading to overall
+indicates that GI is both a firm capability and an institutional mechanism  improvement. Critically, an organization's absorptive capacity depends
+that connects corporate performance to national sustainability objec­  on an educated workforce and the spread of knowledge across hierar­
+tives (Leoncini et al., 2019).  chical and functional layers. This view is consistent with the emphasis
+  Refinement with open innovation and environmental Kuznets per­  on stakeholder co-operation and institutional alignment in sustainability
+spectives further deepens this observation. Shearmur and Doloreux  transitions, in which organizations must manage the tension between
+(2016) reveal that innovation processes vary spatially according to  depth of competence and adaptive capability across precedence levels
+network density, market reactions, and knowledge exchange—meaning  (Leoncini et al., 2019; Rho et al., 2021). The incorporation of GI into
+that open innovation ecosystems enhance business organizations' ca­  wider transition pathways demands not only technical skills but also the
+pacity to create and spread green technologies. GIs achieve system-level  capacity to engage with institutional complexity and market forces.
+impacts through the combined influence of external environments and  However, ACT reveals a paradox: while employee education en­
+organizational partnerships within sustainability transitions. In addi­  hances innovation capacity, its contribution to GI may diminish as ed­
+tion, Shafiullah et al. (2021) extended the Environmental Kuznets Curve  ucation levels increase. This perception reflects stratified cognitive
+and identified human capital and education as drivers of a stronger  constraints whereby highly educated employees, particularly when
+linkage between economic paradigms and the environment. However,  concentrated in specialized functions, may experience cognitive over­
+Shafiullah et al. called for public learning capacity and awareness as  load. Such overload can hinder the flexible problem-solving and cross-
+institutional and social levers of change in the long run. It is these in­  functional coordination required for effective GI deployment (Bunjak
+sights that led to the intersection of these perspectives, proposing a  et al., 2021; Stajkovic and Stajkovic, 2025; Wales et al., 2013). From a
+multidimensional convergence of institutional, organizational, and  “less is more” perspective, GI outcomes may be stronger in firms with
+technological factors on GI. Thus, by connecting the transition frame­  lower or more balanced educational compositions, where adaptability
+work, the RBV, and sustainability theory, the GI becomes a strategic  and implementation pragmatism outweigh analytical complexity
+capability that not only improves firms' financial performance but also  (Leal-Rodríguez et al., 2013). This logic suggests that excessive con­
+ensures long-lasting organizational survival. Within this integrated  centration of advanced education—without complementary practical
+frame, we present our first hypothesis:  and mid-level expertise—can create cognitive silos that impede inno­
+  vation (Aghion et al., 2009) and reduce responsiveness to sustainability
+Hypothesis 1. A firm's GI efforts will positively affect its financial
+  transitions (Yuwono, 2021).
+performance in a sustainability-driven economy across contexts.
+  The institutional and infrastructural framework that enterprises use
+  to build their absorptive capacity is shaped by regional innovation
+2.2. Green innovation, financial performance, and employee education  ecosystems (Asheim and Gertler, 2005). These ecosystems differ mark­
+link  edly by geography, affecting the way firms utilize educated employees
+  for GI. In developed economies, companies leverage strong policy
+  The RBV theory posits that organizational resources drive sustain­  backing, network knowledge, and market stimuli to consolidate finan­
+able performance through strategically developing, combining, and  cial advantages from GI (Colombelli et al., 2015; Crescenzi and Rodrí­
+deploying unique organizational resources (Grant, 1991). Human capi­  guez-Pose, 2011; Jia et al., 2021). In contrast, firms in developing
+tal, as a core intangible asset, becomes central to firms' ability to adapt  contexts may face institutional voids that limit the effectiveness of
+and thrive in sustainability-driven economies. Within the integrated  highly educated personnel unless complemented by strategic leadership
+framework of sustainability transitions, employee education enhances  and organizational culture (Putro and Lubis, 2023). Thus, employee
+firms' dynamic capabilities by enabling them to reconfigure internal  education shapes the financial impact of GI in a context-dependent and
+competencies in response to environmental pressures (Barney, 1991;  diminishing manner (Aghion et al., 2009). Even though green jobs
+Teece, 2016; Wernerfelt, 2016). The ACT complements this view by  require advanced cognitive and social skills (Consoli et al., 2016),
+explaining how firms leverage employee education to recognize,  excessive formal education may lead to disproportionate confidence or
+assimilate, and apply external knowledge for GI (Cohen and Levinthal,  rigidity, especially when institutional complementarity is missing. To
+1990). In this context, education is not merely a resource but a strategic  address this, firms should strategically invest in green human capital to
+enabler of GI that aligns organizational learning with broader  ensure that capability enhancement does not hinder dynamic
+socio-technical transitions.  problem-solving (Domadenik et al., 2020; Shafiullah et al., 2021; Wang
+  Employee education plays a fundamental role in the firm's absorptive  et al., 2022). Structuring the workforce across educational tiers helps
+capacity development (potential – acquisition/assimilation and realized  mitigate cognitive overload and insular thinking. Evidence suggests that
+– transformation/exploitation) (Zahra and George, 2002). Such capa­  excessive formal education does not necessarily translate into superior
+bilities are indispensable for addressing the multilevel reconfigurations  GI outcomes, particularly when implementation relies on incremental
+that STT demands, in which firms interact with emerging policy, market,  and process-oriented changes (Buhl et al., 2016; Riaz et al., 2024).
+and cultural regimes (Hundloe, 2021). However, absorptive capacity  Building on this, we argue that the financial impact of GI depends on
+operates within cognitive constraints that vary by educational stratifi­  employees' educational levels. While education enhances absorptive
+cation. Organizational members experience differential cognitive load  capacity, its interaction with GI is subject to cognitive constraints and
+based on their academic background and the complexity of knowledge  diminishing returns at higher levels. Accordingly, we expect a negative
+encountered (Leppink and Van den Heuvel, 2015). Within the context of  moderating effect, with the financial benefits of GI strongest at lower
+GI, Education also provides employees with critical thinking and inter­  levels of employee education and weakening as education increases.
+pretive skills. These skills enable them to recognize and apply environ­  Hence, we hypothesize that:
+mental technologies, expanding firms' latitude to comply with
+  Hypothesis 2. The positive financial performance impact of GI is
+environmental imperatives or policy changes (Acemoglu et al., 2023;
+  stronger at lower levels of employee education than at higher levels.
+Schweisfurth and Raasch, 2018).
+  Previous studies have shown that employee education and training,
+
+  3
+
+=====PDFPAGE 4=====
+O.M. Adewumi and D. Zhang  Journal of Cleaner Production 548 (2026) 147857
+
+
+3. Methods  firms were asked whether they had undertaken any of the ten eco-
+  friendly investments over the past three years. In the survey, a firm is
+  This section describes the empirical approach used to test the study's  classified as having implemented GI if it reported adopting at least one of
+hypotheses, using key variables, including GI adoption, financial per­  these measures within that period. For each firm, we computed a raw GI
+formance, and employee education, along with relevant control vari­  count by summing binary indicators of adoption across the 10 cate­
+ables. It addresses potential endogeneity in the relationship between  gories, yielding values ranging from 0 (no GI) to 10 (firm-level adoption
+performance and GI, employing a 2SLS estimation strategy.  of all measures). Table 1 shows that adoption levels are concentrated at
+  the lower end, suggesting that most firms engage in limited green
+3.1. Data and sources  upgrading.
+  That said, we computed sector-specific benchmarks for the GI count
+  This research draws upon the 2018-2019 WBES, which collects firm-  to normalize firm-level variation. For each sector, we calculated the
+level data from the global private sector. The dataset encompasses  mean (GIs ) and standard deviation (σs ) of firms' raw GI counts. Each
+various industries, including most manufacturing sectors and selected  firm's standardized GI score was obtained as:
+retail, wholesale, hospitality, and construction services, excluding
+  GIis − GIs
+agriculture, mining, banking, and finance firms. The WBES uses a  GIstd
+  is =  ,  (1)
+  σs
+standardized questionnaire and a consistent stratified sampling method
+that accounts for a country's geographic region, industry, and size to  where mean GIis denotes the raw GI count of firm i in sector s. This
+represent each country's private economy accurately. We use an  transformation expresses a firm's GI activity relative to its sector's mean,
+aggregate sample of 8941 cross-sectional firm observations drawn from  allowing for meaningful cross-sector comparability and mitigating
+42 countries.  industry-level heterogeneity in green practices. We verified that no
+  sector exhibited zero variance (σ s = 0), ensuring valid standardization.
+3.2. Variables  The resulting standardized GI score serves as the primary covariate in
+  the empirical models examining the association between green invest­
+3.2.1. Financial performance and green innovation  ment and firm financial performance.
+  Our dependent variable, financial performance, is proxied by two  Fig. 1 shows a right-skewed distribution that confirms Table 3,
+financial metrics—sales and profit growth—to distinguish GI's effects on  indicating that most firms adopt only a few green practices, while only a
+market performance from net financial performance outcomes. This  minority adopt more. Supplementary Information: Table 5 describes
+dual-outcome approach aligns with prior studies examining environ­  how GI scores vary across geographic regions and firm sectors. Scores
+mental innovation's financial impacts, enabling the capture of distinct  are highest in North Africa and Asia, where they align strongly with sales
+mechanisms through which green practices affect firm performance (Le,  and profit growth. European firms show no significant link. In
+2022; Zhang et al., 2019). Sales growth is expressed as the proportional  manufacturing, GI shows positive sales growth but not profit growth. In
+change in sales over the past three years, normalized by the current  the service sector, trends are weak and mixed.
+year's sales. Aligning with FasterCapital (2024), profit growth is deter­
+mined by multiplying sales growth by the GPM (defined in Table 1). The  3.2.2. Other determinants of financial performance
+GPM is calculated as total sales minus the total cost of goods divided by  From a knowledge-based perspective, we control for multiple de­
+total sales.  terminants when modeling GI's impact on a firm's financial performance.
+  GI is the primary covariate expected to affect financial performance.  Employee education is one of the closely aligned factors in enhancing
+The concept of GI has been interpreted differently across the academic  firms' adaptive capacity. Consoli et al. (2016) show that educated em­
+domain. However, we evaluate GI by examining firms' energy con­  ployees strongly support driving green occupations and optimally sus­
+sumption patterns that follow specific measures that meet green prac­  taining sustainability practices. Thus, higher levels of education most
+tices. The categories include enhancing heating and cooling systems,  likely provide skills and knowledge relating to the understanding and
+implementing on-site climate-friendly energy generation, upgrading  application of environmental innovations capacity. Thus, in sum, these
+machinery and equipment, adopting energy management systems,  studies suggest that a more educated workforce can help build the
+modernizing vehicle fleets, improving lighting systems, installing air  knowledge and learning capabilities required for effective GI. To
+pollution control technologies, improving water management, mini­  empirically capture this perception, we constructed an education index
+mizing waste through recycling and waste management, and imple­  that reflects a firm's workforce's overall educational attainment. The
+menting other pollution control measures. In the 2019 WBES survey,  index uses two key indicators: the proportion of full-time permanent
+  employees who completed secondary school (edu 1) and the proportion
+Table 1  who hold a university degree (edu 2). Specifically, building on the
+Adoption Rates for Eco-Friendly Investment Categories (N = 8941 firms).  preceding background, we assigned a weight of 0.5 to secondary edu­
+ Category  Adoption rate among firms  cation and a full weight of 1.0 to university-level education. The index
+  (%)  was developed as follows:
+ Heating and cooling improvements  35.97%  0.5(edu1) + 1.0(edu2)
+ More climate-friendly energy generation on-site  14.74%  Education index =  (2)
+ Machinery and equipment upgrades  46.85%
+  100
+ Energy management  32.35%  By incorporating this index into our analysis, we anticipate the
+ Waste minimization, recycling, and waste  39.38%
+  extent to which employee education affects financial performance and
+  management
+ Air pollution control measures  15.88%  moderates the impact of GI. The index ranges from 0 to 1.5, with higher
+ Water management  21.61%  values indicating a more educated workforce.
+ Upgrades of vehicles  33.45%  Besides human capital, market competition significantly influences
+ Improvements to lighting systems  46.45%  increased revenue. Accordingly, firms with monopoly power can boost
+ Other pollution control measures  12.17%
+  sales through pricing strategies, while intense competition typically
+Note: The table reports the share of firms that adopted each eco-friendly in­  compresses margins (Aghion, 2018). Industry effect is also included, as
+vestment category during the three years preceding the survey. Firms may report  concentration level is vital in determining a firm's increasing revenue
+adoption in multiple categories; therefore, percentages do not sum to 100  (Aghion et al., 2005; Eide et al., 2021). As export orientation correlates
+percent.
+
+  4
+
+=====PDFPAGE 5=====
+O.M. Adewumi and D. Zhang  Journal of Cleaner Production 548 (2026) 147857
+
+
+
+
+Fig. 1. Distribution of standardized GI score.
+Note: The histogram shows the frequency distribution of standardized green innovation scores across the sample of firms. The blue line represents a normal dis­
+tribution overlay, while the green line shows the kernel density estimate. GI = Green Innovation.
+
+
+with higher productivity and potential returns (Antonelli, 2019), we  3.2.3. Descriptive statistics
+included export status to examine how export activities affect profit­  Table 2 shows how these variables were measured, and descriptive
+ability. We include the legal structure of firms because corporate forms  statistics for the variables analyzed across the whole sample are pro­
+influence profits through enhanced capital access and operational flex­  vided in Table 3. Most variables are binary, except for the financial
+ibility (Stowers, 2024). Also, we include firm age, although previous  performance metrics, GI, R&D, industry concentration, education index,
+research indicates it exhibits mixed effects on financial performance.  and firm age, which are continuous. We utilize the inverse hyperbolic
+Some studies indicate a negative relationship (Akben-Selcuk, 2016), and  sine (IHS) transformation for variables that include negative and zero
+others suggest positive impacts (Matemilola et al., 2024). Additionally,  values. Unlike the natural logarithm, it is defined across the entire real
+we include foreign ownership of businesses as it positively correlates  line, allowing us to retain all observations and preserve the sign and
+with firm value and performance, as evidenced in multiple studies (Choi  relative magnitude of the original data (Aihounton and Henningsen,
+and Park, 2019; Zhang, 2023).  2021). Supplementary Information Table S1 to Table S3 detailed how
+  Further, we account for a firm's geographic location, including  the sample was broken down. It consists of 5155 manufacturing and
+regional and development factors, as well as the city in which it oper­  3786 service firms for sectoral analysis. 1606 North African firms, 5504
+ates. Considering these additional factors, we seek to isolate the core  European firms, and 1831 Asian firms for regional analysis. Also, it in­
+relationships of interest to minimize the risk of omitted-variable bias.  cludes 6213 SMEs and 2728 large firms for size analysis. Consequently,
+Geographic fixed effects can further help explain how GI influences  Supplementary Information Table S4 provides further details on the 42
+financial performance, accounting for regulatory environments, eco­  countries studied, grouped by geographic regions.
+nomic stability, and market size (Nahm, 2022). In this context, Europe
+offers an instance of a mature innovation ecosystem with  3.2.4. Instrument variable
+well-established institutions, knowledge infrastructures, and inter-firm  Because firms with stronger financial performance are more likely to
+networks (Asheim and Gertler, 2005). Asia and North Africa represent  invest in GI, endogeneity caused by reverse causality arises. To address
+developing innovation ecosystems where institutional support and  this concern, we draw upon an IV strategy (Clougherty et al., 2016).
+knowledge infrastructure are still evolving, potentially creating different  Prior research has often used R&D expenditure as an instrument for
+dynamics for how employee education translates into GI performance.  innovation, as it reflects firms' technological capabilities and innovative
+  In what ways sectoral differences (manufacturing vs services) influ­  potential (Bogliacino and Pianta, 2013). However, firm-level R&D can
+ence financial performance is also considered. The reason is that in­  also directly influence financial performance outcomes through non-GI,
+dustries exhibit distinct operational characteristics and capacities that  process optimization, or brand development, potentially violating the
+may affect their ability to implement and benefit from GI (Porter and  exclusion restriction. To mitigate this issue, we construct a
+Linde, 1995). Firm size is another critical factor. More robust financial  region-standardized R&D intensity instrument (rd_std). For each region,
+resources are linked with larger firms' need to support research and  we calculate the mean of firm-level R&D and standardize each firm's
+development (R&D) investments and manage risks associated with  value accordingly. This measure captures a firm's relative R&D exposure
+innovation (Cohen and Klepper, 1992; Knott and Vieregger, 2015;  within its regional context and serves as a strong predictor of GI. By
+Leal-Rodríguez et al., 2013). Large firms also gain an advantage from  including region fixed effects, the instrument relies solely on
+economies of scale and scope, as it enables them to spread costs across  within-region variation, which is less likely to affect financial perfor­
+their production processes, enhancing their capacity to innovate  mance, except through GI directly. This approach aligns with prior ev­
+(Martínez-Costa et al., 2014). In this context, these types of firms may be  idence that regional research intensity and spillovers shape firms'
+better equipped to engage in GI than smaller firms. Even though re­  innovation behavior (Jaffe, 1989) and that regional R&D variation can
+sources are more limited in smaller firms, they may capitalize on their  serve as an exogenous determinant of innovative activity (Bronzini and
+agility and niche-market strategies to drive proportional sales growth  Piselli, 2016).
+and thereby gain market power (Sen et al., 2023). In this regard,
+financial performance may be more apparent in small and medium-sized  3.3. Model specification
+enterprises (SMEs) than in larger firms, depending on their business
+location or region (Gaio and Henriques, 2018). To control for this dy­  Besides endogeneity arising from reverse causality, omitted factors,
+namic, we used SMEs as the base category and large firms as the com­  such as managerial ability, organizational culture, and strategic orien­
+parison group.  tation, jointly influencing both GI decisions and financial performance
+  outcomes can bias results. Hence, the relationship between GI and firm
+
+  5
+
+=====PDFPAGE 6=====
+O.M. Adewumi and D. Zhang  Journal of Cleaner Production 548 (2026) 147857
+
+
+Table 2  Table 3
+Measurement details of all variables.  Descriptive Statistics for the Total Sample (N = 8941 firms).
+  Variable  Definitions of Variables  Variables  Mean  SD  Min.  Max.
+
+  Gross Profit Margins  GPM is calculated as total sales minus total cost of goods  Dependent variables  ​  ​  ​  ​
+  (GPM)  sold, divided by total sales.  Sales growth  0.133  0.262  − 0.781  0.862
+  Sales growth  Expressed as the proportional change in sales over the past  Profit growth  0.084  0.202  − 0.764  0.859
+  three years, normalized by the current year's sales.  Gross Profit Margin  0.633  0.364  − 0.048  0.999
+  Profit growth  Profit growth is computed as the product of sales growth  Independent variables  ​  ​  ​  ​
+  and GPM. This computation is also known as Profit  Green innovation  − 0.012  0.572  − 1.706  2.720
+  Contribution Growth (FasterCapital, 2024).  Education index  0.617  0.344  0  1.5
+  Green Innovation (GI)  GI is computed as a sector-standardized index based on the  Industry concentration  4.798  1.910  0  12.121
+  number of green measures a firm adopted (0-10), obtained  Exporter  0.072  0.259  0  1
+  by standardizing each firm's raw adoption count relative  Firm legal status  0.167  0.373  0  1
+  to its sector's mean and standard deviation.  Firm age  2.891  0.654  0.693  5.308
+  Green innovators  Computed as managerial experience, measured relative to  Foreign ownership  0.104  0.306  0  1
+  the regional mean (=1 and 0 otherwise).  SMEs  0.695  0.460  0  1
+  Education index  The education index is a weighted composite measure of a  Instrument variables  ​  ​  ​  ​
+  firm's workforce education, calculated as 0.5 × (the share  Research and Dev. (R&D)  − 0.000  1.000  − 0.448  3.169
+  of employees with secondary education) + 1.0 × (the  Other controls  ​  ​  ​  ​
+  share with university education), yielding values from 0 to  Small-sized city  0.268  0.443  0  1
+  1.5 that reflect overall educational attainment.  Medium-sized city  0.223  0.416  0  1
+  Exporter  A dummy variable (=1 for exporting firms and  Asia  0.205  0.404  0  1
+  0 otherwise)  North Africa  0.180  0.384  0  1
+  Firm legal status  A firm conducting business under the legal arrangement of  Manufacturing firms  0.577  0.494  0  1
+  corporate firms (=1 and 0 otherwise)
+  Firm age  The age of the firm in years, on a logarithmic scale
+  Foreign ownership  Firms partially owned by foreign investors (=1 and  3.4. Estimation procedure
+  0 indicates otherwise)
+  SMEs  Small and medium firms encompassing 5 to 99 employees
+  based on the World Bank classification (=1 and 0 indicates
+  Among x1, we included an interaction term (Education index × GI) to
+  otherwise)  assess how employee education moderates the effect of GI on firm
+  Large firms  Firms with 100 or more employees (=1 and 0 indicates  financial performance. This context aligns with Luo and Xie (2023) and
+  otherwise)  Shafiullah et al. (2021) on how human capital and institutional factors
+  Small City  Firms located in areas with a population of less than
+  can drive sustainable business practices. Meanwhile, an interaction term
+  50,000 (=1 and 0 indicates otherwise)
+  Medium-sized city  Firms situated in areas with a population of around 50,000  of this nature, involving an endogenous variable, becomes endogenous
+  (=1 and 0 indicates otherwise)  and must be instrumented (Wooldridge, 2010). In our context, rd_std
+  Govt. spending on  The government should prioritize spending on education  serves as the instrument for GI. As such, we instrumented the endoge­
+  education  (=1 and 0 indicate otherwise)  nous term (Education index × GI) with the interaction between rd_std and
+  Research and  Research and development is measured as a region-
+  Development  standardized intensity variable, obtained by normalizing
+  the education index (Education index × rd_std). Using Stata's ivregress
+  each firm's R&D expenditure relative to the regional mean  2SLS command to fit the equation, we specify the dependent variable yi
+  to capture its R&D effort within the local innovation  and all the included exogenous variables. We modeled the endogenous
+  context.  specifications and their instruments as: (GI, Education index × GI =
+  Manufacturing firms  It corresponds to firms classified with ISIC codes 15-37
+  rd_std, Education index × rd_std). To address within-country correlation
+  Hightech_firms  It corresponds to firms classified with ISIC codes ≥ 23 & ≤
+  35  and avoid biased inference, we estimated our baseline model using a
+  Low-tech firms  It corresponds to firms classified with ISIC codes ≥ 15 & ≤  2SLS estimator with country-clustered robust standard errors, following
+  22 plus ISIC codes ≥ 36 & ≤ 37  Moulton's (1990) recommendation.
+  Service firms  It corresponds to firms classified with ISIC codes 49-59  To gain a more nuanced understanding of how GI drives systemic
+  KIBS firms  It corresponds to firms classified with ISIC codes 60 -72
+  Region dummies  We included Asia, North Africa, and Europe (Each region
+  change, we further examine three heterogeneity dimensions: geographic
+  = 1 when others = = 0)  variations, representing different levels of innovation ecosystem matu­
+  rity and market conditions; sectoral differences (manufacturing vs.
+Source: WBES: https://login.enterprisesurveys.org/content/sites/financeandpri
+  services), and firm size (see Section 4.3). Even though Boschma and
+vatesector/en/signin.html.
+  Gianelle (2014) conceptualize regions primarily at the subnational level,
+  they argue that spatial and contextual heterogeneity mediates the eco­
+financial performance is endogenous. To address these endogeneity
+  nomic impact of innovation. That is, heterogeneity at the regional level
+concerns, we employ a 2SLS approach. Following Wooldridge (2010),
+  in infrastructure, institutions, and spillovers across space demonstrates
+our model is formally specified as:
+  how innovation is translated into economic performance (Crescenzi and
+yi = GIi β1 + x1i β2 + ui  (3)  Rodríguez-Pose, 2011). Drawing from the view that these theoretical
+  backgrounds can be applied to broader geographic differences, we
+GIi = x1i α1 + x2i α2 + vi  (4)  moved the conversation from within subnational and European contexts
+  to much larger continental regions. We consider North Africa, Asia, and
+Where yi represents financial performance (sales or profit growth) for  Europe to investigate how they shape the relationship between GI and
+firm i, and GIi is an endogenous variable affecting yi. x1i (which includes  financial performance. Beyond the fixed effect of firm size in the base­
+GI, education index, export status, sector dummies …) and x2i (i.e., rd_std  line models, we aim to understand how their distinct characteristics
+- the instrument for GI) are included and excluded exogenous variables,  moderate GI's financial performance outcomes, offering valuable in­
+and β1 and β2 represent their coefficients. As well, α1 and α2 are co­  sights. Thus, we assessed a firm-size model (SMEs vs. large firms) of the
+efficients linking the included variables to the endogenous variable GI,  relationship between GI and financial performance, while controlling
+and ui and vi are zero-mean error terms, with nonzero correlations.  for key firm characteristics.
+
+
+
+
+  6
+
+=====PDFPAGE 7=====
+O.M. Adewumi and D. Zhang  Journal of Cleaner Production 548 (2026) 147857
+
+
+Table 4
+Regression results for the baseline analysis – OLS and 2SLS models.
+  OLS + interaction  2SLS without interaction  2SLS + interaction (baseline model)
+
+ Independent variables  Sales growth  Profit growth  Sales growth  Profit growth  Sales growth  Profit growth
+
+ GI  0.029**  0.016  0.075***  0.049**  0.111***  0.070**
+ ​  (0.012)  (0.010)  (0.027)  (0.021)  (0.033)  (0.027)
+ Education index  0.014  0.018*  0.011  0.016  0.002  0.011
+ ​  (0.011)  (0.010)  (0.013)  (0.012)  (0.011)  (0.011)
+ GI × Education index  0.014  0.011  ​  ​  − 0.053*  − 0.030
+ ​  (0.012)  (0.010)  ​  ​  (0.031)  (0.031)
+ Competition  − 0.002  − 0.004  0.003  − 0.000  0.003  0.000
+ ​  (0.007)  (0.006)  (0.009)  (0.008)  (0.009)  (0.008)
+ Industry concentration  − 0.001  − 0.001  − 0.000  − 0.001  − 0.000  − 0.001
+ ​  (0.002)  (0.002)  (0.002)  (0.002)  (0.002)  (0.002)
+ Exporter  0.022**  0.015**  0.006  0.004  0.005  0.003
+ ​  (0.011)  (0.007)  (0.011)  (0.009)  (0.011)  (0.009)
+ Firm legal status  0.009  0.011  0.010  0.011  0.012  0.013
+ ​  (0.015)  (0.013)  (0.011)  (0.011)  (0.011)  (0.011)
+ Firm age  − 0.044***  − 0.026***  − 0.050***  − 0.030***  − 0.050***  − 0.030***
+ ​  (0.009)  (0.006)  (0.009)  (0.006)  (0.009)  (0.006)
+ Foreign ownership  0.002  0.006  − 0.004  0.002  − 0.004  0.002
+ ​  (0.008)  (0.006)  (0.008)  (0.007)  (0.008)  (0.007)
+ SMEs  − 0.003  − 0.006  0.014  0.006  0.016  0.007
+ ​  (0.011)  (0.009)  (0.011)  (0.008)  (0.011)  (0.008)
+ Small-sized city  − 0.018  − 0.022*  − 0.030  − 0.031**  − 0.033*  − 0.032***
+ ​  (0.017)  (0.011)  (0.019)  (0.012)  (0.018)  (0.012)
+ Medium-sized city  − 0.017  − 0.022*  − 0.021  − 0.024*  − 0.022  − 0.024*
+ ​  (0.017)  (0.012)  (0.018)  (0.013)  (0.017)  (0.013)
+ Asia  − 0.004  − 0.008  − 0.002  − 0.006  − 0.002  − 0.006
+ ​  (0.032)  (0.024)  (0.032)  (0.024)  (0.032)  (0.025)
+ North Africa  0.065*  0.046**  0.085***  0.060***  0.087***  0.061***
+ ​  (0.034)  (0.018)  (0.031)  (0.017)  (0.030)  (0.016)
+ Manufacturing firms  0.007  − 0.062***  0.010  − 0.059***  0.011  − 0.059***
+ ​  (0.009)  (0.012)  (0.010)  (0.012)  (0.009)  (0.012)
+
+ Observations  8941  8941  8941  8941  8941  8941
+ KP/Cragg-Donald  ​  ​  73.872  73.872  216.517  216.517
+ Root MSE  0.247  0.189  0.250  0.191  0.251  0.191
+
+Notes: GI (green innovation) and the interaction term (Education index × GI) are treated as endogenous and instrumented with rd_std and its interaction with the
+Education index. All models are estimated using a 2SLS estimator with robust standard errors clustered at the country level. Variables with zero or negative values are
+IHS transformed. *p < 0.10, **p < 0.05, ***p < 0.01, KP/Cragg– Donald and Kleibergen–Paap statistics test for weak instrument identification.
+
+
+4. Results  Durbin-Wu-Hausman endogeneity tests offer more evidence in rejection
+  of the null hypothesis of exogeneity for both profit growth (χ 2 (2) =
+  This section reports the core findings of the analysis. In general, the  12.534, p = 0.002; F (2, 8923) = 6.263, p = 0.002) and sales growth (χ 2
+empirical results reveal a significant effect of GI on financial perfor­  (2) = 14.843, p = 0.001; F (2, 8923) = 7.419, p = 0.001), which shows
+mance, but a counterintuitive moderating effect of education, support­  that OLS estimates become inconsistent and indicates the need for IV
+ing the idea of stratified absorptive capacity and challenging  strategy. Similarly, these diagnostics demonstrate that across models,
+conventional assumptions about the optimization of human capital. The  the instruments are strong and valid and support the presence of
+section also explores how this dynamic varies across sectors, regions,  endogeneity, thereby ensuring the robustness of our 2SLS estimation
+and firm sizes, highlighting the contextual nature of the  strategy. We also tested for nonlinear effects of workforce education by
+GI–education–performance relationship.  including GI × Education index2 in our specifications, indicating the
+  lack of a strict inverted-U nonlinear moderating effect.
+4.1. Main results  As shown in Table 4, without accounting for endogeneity, our pre­
+  liminary OLS + interaction results show a modest positive intensity ef­
+  Table 4 reports the main results. For comparison, we also report the  fect of GI on sales growth and a non-significant effect on profit growth.
+OLS estimation results for the model with an interaction term between  However, when we apply the 2SLS + interaction specification (baseline
+GI and the education index.  model) to address endogeneity, the estimates shift markedly: GI exhibits
+  First, we conducted thorough inspection tests to validate our model  stronger, positive, and statistically significant effects on both financial
+specification and estimation strategy. Across our models, variance  performance outcomes. Moreover, the interaction between GI and
+inflation factors are below 2, suggesting no collinearity among variables.  employee education becomes marginally significant for sales growth.
+Likewise, the Breusch-Pagan test strongly rejected homoskedasticity (p  The visual plot on the left panel of Fig. 2 confirms this significance. At
+< 0.001), leading us to employ robust and clustered standard errors. For  low levels of employee education (approximately 0–20%), the marginal
+our baseline 2SLS model, instrument strength diagnostics are consistent  effect on sales growth is slightly above the significance threshold (p ≤
+across both the sales and profit growth specifications. Shea's partial  0.01). However, this benefit declines progressively with increasing ed­
+values indicate moderate relevance for GI (0.070) and GI × education  ucation, becoming negligible at higher levels. This negative interaction
+index (0.091). The minimum eigenvalue statistic of 216.517 exceeds the  indicates that firms with less-educated workforces derive significantly
+critical threshold of 7.03 set by Stock and Yogo (2005) for two endog­  greater financial benefits from GI initiatives. Going forward, results for
+enous regressors and two excluded instruments, indicating that the in­  firm age and other significant control variables similarly reveal larger
+struments are sufficiently strong and that 2SLS estimates are robust to  effects in the 2SLS specification than in OLS. This shift suggests that the
+weak-identification concerns. Consistent with these findings,  2SLS approach not only strengthens the estimated direct effects of GI but
+
+
+  7
+
+=====PDFPAGE 8=====
+O.M. Adewumi and D. Zhang  Journal of Cleaner Production 548 (2026) 147857
+
+
+Table 5  the importance of using appropriate econometric techniques.
+Analysis by gross profit margins – 2SLS/LIML regressions.
+  Total sample  KIBS firms  North Africa
+  4.2. Robustness checks
+ Independent variables  GPM  GPM  GPM
+ GI  − 0.014  0.214**  0.065
+ ​  (0.036)  (0.100)  (0.085)
+  4.2.1. Testing mechanism robustness
+ GI × Education index  − 0.026  − 0.087  0.140***  To understand the mechanisms by which GI affects financial per­
+ ​  (0.043)  (0.058)  (0.025)  formance, we examine GPM as a separate outcome. We explored
+ Education index  0.025  0.037  0.088*  robustness across multiple contextual specifications. Statistically sig­
+  (0.017)  (0.026)  (0.049)
+ ​
+  nificant effects emerge in only three cases, as reported in Table 5, and we
+ Competition  − 0.013  − 0.003  − 0.041
+ ​  (0.013)  (0.026)  (0.029)  therefore focus our discussion on these results. Table 5 shows that GI's
+ Industry concentration  − 0.006*  0.017***  0.003  effect on margins is highly context-dependent. In the full sample, GI is
+ ​  (0.003)  (0.005)  (0.011)  non-significant for GPM (β = − 0.014, n.s.), but exerts a direct, positive
+ Exporter  0.008  − 0.077*  0.139***  effect on GPM in Knowledge Intensive Business Service (KIBS) firms (β
+  (0.027)  (0.047)  (0.018)
+  = 0.214, p < 0.00). Workforce education did not moderate these effects
+ ​
+ Firm legal status  0.013  − 0.013  0.121***
+ ​  (0.015)  (0.023)  (0.025)  in the full sample, and the standalone education effect is non-significant
+ Firm age  − 0.050***  0.007  − 0.005  (β = 0.002, n.s.). In North African markets, the mechanism differs
+ ​  (0.009)  (0.015)  (0.008)  fundamentally. GI alone does not significantly improve margins (β =
+ Foreign ownership  0.003  0.014  0.108***
+  0.065, n.s.), but workforce education strongly and positively moderates
+ ​  (0.019)  (0.021)  (0.011)
+ SMEs  0.011  − 0.010  − 0.054***  the relationship (β = 0.140, p < 0.01). Fig. 3 shows a contrasting line: at
+ ​  (0.015)  (0.032)  (0.020)  low levels of workforce education (0–20%), the marginal effect of GI on
+ Small-sized city  − 0.041*  − 0.046*  − 0.066***  GPM is small (approximately 0.07–1.46) and statistically insignificant.
+ ​  (0.023)  (0.024)  (0.013)  In contrast, at higher education levels (80–100%), GI has a strong and
+ Medium-sized city  − 0.027*  − 0.007  − 0.045**
+ ​  (0.014)  (0.019)  (0.020)
+ Asia  0.006  0.086***  ​
+ ​  (0.019)  (0.032)  ​
+ North Africa  0.040  0.123**  ​
+ ​  (0.033)  (0.049)  ​
+ Manufacturing firms  − 0.437***  ​  − 0.367***
+ ​  (0.017)  ​  (0.046)
+
+ Observations  8941  534  1606
+ KP/Cragg-Donald  216.517  4.996  13.105
+ Root MSE  0.230  0.163  0.249
+
+Notes: The specification for KIBS firms was estimated using the LIML estimator,
+and instrument strength was evaluated using the Cragg–Donald minimum
+eigenvalue statistic. The statistic (≈5) exceeds the Stock–Yogo critical values for
+15% and 20% maximal size distortions (4.58 and 3.95, respectively), but falls
+below the 10% threshold (7.03), indicating borderline instrument strength. The
+LIML estimates should therefore be interpreted with caution. GI and the inter­
+action term (Education index × GI) are treated as endogenous and instrumented
+with rd_std and its interaction with the Education index. The LIML and 2SLS are
+estimated with robust standard errors clustered at the country level. Variables
+with zero or negative values are IHS transformed. *p < 0.10, **p < 0.05, ***p <
+0.01, KP/Cragg– Donald and Kleibergen–Paap statistics test for weak instrument
+identification.  Fig. 3. Interaction effect of employee education levels on the GI-Gross profit
+  margins relationship.
+  Note: X-axis: Workforce education index (0-1.5 scale; see Table 2 for details). Y-
+also reveals a meaningful moderating role of employee education and  axis: Marginal effect of GI on sales and profit growth. Dashed line: significance
+other controls. The 2SLS result reinforces Wooldridge (2010), who notes  threshold (p ≤ 0.01). Shaded areas: 95% CIs. Fig. 3 applies only to the GPM
+that ignoring endogeneity can bias estimates downward, underscoring  specification in North Africa.
+
+
+
+
+Fig. 2. Interaction effect of employee education levels on GI-sales/profit growth relationships.
+Note: X-axis: Employee education index (0-1.5 scale; see Table 2 for details). Y-axis: Marginal effect of GI on sales and profit growth. Dashed line: significance
+threshold (p ≤ 0.01). Shaded areas: 95% CIs. Fig. 2 applies to all models with significant interactions.
+
+  8
+
+=====PDFPAGE 9=====
+O.M. Adewumi and D. Zhang  Journal of Cleaner Production 548 (2026) 147857
+
+
+positive impact on GPM, reaching approximately +14.06. This indicates  Table 6
+that a firm's absorptive capabilities determine whether it can leverage  Regression results for the baseline specification – 2SLS and selection correction
+green initiatives to gain a premium advantage. The direct education  models.
+effect (β = 0.088, p < 0.10) is only marginally significant, confirming  Independent  Sales Growth  Profit Growth
+that education's value lies primarily in its interaction with GI. This  Variables
+  Baseline  Selection-  Baseline  Selection-
+moderation pattern reveals fundamentally different value-creation  IV  Corrected  IV  Corrected
+mechanisms. In the full sample, GI did not improve margins, and edu­
+  GI  0.106***  0.111***  0.052*  0.069**
+cation is insufficient to create cost value. In North African markets, GI  ​  (0.038)  (0.033)  (0.027)  (0.027)
+alone is insufficient, whereas through education, higher human capital  Education index  0.002  − 0.007  0.009  − 0.005
+amplifies its profit value by building absorptive capacity.  ​  (0.014)  (0.013)  (0.012)  (0.011)
+  GI × Education  − 0.066*  − 0.052*  − 0.018  − 0.029
+  index
+4.2.2. Addressing self-selection bias  ​  (0.039)  (0.031)  (0.032)  (0.031)
+  Beyond the endogeneity addressed by our IV approach, we test for  Inverse Mills  ​  0.041  ​  0.066**
+potential self-selection bias, specifically, whether firms adopt GI based  Ratio
+on unobserved characteristics associated with financial performance.  ​  ​  (0.032)  ​  (0.031)
+Drawing on innovation management theory, we posit that managerial  Bootstrap Results
+experience enhances a firm's ability to recognize and implement inno­  GI  ​  0.111***  ​  0.069**
+vative opportunities, particularly in optimizing green practices (Hanson  ​  ​  (0.033)  ​  (0.027)
+et al., 2016; Hatakeda et al., 2012; Teece, 2016). Regional innovation  GI × Education  ​  − 0.052  ​  − 0.029
+ecosystems also shape the selection and effectiveness of these practices  index
+  (0.034)  (0.033)
+by providing institutional support and contextual resources (Asheim and
+  ​  ​  ​
+  Inverse Mills  ​  0.041  ​  0.069*
+Gertler, 2005). Therefore, we posit that managerial experience,  Ratio
+measured relative to the regional mean, influences both the likelihood of  ​  ​  (0.039)  ​  (0.036)
+GI adoption (green innovators) and subsequent firm financial perfor­  Other controls  Included  Included  Included  Included
+mance outcomes.  Observations  4875  8941  4875  8941
+  To assess potential sample selection bias, we implement a Heckman-  First-stage KP F-  116.75  216. 525  116.75  216. 525
+type control-function correction combined with a 2SLS framework to  stat.
+
+address endogeneity in the GI measures. Government spending on ed­  Notes: All models are estimated using a 2SLS estimator with robust standard
+ucation serves as an exclusion restriction, consistent with prior evidence  errors clustered at the country level. GI (green innovation) and the interaction
+linking public investment in education to innovation capacity  term (Education index × GI) are treated as endogenous and instrumented with
+(Castellacci and Natera, 2013; Leogrande and Costantiello, 2023). The  rd_std and its interaction with the Education index. The selection-corrected
+baseline 2SLS estimates reported in Table 6 indicate that GI significantly  models include the Inverse Mills Ratio from the first-stage selection equation.
+improves both financial performance outcomes. The probit selection  Here, managerial experience (relative to the regional mean) captures
+  innovation-oriented managerial capability and enters as a determinant of GI
+model is supported by the data (χ 2 = 5.08, p = 0.024), and the first-stage
+  adoption. The lower panel reports bootstrap standard errors based on 200
+F-statistics exceed the conventional threshold of 10. Following selection
+  resampling replications. *p < 0.10, **p < 0.05, ***p < 0.01.
+correction, the estimated coefficients on GI increase modestly for both
+performance measures. At the same time, the Inverse Mills Ratio (IMR)
+  capability or strategic orientation, may be driving additional benefits.
+is statistically significant only in the profit growth model (β = 0.066, p <
+  Beyond the main effects, the interaction with workforce education (GI ×
+0.05). Bootstrap standard errors based on 200 replications and clustered
+  Education index) shows marginally significant negative effects for sales
+at the country level confirm the robustness of these findings: GI remains
+  growth under both methods, indicating that GI's performance benefits
+statistically significant across both financial performance outcomes,
+  may be attenuated in firms with more highly educated workforces (Same
+whereas the IMR is insignificant for sales growth (β = 0.041, p > 0.10)
+  interpretation as Fig. 2). The consistency in sign and direction across
+and only marginally significant for profit growth (β = 0.066, p < 0.10).
+  both financial performance outcomes and estimation methods across
+Overall, the results suggest that GI has a positive, economically mean­
+  contexts complements the robustness of our findings. However, we only
+ingful effect on firm financial performance, while evidence of selection
+  report estimates from the baseline specification for parsimony.
+bias is limited and statistically weak. Given the stability of the estimates
+and the absence of substantial selection effects across specifications, we
+rely on the baseline 2SLS estimates in the main analysis.  4.3. Heterogeneity assessments
+  Having addressed unobserved selection through a 2SLS estimation,
+we conducted another robustness check using propensity score match­  4.3.1. Industry analysis: manufacturing vs. service firms
+ing (PSM) to account for observable selection bias, following the same  Table 8 presents the 2SLS estimates examining sectoral heterogene­
+approach used to identify green innovators in the selection model. Fig. 4  ity in the effects of GI on firm performance. GI significantly enhances
+illustrates the density distributions of propensity scores for treated  sales and profit growth across manufacturing and service firms, with
+(green innovators) and control firms (non-green innovators) across both  larger effects observed in the service sector. The education index shows
+financial performance outcomes—sales and profit growth. The distri­  no direct impact on financial performance outcomes. However, its
+butions are closely centered around 0.6 and span from approximately  interaction with GI reveals a notable divergence: in manufacturing,
+0.1 to 0.95, with near-undistinguishable shapes for both outcomes. This  higher education levels significantly dampen GI's positive effects,
+high degree of overlap confirms strong common support and suggests  whereas in services, no such moderation is evident. The right panel of
+that the matching process achieves satisfactory covariate balance across  Fig. 2 confirms this pattern, showing that firms with lower education
+specifications.  index values—those with less educated workforces—experience the
+  As shown in Table 7, 2SLS estimates from the baseline specification  most considerable financial gains from GI initiatives. (Fig. 2 applies
+reveal a significant positive effect of GI on sales and profit growth. The  similarly to subsequent models). This differential moderating impact
+PSM estimates also show statistically significant positive effects, though  suggests sector-specific dynamics in how human capital interacts with
+smaller in magnitude. These results suggest that observable character­  innovation processes. Also, among control variables, firm age consis­
+istics explain part of the performance gains. However, the larger 2SLS  tently predicts lower financial performance outcomes, consistent with
+coefficients imply that unobserved factors, such as managerial  organizational aging effects. Geographic location also matters: firms in
+
+  9
+
+=====PDFPAGE 10=====
+O.M. Adewumi and D. Zhang  Journal of Cleaner Production 548 (2026) 147857
+
+
+
+
+Fig. 4. Post-matching propensity score distributions for treated and control firms.
+Notes: The x-axis reports the propensity score, defined as the estimated probability of treatment conditional on observed covariates used in the nearest-neighbor
+matching procedure. The y-axis shows the kernel density of propensity scores for matched treated and control firms, illustrating common support after one-to-
+one Propensity Score Matching.
+
+
+
+Table 7  Table 8
+Comparison of 2SLS and Propensity – Score Matching Estimates for Baseline  Heterogeneity analysis by firm sectors – 2SLS regression.
+Specification (N = 8941 firms).  Independent  Manufacturing firms  Service firms
+ Method/Model  Coefficient  Std.  t-  p-  variables
+  Sales  Profit  Sales  Profit
+  Error  statistic  value
+  growth  growth  growth  growth
+ IV- 2SLS Estimates for Sales Growth
+  GI  0.102***  0.047**  0.123**  0.109**
+ GI  0.111  0.033  3.34  0.001
+  ​  (0.035)  (0.021)  (0.048)  (0.046)
+ Education index  0.002  0.031  0.19  0.846
+  Education index  0.011  − 0.002  0.016  0.024
+ GI × Education index  − 0.053  0.031  − 1.69  0.091
+  ​  (0.015)  (0.011)  (0.017)  (0.016)
+ IV- 2SLS Estimates for Profit  ​  ​  ​  ​
+  GI × Education  − 0.076**  − 0.047*  − 0.020  − 0.005
+  Growth
+  index
+ GI  0.070  0.027  2.57  0.010
+  ​  (0.036)  (0.028)  (0.055)  (0.053)
+ Education index  0.011  0.010  0.98  0.327
+  Competition  0.007  0.001  0.001  − 0.000
+ GI × Education index  − 0.030  0.031  − 0.98  0.328
+  ​  (0.011)  (0.008)  (0.012)  (0.011)
+ PSM Estimates for Sales Growth
+  Industry  − 0.002  − 0.002  0.002  0.002
+ GI  0.030  0.008  3.88  0.001
+  concentration
+ Education index  0.015  0.010  1.50  0.134
+  ​  (0.003)  (0.002)  (0.003)  (0.003)
+ GI × Education index  − 0.019  0.012  − 1.65  0.098
+  Exporter  0.008  0.006  0.014  0.012
+ PSM Estimates for Profit  ​  ​  ​  ​
+  ​  (0.013)  (0.010)  (0.020)  (0.018)
+  Growth
+  Firm legal status  0.009  0.008  0.014  0.013
+ GI  0.015  0.006  2.54  0.011
+  ​  (0.014)  (0.008)  (0.015)  (0.014)
+ Education index  0.018  0.008  2.32  0.020
+  Firm age  − 0.049***  − 0.020***  − 0.051***  − 0.046***
+ GI × Education index  − 0.013  0.009  − 1.37  0.171
+  ​  (0.009)  (0.004)  (0.010)  (0.009)
+Notes: All models include the full set of controls and are estimated using a 2SLS  Foreign ownership  − 0.004  0.004  − 0.005  − 0.003
+estimator with robust standard errors clustered at the country level. GI (green  ​  (0.010)  (0.008)  (0.017)  (0.016)
+  SMEs  0.017  0.006  0.012  0.010
+innovation) and the interaction term (Education index × GI) are treated as
+  ​  (0.012)  (0.007)  (0.019)  (0.018)
+endogenous and instrumented with rd_std and its interaction with the Education  Small-sized city  − 0.021  − 0.023**  − 0.040*  − 0.035*
+index (rd_std × Education index). The upper panel reports 2SLS estimates; the  ​  (0.020)  (0.009)  (0.020)  (0.019)
+lower panel reports PSM post-matching estimates with bootstrapped standard  Medium-sized city  − 0.007  − 0.014  − 0.036**  − 0.033**
+errors. Significance levels: *p < 0.10, **p < 0.05, ***p < 0.01.  ​  (0.020)  (0.011)  (0.018)  (0.017)
+  Asia  − 0.020  − 0.006  − 0.002  0.001
+  (0.029)  (0.015)  (0.042)  (0.039)
+North Africa outperform those in other regions, while those in smaller
+  ​
+  North Africa  0.068**  0.033***  0.124***  0.120***
+cities lag behind their counterparts in larger cities. Other firm-level  ​  (0.029)  (0.010)  (0.038)  (0.035)
+characteristics, including competition, exporter status, ownership  High-tech firms  0.014  0.007  ​  ​
+structure, and firm size, do not exhibit significant effects conditional on  ​  (0.011)  (0.006)  ​  ​
+  KIBS  0.012  − 0.001
+GI.  ​  ​
+  ​  ​  ​  (0.013)  (0.011)
+
+4.3.2. Sub-sectoral analysis  Observations  5155  5155  3786  3786
+  Cragg-Donald  145.982  145.982  70.458  70.458
+  A structural analysis examining manufacturing (high-tech vs. low-  Root MSE  0.244  0.143  0.261  0.245
+tech) and service firms (traditional services vs. KIBS) is further con­
+ducted to test whether aggregate sectoral patterns hold across industry  Notes: GI (green innovation) and the interaction term (Education index × GI)
+  are treated as endogenous and instrumented with rd_std and its interaction with
+substructures, as presented in Table 9. The 2SLS regression results reveal
+  the Education index. All models are estimated using a 2SLS estimator with
+substantial heterogeneity in the relationship between GI and firm per­
+  robust standard errors clustered at the country level. Variables with zero or
+formance across these four industry categories. In manufacturing sec­  negative values are IHS transformed. *p < 0.10, **p < 0.05, ***p < 0.01, KP/
+tors, GI is positively associated with both sales and profit growth, but is  Cragg– Donald and Kleibergen–Paap statistics test for weak instrument
+statistically stronger and more consistent in low-tech manufacturing.  identification.
+Meanwhile, in high-tech manufacturing, the association with sales
+
+
+  10
+
+=====PDFPAGE 11=====
+O.M. Adewumi and D. Zhang  Journal of Cleaner Production 548 (2026) 147857
+
+
+Table 9
+Heterogeneity analysis by industries – 2SLS regression.
+ Independent variables  High-Tech. Manufacturing  Low-Tech. Manufacturing  Traditional service firms  KIBS firms
+
+  Sales growth  Profit growth  Sales growth  Profit growth  Sales growth  Profit growth  Sales growth  Profit growth
+
+ GI  0.069*  0.039  0.127***  0.047*  0.118*  0.095*  0.290  0.300
+ ​  (0.041)  (0.028)  (0.043)  (0.028)  (0.058)  (0.055)  (0.209)  (0.139)
+ Education index  − 0.017  − 0.001  − 0.002  0.001  0.017  − 0.019  − 0.022  − 0.016
+ ​  (0.019)  (0.013)  (0.018)  (0.012)  (0.022)  (0.019)  (0.019)  (0.019)
+ GI × Education index  − 0.043  − 0.050  − 0.116*  − 0.035  − 0.030  − 0.017  − 0.093  − 0.096
+ ​  (0.039)  (0.032)  (0.066)  (0.043)  (0.078)  (0.074)  (0.127)  (0.116)
+ Competition  0.000  − 0.010  0.014  0.014  − 0.002  − 0.004  0.051  0.048
+ ​  (0.015)  (0.013)  (0.011)  (0.008)  (0.012)  (0.011)  (0.050)  (0.048)
+ Industry concentration  − 0.010***  − 0.006***  0.004  0.001  0.002  0.002  − 0.001  0.003
+ ​  (0.003)  (0.002)  (0.005)  (0.002)  (0.003)  (0.003)  (0.009)  (0.008)
+ Exporter  0.030*  0.016*  − 0.017  − 0.006  0.014  0.013  − 0.055  − 0.066
+ ​  (0.017)  (0.009)  (0.021)  (0.018)  (0.018)  (0.015)  (0.104)  (0.099)
+ Firm legal status  0.009  0.014  0.005  0.001  0.015  0.015  − 0.044  − 0.035
+ ​  (0.021)  (0.009)  (0.013)  (0.011)  (0.018)  (0.015)  (0.036)  (0.035)
+ Firm age  − 0.046***  − 0.019***  − 0.049***  − 0.020***  − 0.047***  − 0.043***  − 0.072***  − 0.059***
+ ​  (0.010)  (0.005)  (0.010)  (0.010)  (0.010)  (0.010)  (0.020)  (0.018)
+ Foreign ownership  0.013  0.008  − 0.025  − 0.001  0.011  0.009  − 0.072*  − 0.055
+ ​  (0.019)  (0.012)  (0.016)  (0.011)  (0.010)  (0.010)  (0.037)  (0.034)
+ SMEs  0.008  0.001  0.023  0.010  0.007  0.005  0.052  0.042
+ ​  (0.017)  (0.011)  (0.016)  (0.009)  (0.015)  (0.013)  (0.048)  (0.042)
+ Small-sized city  − 0.012  − 0.018*  − 0.026  − 0.026**  − 0.044*  − 0.034*  − 0.039  − 0.039
+ ​  (0.024)  (0.010)  (0.021)  (0.011)  (0.022)  (0.018)  (0.035)  (0.035)
+ Medium-sized city  0.000  − 0.013  − 0.013  − 0.016  − 0.040**  − 0.037**  − 0.015  − 0.011
+ ​  (0.024)  (0.012)  (0.020)  (0.012)  (0.018)  (0.017)  (0.031)  (0.031)
+ Asia  − 0.004  − 0.007  0.008  − 0.006  0.009  0.066  0.066  − 0.044
+ ​  (0.032)  (0.016)  (0.030)  (0.016)  (0.043)  (0.058)  (0.058)  (0.044)
+ North Africa  0.049  0.019  0.086***  0.045***  0.119***  0.104***  0.149***  0.234***
+ ​  (0.031)  (0.013)  (0.028)  (0.011)  (0.038)  (0.036)  (0.068)  (0.063)
+
+ Observations  2540  2540  2615  2615  3252  3252  534  534
+ Cragg-Donald  65.269  65.269  72.819  72.819  62.509  62.509  4.996  4.996
+ Root MSE  0.245  0.147  0.139  0.139  0.259  0.243  0.288  0.271
+
+Notes: GI (green innovation) and the interaction term (Education index × GI) are treated as endogenous and instrumented with rd_std and its interaction with the
+Education index. All models are estimated using a 2SLS estimator with robust standard errors clustered at the country level. Variables with zero or negative values are
+IHS transformed. *p < 0.10, **p < 0.05, ***p < 0.01, KP/Cragg– Donald and Kleibergen–Paap statistics test for weak instrument identification.
+
+
+growth is only marginally significant, suggesting a weaker but direc­  outcomes, indicating a more favorable institutional and market envi­
+tionally similar pattern. Among service firms, traditional service pro­  ronment for translating sustainability efforts into business outcomes. In
+viders also exhibit positive associations with both performance metrics,  contrast, Asian firms show no significant relationship between GI and
+though only marginally. In contrast, the coefficients for KIBS firms are  either performance metric, indicating that environmental innovation
+positive but statistically inconclusive, indicating that performance  may not yet be fully rewarded in this region.
+returns to GI may be more diffuse or contingent on complementary  .The moderating role of human capital is observed only in Europe,
+intangible assets in knowledge-intensive contexts.  not in North Africa or Asia. In Europe, the interaction between GI and
+  The interaction between GI and the education index shows a nega­  the education index is significantly negative for sales growth, suggesting
+tive moderation effect in low-tech manufacturing, though it is only  that the sales benefits of GI are stronger in firms with less educated
+weakly significant for sales growth. With the same interpretation in  workforces (same interpretation as Fig. 2). This may reflect sectoral
+Fig. 2, this suggests that the GI benefits decrease as workforce education  positioning, where firms with lower human capital operate in markets
+increases, possibly due to saturation effects or alternative innovation  where environmental credentials offer clearer differentiation. Alterna­
+pathways. Beyond this effect, financial performance declines with age  tively, GI in these contexts may rely more on practical application and
+across all sectors, buttressing the idea that newer firms are more growth-  operational efficiency than on advanced technical expertise. For other
+oriented. Location effects are also evident, with smaller and medium-  control variables, firm age negatively affects financial performance
+sized cities generally underperforming against larger urban centers,  outcomes across all regions. Industry concentration supports perfor­
+especially in manufacturing and traditional services. Low-tech  mance in North Africa but has negligible effects in other regions. While
+manufacturing and service firms perform exceptionally well in North  exporter status shows positive associations with profit growth in North
+Africa, suggesting substantial geographical advantages in these regions.  Africa, firm legal form has favorable impacts on financial performance
+Export status has a slightly positive effect in high-tech manufacturing,  in both North Africa and Asia. Foreign ownership has a marginally
+and foreign ownership has a weak negative effect in KIBS. Industry  negative effect on sales growth in North Africa only. SMEs operating in
+concentration reduces performance in high-tech manufacturing, sug­  European firms benefit from financial performance, but not in North
+gesting that, when innovation is used as a strategic response, competi­  African and Asian firms. City size matters in Asia, where firms in smaller
+tive intensity can facilitate innovation-led growth in these sectors.  and medium-sized cities underperform. Manufacturing performs less
+  than service firms across all regions, notably in North Africa and Europe.
+4.3.3. Geographic analysis
+  The positive relationship between GI and profit growth, shown in  4.3.4. SMEs vs. large firm analysis
+Table 10, is significant only at the marginal level in North Africa. From  Table 11 presents the 2SLS regression results, comparing the impact
+this result, GI may enhance profitability more than market expansion,  of GI on the financial performance of SMEs and large firms. For SMEs, GI
+possibly through operational efficiencies or niche positioning. In  is positively associated with sales growth, while its effect on profit
+Europe, GI significantly enhances both financial performance and  growth is not significant. This suggests that GI may primarily support
+
+  11
+
+=====PDFPAGE 12=====
+O.M. Adewumi and D. Zhang  Journal of Cleaner Production 548 (2026) 147857
+
+
+Table 10
+Heterogeneity analysis by geographic regions – 2SLS regression.
+ Independent variables  North Africa  Europe  Asia
+
+  Sales growth  Profit growth  Sales growth  Profit growth  Sales growth  Profit growth
+
+ GI  0.132  0.148*  0.122***  0.053**  0.029  0.016
+ ​  (0.109)  (0.089)  (0.045)  (0.023)  (0.060)  (0.056)
+ Education index  0.007  0.013  0.021  0.017  0.000  0.016
+ ​  (0.062)  (0.069)  (0.013)  (0.011)  (0.025)  (0.023)
+ GI × Education index  − 0.052  − 0.029  − 0.097***  − 0.043  0.107  0.096
+ ​  (0.101)  (0.101)  (0.031)  (0.029)  (0.102)  (0.103)
+ Competition  − 0.025*  − 0.034***  0.003  − 0.001  0.019  0.018
+ ​  (0.014)  (0.012)  (0.009)  (0.007)  (0.019)  (0.018)
+ Industry concentration  0.010***  0.008***  − 0.001  − 0.002  − 0.010  − 0.005
+ ​  (0.003)  (0.002)  (0.003)  (0.002)  (0.006)  (0.004)
+ Exporter  0.014  0.049***  0.012  0.002  − 0.011  − 0.013
+ ​  (0.019)  (0.012)  (0.015)  (0.009)  (0.017)  (0.014)
+ Firm legal status  − 0.008  0.025***  − 0.004  − 0.009  0.062***  0.060**
+ ​  (0.023)  (0.009)  (0.010)  (0.008)  (0.024)  (0.027)
+ Firm age  − 0.059***  − 0.036***  − 0.039***  − 0.023***  − 0.060***  − 0.036***
+ ​  (0.016)  (0.005)  (0.008)  (0.005)  (0.017)  (0.014)
+ Foreign ownership  − 0.029*  0.002  0.005  0.007  0.016  − 0.003
+ ​  (0.017)  (0.011)  (0.009)  (0.007)  (0.033)  (0.025)
+ SMEs  − 0.011*  − 0.018*  0.032***  0.018**  − 0.002  − 0.002
+ ​  (0.006)  (0.010)  (0.012)  (0.008)  (0.033)  (0.026)
+ Small-sized city  0.031  − 0.004  − 0.012  − 0.009  − 0.112*  − 0.097**
+ ​  (0.040)  (0.017)  (0.015)  (0.009)  (0.061)  (0.038)
+ Medium-sized city  0.038  0.001  − 0.003  − 0.004  − 0.079**  − 0.065**
+ ​  (0.057)  (0.042)  (0.010)  (0.009)  (0.037)  (0.031)
+ Manufacturing firms  − 0.015***  − 0.106***  0.013  − 0.054***  0.016  − 0.051*
+ ​  (0.003)  (0.021)  (0.010)  (0.008)  (0.029)  (0.029)
+
+ Observations  1606  1606  5504  5504  1831  1831
+ Cragg-Donald  13.105  13.105  109.382  109.382  48.353  48.353
+ Root MSE  0.234  0.189  0.237  0.176  0.295  0.230
+
+Notes: GI (green innovation) and the interaction term (Education index × GI) are treated as endogenous and instrumented with rd_std and its interaction with the
+Education index. All models are estimated using a 2SLS estimator with robust standard errors clustered at the country level. Variables with zero or negative values are
+IHS transformed. *p < 0.10, **p < 0.05, ***p < 0.01, KP/Cragg– Donald and Kleibergen–Paap statistics test for weak instrument identification.
+
+
+market expansion in smaller firms, possibly through differentiation or  linkage (5.1.1), an employee education “less is more” paradox (5.1.2),
+niche positioning. Conversely, large firms benefit more generally: GI  and other control variables (5.1.3). Section 5.2 presents the implications
+significantly enhances both financial performance outcomes for larger  of the above findings for theory (5.2.1), management (5.2.2), and pol­
+firms, with stronger coefficients and higher significance levels. Such  icymaking (5.2.3). A limitations discussion follows to round out this
+results suggest that the scale advantages, brand leverage, or more inte­  section, after which a brief final section draws on salient findings to
+grated sustainability strategies enjoyed by larger firms make them more  propose future research directions.
+effective at converting GI into improved financial performance. Whereas
+the interaction term (GI × education index) is insignificant for SMEs, it
+has a negative, significant coefficient for large firms, suggesting that the  5.1. Discussion
+sales benefits of GI dissipate in firms with more educated workforces.
+(Interpretation follows Fig. 2). This outcome may reflect more  Previous studies affirm that green practices drive sustainable growth
+competitive or sophisticated markets where environmental features are  by enhancing competitiveness and meeting regulatory and consumer
+embedded within broader innovation strategies rather than serving as  expectations (Shuwaikh et al., 2023; Banelienė and Strazdas, 2023;
+standalone differentiators.  Acemoglu et al., 2023). We extend this evidence, showing that GI im­
+  Control variables, such as firm age, are negatively associated with  proves financial performance in this context. However, the magnitude of
+financial performance outcomes, with slightly stronger effects among  this impact appears to depend on employee education, a key human
+SMEs. Exporter status is positively associated with performance in SMEs  capital resource that shapes firms' ability to absorb and apply sustain­
+but shows no significant effect in large firms. Firm legal status and  ability practices. We therefore examine how employee education mod­
+foreign ownership have limited influence across both groups. Regarding  erates GI's financial effects across sectors, firm sizes, and geographic
+location effects, being situated in smaller cities is significantly associated  regions, offering new insights into the conditions under which GI may
+with lower profit growth compared to metropolitan cities. Regional ef­  optimize financial returns.
+fects also vary: firms in North Africa show stronger, significant positive
+associations with financial performance outcomes than European firms  5.1.1. Green innovation and financial performance
+across firm sizes, whereas Asian firms show no significant impact.  Our findings for Hypothesis 1 confirm that GI significantly improves
+Finally, manufacturing firms exhibit significantly lower profit growth in  financial performance across diverse organizational contexts, aligning
+both SMEs and large firms, reinforcing the notion that service-oriented  with prior research like Shuwaikh et al. (2023). Also, this finding aligns
+sectors may be better positioned to capitalize on GI.  with Andersén (2021) and Silvério et al. (2025) in conceptualizing GI as
+  a dynamic capability within the RBV. Moreover, it aligns with Hundloe
+5. Discussion and implications of the study  (2021) and Purvis et al. (2018) on a niche-level driver of systemic
+  change in STT. The STT emphasizes that economies evolve through
+  Section 5.1 (Discussion) opens this section and is subdivided into  multilevel reconfigurations involving technology, institutions, and pol­
+three parts that interpret the results: the GI-financial performance  icy (Zhai and Chang, 2018). GI operates within this framework by
+  enabling firms to respond to environmental pressures while achieving
+
+  12
+
+=====PDFPAGE 13=====
+O.M. Adewumi and D. Zhang  Journal of Cleaner Production 548 (2026) 147857
+
+
+Table 11  the other hand, exhibit positive but statistically inconclusive co­
+Heterogeneity analysis by firm size – 2SLS regression.  efficients. This pattern implies that GI's financial returns in KIBS may
+ Independent  SMEs  Large firms  depend on complementary intangible assets—such as advanced human
+ variables  capital, client customization, or absorptive capacity—rather than GI
+  Sales  Profit  Sales  Profit
+  growth  growth  growth  growth  alone. These findings align with the RBV and STT, which emphasize that
+  innovation outcomes are shaped by the interaction between firm capa­
+ GI  0.078**  0.039  0.164***  0.110***
+ ​  (0.037)  (0.034)  (0.052)  (0.036)
+  bilities and institutional environments (Hundloe, 2021; Frenken et al.,
+ Education index  0.005  0.013  0.035  0.026  2023; Silvério et al., 2025).
+ ​  (0.016)  (0.015)  (0.024)  (0.018)  That being said, geographic heterogeneity underlies explaining
+ GI × Education  − 0.018  − 0.011  − 0.126*  − 0.065  institutional quality. The European firms gain significantly from GI,
+  index
+  consistent with mature regulatory frameworks and innovation ecologies
+ ​  (0.045)  (0.044)  (0.068)  (0.054)
+ Competition  0.007  − 0.001  − 0.013  − 0.005  that reward sustainability (Crescenzi and Rodríguez-Pose, 2011;
+ ​  (0.011)  (0.008)  (0.012)  (0.011)  Frenken et al., 2023). On the contrary, significant GI effects are absent
+ Industry  0.001  0.001  − 0.007  − 0.006  for Asian firms; this is clearly due to underdeveloped institutional en­
+  concentration  vironments and weaker market incentives (Bate et al., 2023). For North
+  (0.003)  (0.002)  (0.006)  (0.005)
+  Africa, modest gains in profitability indicate that GI improves opera­
+ ​
+ Exporter  0.025*  0.021*  − 0.012  − 0.012
+ ​  (0.015)  (0.011)  (0.016)  (0.011)  tional efficiency rather than market expansion in developing economies
+ Firm legal status  0.000  0.002  0.040  0.042  (Gebrue, 2024). Firm size moderates the association of GI with perfor­
+ ​  (0.008)  (0.007)  (0.026)  (0.027)  mance. At the aggregate level, large firms tend to benefit more from GI,
+ Firm age  − 0.053***  − 0.031***  − 0.042***  − 0.028***
+  buttressing Knott and Vieregger's (2015) argument that they leverage
+ ​  (0.010)  (0.007)  (0.009)  (0.007)
+ Foreign ownership  0.002  0.016  − 0.001  − 0.005  scale economies and integrated sustainability strategies to drive per­
+ ​  (0.013)  (0.010)  (0.012)  (0.010)  formance. SMEs exhibit positive sales effects with limited profit gains,
+ Small-sized city  − 0.029  − 0.027**  − 0.027  − 0.031**  confirming Sen et al. (2023), who posit that smaller firms leverage their
+ ​  (0.019)  (0.012)  (0.019)  (0.015)  agility to turn limited resources and absorptive capacity into perfor­
+ Medium-sized city  − 0.023  − 0.027*  − 0.005  − 0.009
+ ​  (0.021)  (0.014)  (0.016)  (0.013)
+  mance benefits. These findings support Andersén's (2021) perspective
+ Asia  − 0.019  − 0.018  0.037  0.020  that GI is essentially a strategic capability whose financial returns
+ ​  (0.038)  (0.028)  (0.023)  (0.019)  depend on the organizational structure and its alignment with the
+ North Africa  0.079**  0.050***  0.100***  0.085***  operational context. Overall, the contingent business case for our find­
+  (0.033)  (0.016)  (0. 027)  (0.020)
+ ​
+  ings is that GI builds market position more consistently than it improves
+ Manufacturing  0.016*  − 0.055***  0.003  − 0.062***
+  firms  profitability. Revenue effects appear broadly, while profit gains
+  concentrate in contexts with scale advantages (large firms), institutional
+ Observations  6213  6213  2728  2728
+ Cragg-Donald  118.668  118.668  79.656  79.656
+  support (Europe), or lower implementation barriers (services). This
+ Root MSE  0.258  0.196  0.230  0.176  asymmetry—market validation without uniform profit payoff—reflects
+  offsetting mechanisms that aggregate profitability ratios would obscure.
+Notes: GI (green innovation) and the interaction term (Education index × GI)
+are treated as endogenous and instrumented with rd_std and its interaction with
+the Education index. All models are estimated using a 2SLS estimator with
+  5.1.2. Employee education and the “less is more” paradox
+robust standard errors clustered at the country level. Variables with zero or  Hypothesis 2 is supported by a counterintuitive, theoretically
+negative values are IHS transformed. *p < 0.10, **p < 0.05, ***p < 0.01, KP/  grounded finding: firms with lower levels of employee education appear
+Cragg– Donald and Kleibergen–Paap statistics test for weak instrument  to derive greater financial benefits from GI than those with highly
+identification.  educated workforces. This pattern supports our view of the ‘less is more’
+  hypothesis, traceable to ACT and cognitive load perspectives
+economic goals. Our results reflect this dynamic: firms adopting GI  (Leal-Rodríguez et al., 2013; Leppink and Van den Heuvel, 2015). From
+benefit from regulatory incentives, improved reputation, and access to  the ACT perspective, Cohen and Levinthal, (1990) and Zahra and George
+sustainability-conscious markets (Holzner and Wagner, 2022; Acemoglu  (2002) contend that, while highly educated workers may become
+et al., 2023). From the RBV perspective, GI enables a firm to reorganize  cognitively overloaded or locked into rigid knowledge structures, the
+internal resources, such as technologies, processes, and knowledge, into  benefits of this education decrease. This perception, backed by Bunjak
+valuable and inimitable capabilities that contribute to environmental  et al. (2021), Stajkovic and Stajkovic (2025), and Yuwono (2021), limits
+and financial performance (Andersén, 2021; Silvério et al., 2025). In this  creative problem-solving and cross-functional collaboration. Our find­
+context, energy efficiency, emissions monitoring, and waste reduction  ings, in line with Aghion et al. (2009), indicate that employees with
+are GI practices that reduce operational costs, demonstrate an envi­  intermediate-level qualifications tend to have practical experience and
+ronmental commitment, enhance stakeholder trust, and differentiate a  adaptability that improve operational learning. These are practice ca­
+firm from competitors (Jia et al., 2021).  pabilities that support firm-switching events toward sustainability,
+  Sectoral analysis reveals stronger GI effects in service firms than in  involving multilevel transformations of policy, markets, and culture
+manufacturing. Service incorporates environmental innovation as  (Hundloe, 2021). This paradox suggests that valuable resources need not
+intangible assets such as brand equity and customer involvement  be highly formalized; tacit and flexible capabilities may be strategic to
+(Colombelli et al., 2015). Manufacturing firms incur higher imple­  capture the economics of GI from an RBV perspective.
+mentation costs and longer paybacks for innovations, particularly in  Sectoral and industry-level analyses continue to exhibit the
+high-tech firms. Low-tech manufacturing firms, on the other hand, show  education-GI interaction pattern: lower levels of employee education
+a stronger association with performance, suggesting that sustainability  appear to drive greater financial benefits from GI than highly educated
+offers a clearer differentiator in markets where it remains a new feature.  workforces in manufacturing, but not in services. This result is plausible
+Traditional service providers show positive associations between GI and  because, in manufacturing, especially in low-tech segments, GI often
+both sales and profit growth, though these are only marginally signifi­  targets tangible process improvements such as energy efficiency and
+cant. This suggests that GI contributes to performance even in less  waste management. These improvements depend more on tacit knowl­
+innovation-intensive service contexts, likely through operational im­  edge and experiential learning than on formal educational qualifica­
+provements and customer responses to sustainability signals. KIBS, on  tions. This view aligns with Human Capital Theory (Becker, 1975) and
+  absorptive capacity perspectives (Zahra and George, 2002), pointing out
+
+  13
+
+=====PDFPAGE 14=====
+O.M. Adewumi and D. Zhang  Journal of Cleaner Production 548 (2026) 147857
+
+
+that experiential learning is fundamental to knowledge assimilation and  institutions and the knowledge infrastructure within regions (Asheim
+application. Within this context, the current findings support the notion  and Gertler, 2005; Crescenzi and Rodríguez-Pose, 2011). A firm's legal
+advanced by Porter and Linde (1995) that capital-intensive innovation  form affects profitability through facilitating enhanced access to capital
+and automation can reduce the marginal contribution of human capital  and strategic flexibility, as described in corporate governance theory
+at the operational level. It also buttresses Acemoglu et al.'s (2006)  (Stowers, 2024). In line with Eide et al. (2021), negative associations
+argument that high fixed costs, together with slow diffusion rates (in our  between foreign ownership and financial performance, especially within
+context, GI), restrain the short-term returns to education. As high-tech  the confines of KIBS in North Africa, suggest that foreign investors may
+manufacturing and KIBS do not show this pattern, they benefit from  prioritize global efficiency over local adaptation, potentially hindering a
+advanced education, given that radical, knowledge-intensive in­  firm's ability to tailor GI to regional contexts. These findings underscore
+novations demand specialized expertise (Acemoglu et al., 2006; Miozzo  how ownership structure and market dynamics condition GI's financial
+and Soete, 2001). This divergence shows that education–innovation  returns across sectors and regions. Industry concentration has mixed
+outcomes depend on industry characteristics and innovation types.  effects: it appears to improve performance in North Africa, likely
+Hence, low-tech firms can achieve comparable GI financial performance  because dominant companies leverage scale and institutional advan­
+through experiential learning, consistent with Horbach's (2008) view of  tages. Still, it dampens outcomes in high-tech manufacturing, illus­
+firm-level routines and tacit knowledge. In a way, this finding aligns  trating Schumpeterian competition theory, which posits that while
+with Demirel and Kesidou (2011), showing that targeted policies and  moderate competition is conducive to innovation, excessive market
+organizational practices can substitute for formal education in building  concentration may decrease dynamic efficiency and dampen innovation
+GI capabilities.  incentives (Aghion et al., 2005).
+  Geographic variation further supports the institutional mediation
+argument. In North Africa and Asia, the moderating effect of employee  5.2. Implications of the study
+education is insignificant for the relationships between GI and sales and
+profit growth, likely reflecting the institutional challenges documented  5.2.1. Theoretical implications
+in these regions (Gebrue, 2024). In contexts of institutional voids,  This study offers three interlinked theoretical contributions that
+human capital must serve multiple compensatory roles (Khanna and  extend our understanding of how human capital interacts with GI. First,
+Palepu, 2010), potentially diluting its moderating effect on specific  it refines the RBV by showing that the optimal value of GI is not intrinsic
+innovation-performance relationships. As such, when examining GPM as  but contingent on complementary human capital configurations. Con­
+an outcome, a different pattern emerges. While workforce education  trary to traditional RBV logic, firms with high concentrations of highly
+strongly and positively moderates GI's effect on GPM. This divergence  educated employees may experience reduced financial returns from GI
+suggests different mechanisms for value capture. Educated employees  due to cognitive overload and siloed thinking. This introduces resource
+may enable firms to convert green initiatives into higher margins  composition complexity as a boundary condition to Barney's (1991)
+through premium-pricing know-how or operational efficiency. Even  framework (Andersén, 2021; Silvério et al., 2025). That is, competitive
+then, these margin advantages do not necessarily translate into faster  advantage stems from strategically balanced educational diversity that
+growth rates. This is consistent with North African firms operating in  fosters knowledge flow and resource complementarity (Domadenik
+resource-constrained environments where absorptive capacity (educa­  et al., 2020; Wales et al., 2013). Second, the study extends ACT (Zahra
+tion) enables value extraction rather than market expansion. In contrast,  and George, 2002) by documenting a negative moderation of employee
+the significant education-GI interaction for growth in European markets  education on the relationship between GI and financial performance
+reflects how external institutional support can substitute for internal  outcomes. While education enhances potential absorptive capacity,
+human capital in driving scale.  excessive formal credentials can constrain realized absorptive capacity,
+  Firm size analysis reveals that the education paradox is confined to  limiting firms' ability to transform and exploit knowledge (Leppink and
+large firms. In these organizations, multiple layers and specialized de­  Van den Heuvel, 2015). This finding supports Aghion et al.'s (2009)
+partments can create cognitive silos when overpopulated with highly  perspective, leading to the concept of stratified absorptive capacity. This
+credentialed staff (Leal-Rodríguez et al., 2013). SMEs, by nature of their  perception aligns with the view that optimal innovation performance
+flatter structures and the multifunctional nature of their roles, integrate  depends on formal education, tacit knowledge, and experiential
+knowledge naturally and avoid fragmentation (Sen et al., 2023). Em­  learning. Third, the current findings advance STT by revealing the
+ployees in SMEs, even highly qualified ones, stay closer to operational  multilevel boundary conditions under which GI drives systemic change
+realities and, thus, maintain contextual awareness and adaptability.  (Hundloe, 2021). The financial impact of GI varies by sector, region, and
+These findings help resolve the tension between human capital theory  firm size. GI enhances performance in services more than in
+and cognitive load theory. Education improves absorptive capacity but  manufacturing, is stronger in Europe than in Asia, and larger firms feel
+also introduces processing constraints and coordination liabilities when  the impact more than SMEs. This result requires a contextualized tran­
+excessively concentrated. In this regard, firms must trade off the benefits  sitions framework that embeds institutional quality, sectoral dynamics,
+of formal education against the risks of excessive thinking and com­  and organizational architecture.
+partmentalized knowledge. According to Shafiullah et al. (2021), this
+perception becomes even more important in sustainability-related  5.2.2. Managerial implications
+changes, where the effects of new ideas depend on the extent to which  Our findings reveal that GI's returns across financial performance
+organizational skills align with institutional and market conditions.  outcomes are more akin to a market-access investment for maintaining
+  or growing market share, rather than for immediate margin improve­
+5.1.3. Other controls  ment. However, it necessitates differentiated strategic approaches. In
+  The observed effects of other control variables align with several  resource-constrained contexts such as North Africa and parts of Asia,
+established frameworks. Firm age negatively impacted financial per­  managers should prioritize leveraging workforce absorptive capacity to
+formance, and supports Akben-Selcuk (2016), who argued that older  improve margins from GI, as growth effects may be more limited or
+firms may encounter structural inertia and reduced adaptability. With a  slower to materialize. In low-tech manufacturing, where lower
+marginally positive effect, exporter status is consistent with endogenous  employee education levels generate superior GI returns on growth,
+growth theory, which posits that internationalization is linked to pro­  managers should prioritize experiential learning and vocational
+ductivity gains and innovation spillovers (Antonelli, 2019). Findings on  training. They should empower frontline workers who possess tacit
+geographic location effects underpin regional innovation systems the­  knowledge of production processes rather than pursuing credentials for
+ory, which suggests that innovation incidence reflects the density of  their own sake. Service sector managers should integrate GI into
+
+  14
+
+=====PDFPAGE 15=====
+O.M. Adewumi and D. Zhang  Journal of Cleaner Production 548 (2026) 147857
+
+
+customer-facing operations. They should develop employees' abilities to  might help establish a link between the gains from GI and efficiency
+communicate sustainability benefits and engage customers as partners  changes. Similarly, though education differentially moderates GI returns
+in green value creation. Our results suggest services capture GI value  geographically, we cannot fully establish the reasons for this
+through relational capital, such as brand equity and customer involve­  geographical specificity, even with IV methods to account for endoge­
+ment. For KIBS, GI returns depend on complementary intangible assets  neity. Future research combining richer cost data, institutional in­
+rather than GI alone. Managers should invest in organizational capa­  dicators, and detailed innovation characteristics could better isolate
+bilities—proprietary tools, knowledge management systems, and client  these causal pathways. Finally, limitations in measuring employee ed­
+customization processes—that enable highly educated professionals to  ucation and other employment categories, as well as the absence of
+apply their expertise across diverse contexts efficiently. High-tech  sampling weights, may constrain generalizability. Our work, therefore,
+manufacturing managers should maintain emphasis on advanced edu­  calls for broader human capital measures and for design-based inference
+cation for radical innovations. However, they must implement cross-  in future work.
+functional collaboration mechanisms to prevent cognitive silos among
+highly credentialed staff. Large firms must be particularly attentive to  6. Conclusions
+knowledge fragmentation across specialized departments. In contrast,
+SMEs should leverage their natural agility and flatter structures to  This study investigates how GI affects firm financial performance
+rapidly implement incremental GIs aligned with existing operational  across diverse organizational and regional contexts, and whether
+capabilities.  employee education levels shape this relationship. Drawing on data
+  from 8941 firms across 42 countries and employing a 2SLS estimation
+5.2.3. Policy implications  strategy, the study demonstrated that GI generally contributes positively
+  The findings of the current work suggest that policymakers should  to financial performance. However, this impact is far from uniform.
+avoid a generalized policy framework. They must model differentiated  Sectoral, regional, and organizational heterogeneity significantly con­
+support mechanisms that account for sectoral, regional, and firm-size  dition the strength and direction of GI's financial performance. GI yields
+differences. For manufacturing, notably low-tech segments, policies  more substantial financial returns in European firms and in traditional
+should support vocational training programs, apprenticeships, and  manufacturing and service sectors. Meanwhile, its effects are either
+worker participation initiatives. These firms should develop practical  weaker or statistically insignificant in Asia, high-tech manufacturing,
+green skills rather than emphasizing academic credentials alone. Service  and KIBS firms. These key insights point to institutional maturity, sec­
+sectors require support for training that integrates environmental  toral structure, and resource configurations as important considerations,
+awareness with customer engagement capabilities. Knowledge-intensive  and echo theoretical insights from the RBV, ACT, and the literature on
+sectors benefit from funding for collaborative platforms, knowledge  sustainability transitions.
+repositories, and technology transfer mechanisms. Regional policies  A notable and somewhat counterintuitive finding is the “less is more”
+must acknowledge institutional variation. In Europe, policymakers  dynamic: firms with lower levels of employee education often realize the
+should continue strengthening regulatory frameworks and collaborative  most favorable financial payoffs from GI. This outcome suggests that
+innovation networks. In Asia and North Africa, where institutional voids  absorptive capacity, characterized by the distribution of practical
+constrain GI adoption, policies should prioritize the development of  expertise and flexible knowledge structures across educational tiers,
+internal firm capabilities. This includes technical assistance, industry  outperforms more education-intensive configurations. This is especially
+associations, and targeted support for operational efficiency improve­  true in contexts where operational flexibility and practical application
+ments that generate immediate financial benefits. Education policy  are crucial. To this end, firm managers must not define GI strategies
+should balance skill learning and formal knowledge, with adaptations  based on the assumption that all education, including higher education,
+according to different contexts. Besides formal academic qualifications,  is a panacea for improving GI performance, but rather based on
+it should be modeled to support other routes of learning, such as voca­  matching employees' capabilities to the contextual realities of enter­
+tional education and lifelong training. Size-specific policies will make  prises. Also, policymakers should invest in competency-based training
+accessible training and financial support available to resource-  systems built around layers of complementary skills within new insti­
+constrained SMEs.They should also encourage large firms to imple­  tutional ecosystems. By implication, there is a need for future research
+ment mechanisms for knowledge integration that bridge departmental  exploring how various types of GI interact with different human capital
+silos. Fundamentally, both firm managers and policymakers must  profiles and institutional settings to shape financial trajectories. Simi­
+acknowledge that valuable GI capabilities need not be too formalized.  larly, it requires that panel studies with better measures of human
+They must view that tacit knowledge, experiential learning, and prac­  capital, including tacit knowledge and cross-functional learning, can
+tical problem-solving skills are complementary strategic assets that vary  provide improved insights into how GI capability builds over time and
+across sectors and institutions.  contributes to continued economic growth across various contexts.
+
+5.3. Limitations of the study  CRediT authorship contribution statement
+
+  Despite the important contributions of this study, several limitations  Olugbenga Michael Adewumi: Writing – review & editing, Writing
+remain. While documenting a positive association between GI and  – original draft, Validation, Supervision, Software, Project administra­
+financial performance outcomes, future research might decompose how  tion, Methodology, Formal analysis, Data curation, Conceptualization.
+different types of GI interact with employee education to shape diver­  Dengjun Zhang: Writing – review & editing, Validation, Supervision,
+gent performance outcomes. The reliance on cross-sectional data limits  Project administration, Methodology, Data curation, Conceptualization.
+understanding of dynamic adjustment processes; it is assumed that
+longitudinal designs can uncover such adjustments. In our case, focusing  Declaration of competing interest
+on sales and profit growth comprises two very significant strategic di­
+mensions. However, it does not allow us to assess net profitability or  The authors declare that they have no known competing financial
+fully observe GI-related implementation and education costs, which may  interests or personal relationships that could have appeared to influence
+differ substantially across contexts. This is especially evident for North  the work reported in this paper.
+African markets, where the margin gains from GI seem contingent on
+education, suggesting a heterogeneous structure. Future studies using
+return ratios (ROA, ROE) or productivity (e.g., value added per person)
+
+  15
+
+=====PDFPAGE 16=====
+O.M. Adewumi and D. Zhang  Journal of Cleaner Production 548 (2026) 147857
+
+
+Appendix A. Supplementary data  Choi, Y.M., Park, K., 2019. Foreign ownership, agency costs, and long-term firm growth:
+  evidence from Korea. Sustainability 11, 1599. https://doi.org/10.3390/
+  su11061599.
+  Supplementary data to this article can be found online at https://doi.  Clougherty, J.A., Duso, T., Muck, J., 2016. Correcting for self-selection-based
+org/10.1016/j.jclepro.2026.147857.  endogeneity in management research. Organ. Res. Methods 19, 286–347. https://
+  doi.org/10.1177/1094428115619013.
+  Cohen, W.M., Levinthal, D.A., 1990. Absorptive capacity: a new perspective on learning
+Data availability  and innovation. Adm. Sci. Q. 35, 128–152. https://doi.org/10.2307/2393553.
+  Cohen, W.M., Klepper, S., 1992. The trade-off between firm size and diversity in the
+  The data from the World Bank Enterprise Surveys that support our  pursuit of technological progress. Small Bus. Econ. 4, 1–14. https://doi.org/
+  10.1007/bf00402211.
+findings in this study are available at: https://login.enterprisesurveys.  Colombelli, A., Krafft, J., Quatraro, F., 2015. Eco-innovation and firm growth: do green
+org/content/sites/financeandprivatesector/en/signin.html  gazelles run faster? Microeconometric evidence from a sample of European firms.
+  The data used regarding development status analysis in our study is  WWWforEurope Working Pap. 88.
+  Consoli, D., Marin, G., Marzucchi, A., Vona, F., 2016. Do green jobs differ from non-green
+obtained from the World Economic Situation and Prospects 2023: Eco­  jobs in terms of skills and human capital? Res. Pol. 45, 1046–1060. https://doi.org/
+nomic Analysis and Policy.  10.2139/ssrn.2744521.
+  Crescenzi, R., Rodríguez-Pose, A., 2011. Innovation and Regional Growth in the
+  European Union. Springer, Berlin.
+References  Crook, T.R., Todd, S.Y., Combs, J.G., Woehr, D.J., Ketchen Jr., D.J., 2011. Does human
+  capital matter? A meta-analysis of the relationship between human capital and firm
+Acemoglu, D., Aghion, P., Zilibotti, F., 2006. Distance to frontier, selection, and  performance. J. Appl. Psychol. 96, 443–456. https://doi.org/10.1037/a0022147.
+  economic growth. J. Eur. Econ. Assoc. 4, 37–74. https://doi.org/10.1162/  Dangelico, R.M., 2016. Green product innovation: where we are and where we are going.
+  jeea.2006.4.1.37.  Bus. Strat. Environ. 25, 560–576. https://doi.org/10.1002/bse.1886.
+Acemoglu, D., Aghion, P., Barrage, L., Hémous, D., 2023. Green innovation and the  Demirel, P., Kesidou, E., 2011. Stimulating different types of eco-innovation in the UK:
+  transition toward a clean economy. Peterson inst. Int. Econ. Working Pap. https://  government policies and firm motivations. Ecol. Econ. 70, 1546–1557. https://doi.
+  doi.org/10.2139/ssrn.4816734, 23–14.  org/10.1016/j.ecolecon.2011.03.019.
+Aghion, P., Bloom, N., Blundell, R., Griffith, R., Howitt, P., 2005. Competition and  Domadenik, P., Pastore, F., Koman, M., Redek, T., 2020. Innovation for a greener and
+  innovation: an inverted-U relationship. Q. J. Econ. 120, 701–728.  more profitable future: a conceptual approach. In: Nesticò, A., Maselli, G. (Eds.),
+Aghion, P., Boustan, L., Hoxby, C., Vandenbussche, J., 2009. The causal impact of  Challenges on the Path Toward Sustainability in Europe. Emerald, Bingley,
+  education on economic growth: evidence from US. Brookings Pap. Econ. Activ. 1,  pp. 127–145.
+  1–73.  Eide, L.S., Erraia, J., Grimsby, G., 2021. Industry concentration and profitability in
+Aghion, P., 2018. Innovation and growth from a Schumpeterian perspective. Rev. Écon.  Europe: the case of Norway. Jahrbücher Natlökonomie Stat. 241, 577–622. https://
+  Polit. 128, 693–711. https://doi.org/10.3917/redp.285.0693.  doi.org/10.1515/jbnst-2020-0048.
+Aihounton, G.B., Henningsen, A., 2021. Units of measurement and the inverse hyperbolic  European Commission, 2011. Roadmap to a Resource Efficient Europe. COM (2011)
+  sine transformation. Econ. J. 24 (2), 334–351. https://doi.org/10.1093/ectj/  0571. European Commission, Brussels.
+  utaa032.  FasterCapital, 2024. Profit contribution: the role of profit contribution in business
+Akben-Selcuk, E., 2016. Does firm age affect profitability? Evidence from Turkey. Int. J.  growth and sustainability. https://fastercapital.com/content/Profit-Contribution–Th
+  Econ. Sci. 5, 1–14. https://doi.org/10.20472/es.2016.5.3.001.  e-Role-of-Profit-Contribution-in-Business-Growth-and-Sustainability.html.
+Aloqaily, A., 2023. The effects of green human resource on employees' green voice  Frenken, K., Neffke, F., Van Dam, A., 2023. Capabilities, institutions and regional
+  behaviors towards green innovation. ABAC J 43, 377–397. https://doi.org/  economic development: a proposed synthesis. Camb. J. Reg. Econ. Soc. 16, 405–416.
+  10.59865/abacj.2023.62.  https://doi.org/10.1093/cjres/rsad021.
+Andersén, J., 2021. A relational natural-resource-based view on product innovation: the  Gaio, C., Henriques, R., 2018. Are large firms more profitable than small and medium
+  influence of green product innovation and green suppliers on differentiation  firms in the European Union? Eur. J. Manag. Stud. 23, 25–48.
+  advantage in small manufacturing firms. Technovation 104, 102254. https://doi.  Gebrue, N., 2024. Institutional quality and economic growth in upper-middle-income
+  org/10.1016/j.technovation.2021.102254.  African countries. African J. Econ. Manag. Stud. https://doi.org/10.1108/ajems-01-
+Antonelli, C., 2019. The creative response and international trade. Struct. Change Econ.  2024-0044.
+  Dynam. 51, 445–452. https://doi.org/10.1016/j.strueco.2019.03.002.  Grant, R.M., 1991. The resource-based theory of competitive advantage: implications for
+Asheim, B., Gertler, M.S., 2005. The geography of innovation: regional innovation  strategy formulation. Calif. Manag. Rev. 33, 114–135. https://doi.org/10.2307/
+  systems. In: Fagerberg, J., Mowery, D.C., Nelson, R.R. (Eds.), The Oxford Handbook  41166664.
+  of Innovation. Oxford Univ. Press, Oxford, pp. 291–317.  Guinot, J., Barghouti, Z., Beltrán-Martín, I., Chiva, R., 2023. Corporate social
+Banelienė, R., Strazdas, R., 2023. Green innovation for competitiveness: impact on GDP  responsibility toward employees and green innovation: exploring the link in the
+  growth in the European Union. Contemp. Econ. 17, 92–108. https://doi.org/  tourism sector. Green Finance 5, 298–320. https://doi.org/10.3934/gf.2023012.
+  10.5709/ce.1897-9254.501.  Hanson, D., Hitt, M.A., Ireland, R.D., Hoskisson, R.E., 2016. Strategic Management:
+Barba-Aragón, M.I., Jiménez-Jiménez, D., 2024. Is training a green innovation driver?  Competitiveness and Globalization. Cengage, Australia.
+  The mediating role of knowledge acquisition. J. Knowl. Manag. 28, 463–483.  Hatakeda, T., Kokubu, K., Kajiwara, T., Nishitani, K., 2012. Factors influencing corporate
+  https://doi.org/10.1108/jkm-10-2022-0818.  environmental protection activities for greenhouse gas emission reductions: the
+Barney, J., 1991. Firm resources and sustained competitive advantage. J. Manag. 17,  relationship between environmental and financial performance. Environ. Resour.
+  99–120. https://doi.org/10.1177/014920639101700108.  Econ. 53, 455–481. https://doi.org/10.1007/s10640-012-9571-5.
+Bate, A.F., Wachira, E.W., Danka, S., 2023. The determinants of innovation performance:  Holzner, B., Wagner, M., 2022. Linking levels of green innovation with profitability
+  an income-based cross-country comparative analysis using the global innovation  under environmental uncertainty: an empirical study. J. Clean. Prod. 378, 134438.
+  index (GII). J. Innov. Entrep. 12, 1–19. https://doi.org/10.1186/s13731-023-00283-  https://doi.org/10.3917/jie.pr1.0137.
+  2.  Horbach, J., 2008. Determinants of environmental innovation—New evidence from
+Becker, G.S., 1975. Human Capital: a Theoretical and Empirical Analysis. National  German panel data sources. Res. Pol. 37, 163–173. https://doi.org/10.1016/j.
+  Bureau Econ. Res., New York.  respol.2007.08.006.
+Bentham, G., 2024. Sustainable technology: a competitive advantage for businesses.  Hundloe, T., 2021. Sustainability perspectives: ecological, economic and social. Environ.
+  Capgemini Norway. https://www.capgemini.com/no-no/insights/expert-perspecti  Impact Assess 49–80. https://doi.org/10.1007/978-3-030-80942-3_3.
+  ves/sustainable-technology-a-competitive-advantage-for-businesses.  IPCC, 2023. Climate change 2023: synthesis report. Contribution of working groups I, II,
+Bogliacino, F., Pianta, M., 2013. Profits, R&D, and innovation—a model and a test. Ind.  and III to the sixth assessment report of the intergovernmental Panel on climate
+  Corp. Change 22, 649–678. https://doi.org/10.1093/icc/dts028.  change. IPCC, Geneva 35–115. https://doi.org/10.59327/IPCC/AR6-
+Boschma, R., Gianelle, C., 2014. Regional branching and smart specialisation policy.  9789291691647.
+  JRC88242. Joint Research Centre, European Commission.  Jaffe, A.B., 1989. Real effects of academic research. Am. Econ. Rev. 79, 957–970.
+Buhl, A., Blazejewski, S., Dittmer, F., 2016. The more, the merrier: why and how  Jia, L., Hao, Y., Hu, W., 2021. Energy constraint in China at the expense of profitability?
+  employee-driven eco-innovation enhances environmental and competitive  Perspectives of green technology innovation. J. Global Inf. Manag. 30, 1–20. https://
+  advantage. Sustainability 8, 946. https://doi.org/10.3390/su8090946.  doi.org/10.4018/jgim.303110.
+Bunjak, A., Černe, M., Popovič, A., 2021. Absorbed in technology but digitally  Khanna, T., Palepu, K.G., 2010. Winning in Emerging Markets: a Road Map for Strategy
+  overloaded: interplay effects on gig workers' burnout and creativity. Inf. Manag. 58,  and Execution. Harvard Bus. Press.
+  103533. https://doi.org/10.1016/j.im.2021.103533.  Knott, A.M., Vieregger, C., 2015. Reconciling the Firm Size and Innovation Debate.
+Bronzini, R., Piselli, P., 2016. The impact of R&D subsidies on firm innovation. Res. Pol.  Wharton School, Univ. Pennsylvania, Philadelphia.
+  45, 442–457. https://doi.org/10.1016/j.respol.2015.10.008.  Leal-Rodríguez, A.L., Roldán, J.L., Leal, A.G., Ortega-Gutiérrez, J., 2013. Knowledge
+Castellacci, F., Natera, J.M., 2013. The dynamics of national innovation systems: a panel  management, relational learning, and the effectiveness of innovation outcomes.
+  cointegration analysis of the co-evolution between innovative capability and  Serv. Ind. J. 33, 1294–1311. https://doi.org/10.1080/02642069.2013.815735.
+  absorptive capacity. Res. Pol. 42, 579–594. https://doi.org/10.1016/j.  Le, T.T., 2022. How do corporate social responsibility and green innovation transform
+  respol.2012.10.006.  corporate green strategy into sustainable firm performance? J. Clean. Prod. 362,
+  132228. https://doi.org/10.1016/j.jclepro.2022.132228.
+
+
+
+
+  16
+
+=====PDFPAGE 17=====
+O.M. Adewumi and D. Zhang  Journal of Cleaner Production 548 (2026) 147857
+
+Leogrande, A., Costantiello, A., 2023. The impact of government expenditure on  Sen, S., Savitskie, K., Mahto, R.V., Kumar, S., Khanin, D., 2023. Strategic flexibility in
+  education in the ESG models at world level. SSRN Working Pap., 4438106 https://  small firms. J. Strat. Market. 31, 1053–1070. https://doi.org/10.1080/
+  doi.org/10.2139/ssrn.4438106.  0965254x.2022.2036223.
+Leoncini, R., Marzucchi, A., Montresor, S., Rentocchini, F., Rizzo, U., 2019. Better late  Shafiullah, M., Papavassiliou, V.G., Shahbaz, M., 2021. Is there an extended education-
+  than never: the interplay between green technology and age for firm growth. Small  based environmental kuznets curve? An analysis of US states. Environ. Resour. Econ.
+  Bus. Econ. 52, 891–904. https://doi.org/10.1007/s11187-017-9939-6.  80, 795–819. https://doi.org/10.1007/s10640-021-00610-9.
+Leppink, J., Van den Heuvel, A., 2015. The evolution of cognitive load theory and its  Shearmur, R., Doloreux, D., 2016. How open innovation processes vary between urban
+  application to medical education. Perspect. Med. Educ. 4, 119–127. https://doi.org/  and remote environments: slow innovators, market-sourced information and
+  10.1007/s40037-015-0192-x.  frequency of interaction. Enterpren. Reg. Dev. 28, 337–357. https://doi.org/
+Liao, W.W., 2017. A study on the correlations among environmental education,  10.1080/08985626.2016.1154984.
+  environment-friendly product development, and green innovation capability in an  Shuwaikh, F., Benkraiem, R., Dubocage, E., 2023. Investment in green innovation: how
+  enterprise. Eurasia J. Math. Sci. Technol. Educ. 13, 5435–5444. https://doi.org/  does it contribute to environmental and financial performance? J. Innov. Econ.
+  10.12973/EURASIA.2017.00841a.  Manag. 41, 107–149. https://doi.org/10.3917/jie.pr1.0137.
+Luo, C., Xie, L., 2023. Regional intergenerational mobility and corporate innovation:  Silvério, A., Costa, M., Pereira, L., 2025. Green innovation strategies from the resource-
+  evidence from China. PLoS One 18, e0283588. https://doi.org/10.1371/journal.  based view perspective. J. Bus. Strat. 36, 123–140. https://doi.org/10.1108/EJIM-
+  pone.028358.  12-2024-1427.
+Martínez-Costa, C., Mas-Machuca, M., Beneditoh content-markup(ce:surname)> , E.,  Stajkovic, A.D., Stajkovic, K.S., 2025. Human Sustainability and Cognitive Overload at
+  Corominas, A., 2014. A review of mathematical programming models for strategic  Work: the Psychological Cost of Working. Taylor & Francis, p. 183.
+  capacity planning in manufacturing. Int. J. Prod. Econ. 153, 66–85. https://doi.org/  Stock, J.H., Yogo, M., 2005. Testing for weak instruments in linear IV regression. In:
+  10.1016/j.ijpe.2014.03.011.  Andrews, D.W.K., Stock, J.H. (Eds.), Identification and Inference for Econometric
+Matemilola, B.T., Kijkasiwat, P., Liew, C.Y., 2024. The moderating effect of firm age on  Models: Essays in Honor of Thomas Rothenberg. Cambridge Univ. Press, Cambridge,
+  capital structure choices: evidence from emerging markets. J. Ind. Bus. Econ.  pp. 80–108.
+  https://doi.org/10.1007/s40812-024-00299-z.  Stowers, J., 2024. Guide to Choosing a Legal Structure for your Business. Business News
+Miozzo, M., Soete, L., 2001. Internationalization of services: a technological perspective.  Daily. https://www.businessnewsdaily.com/8163-choose-legal-business-structure.
+  Technol. Forecast. Soc. Change 67, 159–185. https://doi.org/10.1016/S0040-1625  html.
+  (00)00091-3.  Teece, D.J., 2016. Dynamic capabilities and entrepreneurial management in large
+Moulton, B.R., 1990. An illustration of a pitfall in estimating the effects of aggregate  organizations: toward a theory of the (entrepreneurial) firm. Eur. Econ. Rev. 100,
+  variables on micro units. Rev. Econ. Stat. 72, 334–338. https://www.jstor.org/stabl  86–106. https://doi.org/10.1016/j.euroecorev.2015.11.006.
+  e/2109724.  Wales, W.J., Parida, V., Patel, P.C., 2013. Too much of a good thing? Absorptive
+Nahm, J., 2022. Green growth models. In: Baccaro, L., Blyth, M., Pontusson, J. (Eds.),  capacity, firm performance, and the moderating role of entrepreneurial orientation.
+  Diminishing Returns: the New Politics of Growth and Stagnation. Oxford Univ. Press,  Strateg. Manag. J. 34, 622–633. https://doi.org/10.1002/smj.2026.
+  Oxford, pp. 443–464.  Wang, X., Xu, Z., Qin, Y., Skare, M., 2022. Innovation, the knowledge economy, and
+Pinkse, J., 2023. The green transition: net zero as an opportunity to improve  green growth: is knowledge-intensive growth really environmentally friendly?
+  productivity. Productivity Institute. Working Pap. No. 024.  Energy Econ. 115, 106331. https://doi.org/10.1016/j.eneco.2022.106331.
+Porter, M.E., Linde, C.V.D., 1995. Toward a new conception of the environment-  Wernerfelt, B., 2016. Adaptation, Specialization, and the Theory of the Firm:
+  competitiveness relationship. J. Econ. Perspect. 9, 97–118. https://doi.org/10.1257/  Foundations of the Resource-based View. Cambridge Univ. Press, Cambridge.
+  jep.9.4.97.  Winston, A., 2024. Why we need to, have to, want to act on climate. MIT Sloan Manag.
+Purvis, B., Mao, Y., Robinson, D., 2018. Three pillars of sustainability: in search of  Rev. https://sloanreview.mit.edu/article/why-we-need-to-have-to-want-to-act-on
+  conceptual origins. Sustain. Sci. 14, 681–695. https://doi.org/10.1007/s11625-018-  -climate.
+  0627-5.  Wooldridge, J.M., 2010. Econometric Analysis of Cross Section and Panel Data, second
+Putro, R.K., Lubis, A.W., 2023. Inovasi hijau, umur top management, dan profitabilitas:  ed. MIT Press, Cambridge.
+  studi pada perusahaan listrik. Revitalisasi J. Manaj. 12, 401–411. https://doi.org/  Yuwono, W., 2021. Empirical analysis of intellectual capital, potential absorptive
+  10.32503/revitalisasi.v12i2.4594.  capacity, realized absorptive capacity and cultural intelligence on innovation.
+Rho, Y., Fabrizi, S., Lippert, S., 2021. Employee Characteristics, Absorptive Capacity and  Manag. Sci. Lett. 11, 1399–1406.
+  Innovation. University Library of Munich, Germany.  Zahra, S.A., George, G., 2002. Absorptive capacity: a review, reconceptualization, and
+Riaz, M., Jie, W., Sherani, A., Ali, S., Chang, S., 2024. Assessing the role of organizational  extension. Acad. Manag. Rev. 27, 185–203. https://doi.org/10.2307/4134351.
+  strategic factors in stimulating green innovation performance: moderating effects of  Zhai, T., Chang, Y., 2018. Standing of environmental public-interest litigants in China:
+  green absorptive capacity. Bus. Process Manag. J. 30, 1013–1043. https://doi.org/  evolution, obstacles, and solutions. J. Environ. Law 30, 369–397. https://doi.org/
+  10.1108/bpmj-12-2023-0967.  10.1093/jel/eqy011.
+Sala, S., Benini, L., Mancini, L., Ponsioen, T., Laurent, A., van Zelm, R., Pant, R., 2014.  Zhang, D., 2023. Talk the talk, but walk the walk? female-managed firms and
+  Methodology for building LCA-compliant national inventories of emissions and  greenwashing behavior. Environ. Behav. 55, 364–394. https://doi.org/10.1177/
+  resource extraction. JRC Sci. Policy Rep., EUR, 26871. EN. Publ. Office of the EU,  00139165231192357.
+  Luxembourg.  Zhang, D., Rong, Z., Ji, Q., 2019. Green innovation and firm performance: evidence from
+Schweisfurth, T.G., Raasch, C., 2018. Absorptive capacity for need knowledge:  listed companies in China. Resour. Conserv. Recycl. 144, 48–55. https://doi.org/
+  antecedents and effects for employee innovativeness. Res. Pol. 47, 687–699. https://  10.1016/j.resconrec.2019.01.023.
+  doi.org/10.1016/j.respol.2018.01.017.
+
+
+
+
+  17
+
+=====PDFPAGE 18=====

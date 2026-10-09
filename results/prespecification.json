@@ -1,0 +1,51 @@
+{
+  "frozen_at": "2026-10-09T20:23:47",
+  "tier": "1 - pre-specified main models",
+  "regressors": [
+    "prod_innov",
+    "proc_innov",
+    "web"
+  ],
+  "controls_growth": [
+    "ln_size_init",
+    "ln_age",
+    "foreign_own",
+    "exporter",
+    "corporation",
+    "sec_Retail",
+    "sec_Other services"
+  ],
+  "controls_level": [
+    "ln_size_cur",
+    "ln_age",
+    "foreign_own",
+    "exporter",
+    "corporation",
+    "sec_Retail",
+    "sec_Other services"
+  ],
+  "outcomes": {
+    "D1_sales": "g_sales",
+    "D1_lp": "g_lp",
+    "D2_emp": "g_emp",
+    "D3_female": "female_share",
+    "D3_lowskill": "lowskill_prod_share",
+    "D4_energy": "env_energy_mgmt",
+    "D4_co2": "env_co2_monitor"
+  },
+  "estimators": {
+    "D1_sales": "ols",
+    "D1_lp": "ols",
+    "D2_emp": "ols",
+    "D3_female": "ols",
+    "D3_lowskill": "ols",
+    "D4_energy": "logit",
+    "D4_co2": "logit"
+  },
+  "weights": "wstrict rescaled to mean 1 within country",
+  "strata": "country_strata (no PSU variable)",
+  "winsorisation": "growth outcomes winsorised at 1st/99th percentile within country",
+  "causal_claims": "none",
+  "iv": "not used",
+  "multiplicity": "Holm adjustment reported across the 21 regressor x outcome tests within each model"
+}
