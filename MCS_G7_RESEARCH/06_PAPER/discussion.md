@@ -1,0 +1,5 @@
+# 5. Discussion
+
+The evidence supports a predominantly **gradient** reading of observable control practices in these data: the practices share a dominant continuous dimension; latent classes are poorly separated, ordered along that dimension when K = 3, and add no explanatory value over the continuous score. A small, unstable class suggests that targets without matching incentives may exist, but this is tentative. We do not claim distinct forms of control.
+
+Relative to Bloom and Van Reenen (2007), an aggregate score is not shown to be inadequate here; configuration-based analysis adds little for the outcomes examined. Relative to Malmi and Brown (2008), we find co-occurrence of monitoring, targets and bonuses beyond independence, but cannot speak to cultural, planning or administrative controls. Relative to Simons (1995), the observed practices are compatible with diagnostic control, but nothing in WBES identifies interactive use. The results are mainly descriptive and should not be treated as a theory of management control.

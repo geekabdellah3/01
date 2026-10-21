@@ -59,3 +59,31 @@
 [2026-10-21 17:56:47]   D K=1 ll=-33373.1 BIC=66868.7 ent=1.000 minpi=1.000 reach_best=2/2 [0s]
 [2026-10-21 17:56:51]   D K=2 ll=-31705.9 BIC=63665.5 ent=0.643 minpi=0.418 reach_best=8/8 [4s]
 [2026-10-21 17:56:56]   D K=3 ll=-31210.7 BIC=62806.3 ent=0.709 minpi=0.136 reach_best=8/8 [5s]
+[2026-10-21 17:57:07]   D K=4 ll=-31084.4 BIC=62684.9 ent=0.610 minpi=0.100 reach_best=8/8 [11s]
+[2026-10-21 17:57:22]   D K=5 ll=-31003.6 BIC=62654.6 ent=0.651 minpi=0.080 reach_best=6/8 [15s]
+[2026-10-21 17:57:41]   D K=6 ll=-30929.8 BIC=62638.3 ent=0.673 minpi=0.037 reach_best=1/8 [19s]
+[2026-10-21 17:58:09]   D K=7 ll=-30872.1 BIC=62654.0 ent=0.672 minpi=0.028 reach_best=5/8 [28s]
+[2026-10-21 17:58:37]   D K=8 ll=-30824.5 BIC=62690.0 ent=0.665 minpi=0.025 reach_best=4/8 [28s]
+[2026-10-21 17:58:39]   D nrm11 ll=-31645.8 npar=28 BIC=63536.6 [1s]
+[2026-10-21 17:59:38]   D nrm21 ll=-31020.9 npar=41 BIC=62400.6 [60s]
+[2026-10-21 18:00:25]   D hyb2 ll=-31066.5 npar=43 BIC=62509.2 [47s]
+[2026-10-21 18:03:04]   D hyb3 ll=-30972.5 npar=58 BIC=62452.3 [158s]
+[2026-10-21 18:03:04] 04_lca_select: done
+[2026-10-21 18:05:23] 05_profiles_gradient: done [('A', 3), ('A', 4), ('B', 4)]
+[2026-10-21 18:06:53] 06_outcomes: done
+[2026-10-21 18:07:49] 06_outcomes: done
+[2026-10-21 18:08:29] mg K=3 done
+[2026-10-21 18:08:46] mg K=4 done
+[2026-10-21 18:08:56] 08_dimensionality: done
+[2026-10-21 18:09:26] mg K=3 done
+[2026-10-21 18:09:43] mg K=4 done
+[2026-10-21 18:10:29] country-specific done
+[2026-10-21 18:11:00] 09_nonlinear: done
+[2026-10-21 18:19:10] sensitivity done
+[2026-10-21 18:19:10] 07_robustness: done
+[2026-10-21 18:19:53] 10_theory_matrices: done
+[2026-10-21 18:20:29] 11_model_figure: done
+[2026-10-21 18:20:41] 11_model_figure: done
+[2026-10-21 18:21:02] 11_model_figure: done
+[2026-10-21 18:21:12] 11_model_figure: done
+[2026-10-21 18:24:02] 12_crosscheck: [{"K":2,"N":4989,"ll_inhouse":-21961.214,"ll_stepmix":-21961.213,"abs_diff":0.0},{"K":3,"N":4989,"ll_inhouse":-21848.804,"ll_stepmix":-21848.803,"abs_diff":0.001},{"K":4,"N":4989,"ll_inhouse":-21793.458,"ll_stepmix":-21793.455,"abs_diff":0.003}]

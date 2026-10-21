@@ -129,7 +129,7 @@ def align_classes(theta_ref, pi_ref, theta, pi):
 # ------------------------------------------------------------------ multi-group LCA
 def fit_lca_mg(X, ncat, K, g, free_items=(), init=None, n_starts=20, seed=3, max_iter=2000, tol=1e-9, w=None):
     """pi free by group always; theta_j shared across groups unless j in free_items."""
-    X = np.asarray(X); N, J = X.shape; g = np.asarray(g); G = g.max() + 1
+    X = np.asarray(X); N, J = X.shape; g = np.asarray(g).astype(int); G = int(g.max()) + 1
     w = np.ones(N) if w is None else np.asarray(w, float)
     Z = onehot(X, ncat); rng = np.random.default_rng(seed)
     def run(theta0, pi0):
