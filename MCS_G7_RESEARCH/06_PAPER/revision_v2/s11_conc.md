@@ -1,0 +1,3 @@
+# 11. Conclusion
+
+Observable management control practices in seven G7 economies are organised mainly along a common continuous dimension; distinct configurations add little. The association of that dimension with productivity is positive in most countries but heterogeneous in most specifications, and the heterogeneity cannot be attributed to national institutions or culture with these data. A common architecture of practices may coexist with heterogeneous outcomes, but whether and why contextual fit matters requires direct measurement of integration, use and context. The article therefore contributes a bounded empirical result and a clearer conceptual separation, and sets out a research agenda rather than an established theory of contextual fit.
