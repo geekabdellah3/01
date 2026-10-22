@@ -109,3 +109,8 @@
 [2026-10-22 11:08:29] 16_support_ceiling: done
 [2026-10-22 11:08:48] 16_support_ceiling: done
 [2026-10-22 11:09:03] 16_support_ceiling: done
+[2026-10-22 11:22:56] 17_mcs_models: done
+[2026-10-22 11:23:17] 19 mapping: done
+[2026-10-22 11:32:37] 17_mcs_models: done
+[2026-10-22 11:32:51] 18 predictive: CV done
+[2026-10-22 11:33:00] 18 predictive+transfer: done

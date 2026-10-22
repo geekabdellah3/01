@@ -225,3 +225,26 @@ def eap_scores(res, dim=0, Q=15):
     Xs, post = res["Xs"], res["post"]
     th = Xs[:, -1] if res["kind"] != "nrm2" else Xs[:, 1 + dim]
     return post @ th
+
+
+# ------------------------------------------------------------------ confirmatory nominal-response models with item-factor assignment
+def fit_cfa(X, ncat, assign, D, rho_grid=(0.3, 0.5, 0.7), Q=7, w=None, max_iter=250, tol=1e-6, seed=11):
+    """Theory-driven restricted model: item j loads on factors assign[j] (list of dims). Factors ~ N(0, R), R exchangeable with corr rho.
+    Nominal categories (no order assumed). Returns best over rho_grid (rho ignored if D == 1)."""
+    import itertools
+    X = np.asarray(X); N = X.shape[0]; w = np.ones(N) if w is None else np.asarray(w, float); Z = onehot(X, ncat)
+    z1, wq = gh_nodes(Q); grid = np.array(list(itertools.product(range(Q), repeat=D))); Zn = z1[grid]; lw = np.log(np.prod(wq[grid], axis=1))
+    rng = np.random.default_rng(seed); best = None
+    for rho in (rho_grid if D > 1 else (0.0,)):
+        R = (1 - rho) * np.eye(D) + rho * np.ones((D, D)); Lc = np.linalg.cholesky(R); theta = Zn @ Lc.T
+        Xf = np.c_[np.ones(len(theta)), theta]; cols = [[0] + [1 + d for d in a] for a in assign]
+        Beta = [rng.normal(0, 0.3, (len(c), nc - 1)) for c, nc in zip(cols, ncat)]; ll_old = -np.inf
+        for it in range(max_iter):
+            logT = [np.log(softmax(np.c_[np.zeros(len(Xf)), Xf[:, c] @ B], 1) + EPS) for c, B in zip(cols, Beta)]
+            L = _loglik_states(Z, logT) + lw[None, :]; lse = logsumexp(L, 1); post = np.exp(L - lse[:, None]); ll = float((w * lse).sum()); pw = post * w[:, None]
+            Beta = [_mstep_item(Xf[:, c], pw.T @ z + 1e-9, B) for c, z, B in zip(cols, Z, Beta)]
+            if abs(ll - ll_old) < tol * (abs(ll) + 1): break
+            ll_old = ll
+        npar = sum(len(c) * (nc - 1) for c, nc in zip(cols, ncat)) - sum(0 for _ in cols) + (1 if D > 1 else 0)
+        if best is None or ll > best["ll"]: best = dict(ll=ll, rho=rho, n_par=npar, iters=it + 1, Beta=Beta, cols=cols)
+    best["N"] = N; return best
