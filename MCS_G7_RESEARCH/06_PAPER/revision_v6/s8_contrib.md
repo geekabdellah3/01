@@ -1,0 +1,6 @@
+# 8. Contributions
+
+1. **Practice-level rather than score-level evidence.** Treating monitoring, targets and incentives separately suggests heterogeneity that a single score conceals: it concerns incentives and productivity, is robust to outliers and to the exclusion of any country, and is weaker under weighting and clustered inference.
+2. **Heterogeneity and prediction.** Heterogeneity that is large in magnitude does not produce a detectable out-of-sample gain from country-specific slopes at this sample size; the paper quantifies why (oracle gain versus estimation cost) and shows that partial pooling gives the best point estimate without reliable difference from the extremes. The contribution is a clarification of what heterogeneity tests and predictive tests can and cannot answer, not a new method.
+3. **Conditional transferability.** Models estimated in a single country transfer worse than local models in most pairs, about half of the loss arising from the controls; models estimated on the other six countries are close to local ones but detectably slightly worse.
+4. **Bridge to management control.** The practices are interpreted as observable cybernetic, results and reward mechanisms, and the paper states which control constructs (integration, use, consistency, administrative and cultural controls) presence-based data cannot address.

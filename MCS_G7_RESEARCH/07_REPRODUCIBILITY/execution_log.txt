@@ -121,3 +121,5 @@
 [2026-10-22 12:16:21] 18 predictive+transfer: done
 [2026-10-22 12:16:38] 18 predictive: CV done
 [2026-10-22 12:16:50] 18 predictive+transfer: done
+[2026-10-22 12:42:11] 25a robustness v6: done
+[2026-10-22 12:44:47] 25b: done
