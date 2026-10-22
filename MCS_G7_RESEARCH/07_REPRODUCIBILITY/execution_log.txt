@@ -114,3 +114,10 @@
 [2026-10-22 11:32:37] 17_mcs_models: done
 [2026-10-22 11:32:51] 18 predictive: CV done
 [2026-10-22 11:33:00] 18 predictive+transfer: done
+[2026-10-22 12:07:40] 22 three practices: done
+[2026-10-22 12:08:21] 22 three practices: done
+[2026-10-22 12:10:15] 24 why 3p: done
+[2026-10-22 12:16:07] 18 predictive: CV done
+[2026-10-22 12:16:21] 18 predictive+transfer: done
+[2026-10-22 12:16:38] 18 predictive: CV done
+[2026-10-22 12:16:50] 18 predictive+transfer: done

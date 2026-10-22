@@ -1,0 +1,3 @@
+# 9. Managerial and policy implications
+
+Implications are cautious. Programmes that promote monitoring, targets and incentives should not assume identical associations everywhere: the association of incentives with productivity differs markedly across the countries studied. They also should not assume that a locally estimated model is needed: models estimated on several countries performed nearly as well as local ones. Adoption of practices is not evidence of their integration; organisations adopting practices from elsewhere should assess how the practices are used and aligned with local decision processes and incentives.
