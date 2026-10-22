@@ -106,3 +106,6 @@
 [2026-10-21 20:02:23] 13_contextual_fit: done
 [2026-10-21 20:02:34] 14_context_figures: done
 [2026-10-21 20:03:00] 14_context_figures: done
+[2026-10-22 11:08:29] 16_support_ceiling: done
+[2026-10-22 11:08:48] 16_support_ceiling: done
+[2026-10-22 11:09:03] 16_support_ceiling: done
