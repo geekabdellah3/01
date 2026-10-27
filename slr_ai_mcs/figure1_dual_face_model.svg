@@ -11,7 +11,7 @@
 <text x="30" y="635" font-size="13.5" font-weight="bold" text-anchor="start" fill="#1a1a1a" letter-spacing="0.6">CAPABILITIES</text>
 <text x="30" y="654" font-size="13" font-weight="normal" font-style="italic" text-anchor="start" fill="#4d4d4d">Teece (2007)</text>
 <line x1="30" y1="165" x2="1340" y2="165" stroke="#8c8c8c" stroke-width="0.8"/>
-<line x1="30" y1="540" x2="1340" y2="540" stroke="#8c8c8c" stroke-width="0.8"/>
+<line x1="30" y1="540" x2="1160" y2="540" stroke="#8c8c8c" stroke-width="0.8"/>
 <rect x="210" y="60" width="150" height="70" fill="#fff" stroke="#1a1a1a" stroke-width="1.3"/>
 <text x="285.0" y="91.0" font-size="15.5" font-weight="bold" text-anchor="middle" fill="#1a1a1a">AI and digital</text>
 <text x="285.0" y="109.0" font-size="15.5" font-weight="bold" text-anchor="middle" fill="#1a1a1a">technologies</text>
@@ -29,38 +29,41 @@
 <text x="640" y="40.5" font-size="12" font-weight="bold" text-anchor="middle" fill="#1a1a1a">P2</text>
 <path d="M684 95H776" fill="none" stroke="#1a1a1a" stroke-width="1.4" marker-start="url(#a)" marker-end="url(#a)"/>
 <text x="730" y="86" font-size="14" font-weight="normal" font-style="italic" text-anchor="middle" fill="#1a1a1a">fit</text>
+<path d="M560 139V170" fill="none" stroke="#1a1a1a" stroke-width="1.4" marker-start="url(#a)" marker-end="url(#a)"/>
+<path d="M900 139V170" fill="none" stroke="#1a1a1a" stroke-width="1.4" marker-start="url(#a)" marker-end="url(#a)"/>
+<circle cx="730" cy="152" r="12" fill="#fff" stroke="#1a1a1a" stroke-width="1.2"/>
+<text x="730" y="156.5" font-size="12" font-weight="bold" text-anchor="middle" fill="#1a1a1a">P3</text>
+<text x="748" y="157" font-size="13.5" font-weight="normal" font-style="italic" text-anchor="start" fill="#1a1a1a">reciprocal shaping</text>
 <rect x="202" y="174" width="876" height="296" fill="#fff" stroke="#1a1a1a" stroke-width="2"/>
 <rect x="390" y="182" width="340" height="32" fill="#e4e4e4" stroke="#1a1a1a" stroke-width="1.3"/>
 <text x="560.0" y="203" font-size="15" font-weight="bold" text-anchor="middle" fill="#1a1a1a">Capacity face</text>
 <rect x="730" y="182" width="340" height="32" fill="#e4e4e4" stroke="#1a1a1a" stroke-width="1.3"/>
 <text x="900.0" y="203" font-size="15" font-weight="bold" text-anchor="middle" fill="#1a1a1a">Requirement face</text>
 <text x="300.0" y="203" font-size="15" font-weight="bold" text-anchor="middle" fill="#1a1a1a">Control</text>
-<path d="M560 137V170" fill="none" stroke="#1a1a1a" stroke-width="1.4" marker-end="url(#a)"/>
-<path d="M900 137V170" fill="none" stroke="#1a1a1a" stroke-width="1.4" marker-end="url(#a)"/>
 <rect x="210" y="214" width="180" height="50" fill="#fff" stroke="#1a1a1a" stroke-width="1.3"/>
 <text x="225" y="244" font-size="15.5" font-weight="bold" text-anchor="start" fill="#1a1a1a">Planning</text>
 <rect x="390" y="214" width="340" height="50" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="1.3"/>
-<text x="560.0" y="244" font-size="14" font-weight="normal" font-style="italic" text-anchor="middle" fill="#fff">dominant</text>
+<text x="560.0" y="244" font-size="14" font-weight="normal" font-style="italic" text-anchor="middle" fill="#fff">predominant</text>
 <rect x="730" y="214" width="340" height="50" fill="#e4e4e4" stroke="#1a1a1a" stroke-width="1.3"/>
-<text x="900.0" y="244" font-size="14" font-weight="normal" font-style="italic" text-anchor="middle" fill="#4d4d4d">secondary</text>
+<text x="900.0" y="244" font-size="14" font-weight="normal" font-style="italic" text-anchor="middle" fill="#4d4d4d">less frequent</text>
 <rect x="210" y="264" width="180" height="50" fill="#fff" stroke="#1a1a1a" stroke-width="1.3"/>
 <text x="225" y="294" font-size="15.5" font-weight="bold" text-anchor="start" fill="#1a1a1a">Cybernetic</text>
 <rect x="390" y="264" width="340" height="50" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="1.3"/>
-<text x="560.0" y="294" font-size="14" font-weight="normal" font-style="italic" text-anchor="middle" fill="#fff">dominant</text>
+<text x="560.0" y="294" font-size="14" font-weight="normal" font-style="italic" text-anchor="middle" fill="#fff">predominant</text>
 <rect x="730" y="264" width="340" height="50" fill="#e4e4e4" stroke="#1a1a1a" stroke-width="1.3"/>
-<text x="900.0" y="294" font-size="14" font-weight="normal" font-style="italic" text-anchor="middle" fill="#4d4d4d">secondary</text>
+<text x="900.0" y="294" font-size="14" font-weight="normal" font-style="italic" text-anchor="middle" fill="#4d4d4d">less frequent</text>
 <rect x="210" y="314" width="180" height="50" fill="#fff" stroke="#1a1a1a" stroke-width="1.3"/>
 <text x="225" y="344" font-size="15.5" font-weight="bold" text-anchor="start" fill="#1a1a1a">Administrative</text>
 <rect x="390" y="314" width="340" height="50" fill="#e4e4e4" stroke="#1a1a1a" stroke-width="1.3"/>
-<text x="560.0" y="344" font-size="14" font-weight="normal" font-style="italic" text-anchor="middle" fill="#4d4d4d">secondary</text>
+<text x="560.0" y="344" font-size="14" font-weight="normal" font-style="italic" text-anchor="middle" fill="#4d4d4d">less frequent</text>
 <rect x="730" y="314" width="340" height="50" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="1.3"/>
-<text x="900.0" y="344" font-size="14" font-weight="normal" font-style="italic" text-anchor="middle" fill="#fff">dominant</text>
+<text x="900.0" y="344" font-size="14" font-weight="normal" font-style="italic" text-anchor="middle" fill="#fff">predominant</text>
 <rect x="210" y="364" width="180" height="50" fill="#fff" stroke="#1a1a1a" stroke-width="1.3"/>
 <text x="225" y="394" font-size="15.5" font-weight="bold" text-anchor="start" fill="#1a1a1a">Cultural</text>
 <rect x="390" y="364" width="340" height="50" fill="#e4e4e4" stroke="#1a1a1a" stroke-width="1.3"/>
-<text x="560.0" y="394" font-size="14" font-weight="normal" font-style="italic" text-anchor="middle" fill="#4d4d4d">secondary</text>
+<text x="560.0" y="394" font-size="14" font-weight="normal" font-style="italic" text-anchor="middle" fill="#4d4d4d">less frequent</text>
 <rect x="730" y="364" width="340" height="50" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="1.3"/>
-<text x="900.0" y="394" font-size="14" font-weight="normal" font-style="italic" text-anchor="middle" fill="#fff">dominant</text>
+<text x="900.0" y="394" font-size="14" font-weight="normal" font-style="italic" text-anchor="middle" fill="#fff">predominant</text>
 <rect x="210" y="414" width="180" height="50" fill="#fff" stroke="#1a1a1a" stroke-width="1.3"/>
 <text x="225" y="444" font-size="15.5" font-weight="bold" text-anchor="start" fill="#1a1a1a">Reward</text>
 <rect x="390" y="414" width="340" height="50" fill="url(#h)" stroke="#1a1a1a" stroke-width="1.3"/>
@@ -72,10 +75,10 @@
 <line x1="730" y1="182" x2="730" y2="464" stroke="#1a1a1a" stroke-width="2.2"/>
 <path d="M1082 219h8V309h-8" fill="none" stroke="#1a1a1a" stroke-width="1.2"/>
 <text x="1098" y="262.0" font-size="13.5" font-weight="normal" font-style="italic" text-anchor="start" fill="#1a1a1a">capacity-</text>
-<text x="1098" y="278.0" font-size="13.5" font-weight="normal" font-style="italic" text-anchor="start" fill="#1a1a1a">dominant</text>
+<text x="1098" y="278.0" font-size="13.5" font-weight="normal" font-style="italic" text-anchor="start" fill="#1a1a1a">oriented</text>
 <path d="M1082 319h8V409h-8" fill="none" stroke="#1a1a1a" stroke-width="1.2"/>
 <text x="1098" y="362.0" font-size="13.5" font-weight="normal" font-style="italic" text-anchor="start" fill="#1a1a1a">requirement-</text>
-<text x="1098" y="378.0" font-size="13.5" font-weight="normal" font-style="italic" text-anchor="start" fill="#1a1a1a">dominant</text>
+<text x="1098" y="378.0" font-size="13.5" font-weight="normal" font-style="italic" text-anchor="start" fill="#1a1a1a">oriented</text>
 <path d="M1082 419h8V459h-8" fill="none" stroke="#1a1a1a" stroke-width="1.2"/>
 <text x="1098" y="437.0" font-size="13.5" font-weight="normal" font-style="italic" text-anchor="start" fill="#1a1a1a">under-</text>
 <text x="1098" y="453.0" font-size="13.5" font-weight="normal" font-style="italic" text-anchor="start" fill="#1a1a1a">explored</text>
@@ -100,22 +103,36 @@
 <path d="M879 573C879 520 985 520 985 474" fill="none" stroke="#1a1a1a" stroke-width="1.4" stroke-dasharray="5 4" marker-end="url(#a)"/>
 <path d="M880 647C880 690 345 690 345 649" fill="none" stroke="#1a1a1a" stroke-width="1.4" stroke-dasharray="5 4" marker-end="url(#a)"/>
 <text x="612" y="704" font-size="13.5" font-weight="normal" font-style="italic" text-anchor="middle" fill="#4d4d4d">iteration: new signals</text>
-<rect x="1200" y="570" width="145" height="80" fill="#fff" stroke="#1a1a1a" stroke-width="1.3"/>
-<text x="1272.5" y="597.0" font-size="15.5" font-weight="bold" text-anchor="middle" fill="#1a1a1a">Fit</text>
-<text x="1272.5" y="615.0" font-size="13.5" font-weight="normal" font-style="italic" text-anchor="middle" fill="#4d4d4d">substantial</text>
-<text x="1272.5" y="633.0" font-size="13.5" font-weight="normal" font-style="italic" text-anchor="middle" fill="#4d4d4d">transformation</text>
-<path d="M1016 610H1196" fill="none" stroke="#1a1a1a" stroke-width="1.4" marker-end="url(#a)"/>
-<circle cx="1105" cy="592" r="12" fill="#fff" stroke="#1a1a1a" stroke-width="1.2"/>
-<text x="1105" y="596.5" font-size="12" font-weight="bold" text-anchor="middle" fill="#1a1a1a">P5</text>
+<text x="1262" y="412" font-size="13" font-weight="bold" text-anchor="middle" fill="#4d4d4d" letter-spacing="0.6">TRAJECTORIES</text>
+<text x="1262" y="428" font-size="13" font-weight="bold" text-anchor="middle" fill="#4d4d4d" letter-spacing="0.6">OF CHANGE</text>
+<line x1="1016" y1="610" x2="1060" y2="610" stroke="#1a1a1a" stroke-width="1.4"/>
+<rect x="1180" y="450" width="165" height="72" fill="#fff" stroke="#1a1a1a" stroke-width="1.3"/>
+<text x="1262.5" y="473.0" font-size="14.5" font-weight="bold" text-anchor="middle" fill="#1a1a1a">Substantial</text>
+<text x="1262.5" y="491.0" font-size="14.5" font-weight="bold" text-anchor="middle" fill="#1a1a1a">transformation</text>
+<text x="1262.5" y="509.0" font-size="13.5" font-weight="normal" font-style="italic" text-anchor="middle" fill="#4d4d4d">(fit)</text>
+<path d="M1060 610C1120 610 1120 486 1176 486" fill="none" stroke="#1a1a1a" stroke-width="1.4" marker-end="url(#a)"/>
+<rect x="1180" y="565" width="165" height="72" fill="#fff" stroke="#1a1a1a" stroke-width="1.3"/>
+<text x="1262.5" y="588.0" font-size="14.5" font-weight="bold" text-anchor="middle" fill="#1a1a1a">Limited</text>
+<text x="1262.5" y="606.0" font-size="14.5" font-weight="bold" text-anchor="middle" fill="#1a1a1a">adaptation</text>
+<text x="1262.5" y="624.0" font-size="13.5" font-weight="normal" font-style="italic" text-anchor="middle" fill="#4d4d4d">(partial fit)</text>
+<path d="M1060 610H1176" fill="none" stroke="#1a1a1a" stroke-width="1.4" marker-end="url(#a)"/>
+<rect x="1180" y="680" width="165" height="72" fill="#fff" stroke="#1a1a1a" stroke-width="1.3"/>
+<text x="1262.5" y="703.0" font-size="14.5" font-weight="bold" text-anchor="middle" fill="#1a1a1a">Persistence or</text>
+<text x="1262.5" y="721.0" font-size="14.5" font-weight="bold" text-anchor="middle" fill="#1a1a1a">ceremonial adoption</text>
+<text x="1262.5" y="739.0" font-size="13.5" font-weight="normal" font-style="italic" text-anchor="middle" fill="#4d4d4d">(misfit)</text>
+<path d="M1060 610C1120 610 1120 716 1176 716" fill="none" stroke="#1a1a1a" stroke-width="1.4" marker-end="url(#a)"/>
+<circle cx="1060" cy="610" r="12" fill="#fff" stroke="#1a1a1a" stroke-width="1.2"/>
+<text x="1060" y="614.5" font-size="12" font-weight="bold" text-anchor="middle" fill="#1a1a1a">P5</text>
 <rect x="210" y="736" width="22" height="14" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="1"/>
-<text x="240" y="748" font-size="13.5" font-weight="normal" text-anchor="start" fill="#1a1a1a">dominant face</text>
-<rect x="360" y="736" width="22" height="14" fill="#e4e4e4" stroke="#1a1a1a" stroke-width="1"/>
-<text x="390" y="748" font-size="13.5" font-weight="normal" text-anchor="start" fill="#1a1a1a">secondary face</text>
-<rect x="515" y="736" width="22" height="14" fill="url(#h)" stroke="#1a1a1a" stroke-width="1"/>
-<text x="545" y="748" font-size="13.5" font-weight="normal" text-anchor="start" fill="#1a1a1a">under-explored</text>
-<line x1="670" y1="743" x2="705" y2="743" stroke="#1a1a1a" stroke-width="1.4" stroke-dasharray="5 4"/>
-<text x="713" y="748" font-size="13.5" font-weight="normal" text-anchor="start" fill="#1a1a1a">enacted by</text>
-<circle cx="820" cy="743" r="12" fill="#fff" stroke="#1a1a1a" stroke-width="1.2"/>
-<text x="820" y="747.5" font-size="12" font-weight="bold" text-anchor="middle" fill="#1a1a1a">Pn</text>
-<text x="840" y="748" font-size="13.5" font-weight="normal" text-anchor="start" fill="#1a1a1a">proposition</text>
+<text x="240" y="748" font-size="13.5" font-weight="normal" text-anchor="start" fill="#1a1a1a">predominant association</text>
+<rect x="400" y="736" width="22" height="14" fill="#e4e4e4" stroke="#1a1a1a" stroke-width="1"/>
+<text x="430" y="748" font-size="13.5" font-weight="normal" text-anchor="start" fill="#1a1a1a">less frequent association</text>
+<text x="585" y="748" font-size="13.5" font-weight="normal" font-style="italic" text-anchor="start" fill="#4d4d4d">(B-SLR coding)</text>
+<rect x="690" y="736" width="22" height="14" fill="url(#h)" stroke="#1a1a1a" stroke-width="1"/>
+<text x="720" y="748" font-size="13.5" font-weight="normal" text-anchor="start" fill="#1a1a1a">under-explored</text>
+<line x1="830" y1="743" x2="865" y2="743" stroke="#1a1a1a" stroke-width="1.4" stroke-dasharray="5 4"/>
+<text x="873" y="748" font-size="13.5" font-weight="normal" text-anchor="start" fill="#1a1a1a">enacted by</text>
+<circle cx="965" cy="743" r="12" fill="#fff" stroke="#1a1a1a" stroke-width="1.2"/>
+<text x="965" y="747.5" font-size="12" font-weight="bold" text-anchor="middle" fill="#1a1a1a">Pn</text>
+<text x="985" y="748" font-size="13.5" font-weight="normal" text-anchor="start" fill="#1a1a1a">conceptual proposition</text>
 </svg>
