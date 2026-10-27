@@ -5,7 +5,7 @@ How do AI-driven changes in information-processing requirements and capacities r
 
 ## Caption
 **Figure 1.** An information-processing framework of the MCS package under AI: dual-faced controls, dynamic capabilities and trajectories of organizational change.
-*Note.* Shading reports the B-SLR coding (46 abstracts, 144 sentences, 163 codes; single coder, inter-coder reliability pending). TD1–TD5 are theoretical dimensions derived from the framework, not B-SLR findings.
+*Note.* Shading reports the B-SLR coding: 46 abstracts → 366 non-methodological sentences → 144 sentences from 43 articles referring to a control → 163 codes (a sentence may carry several codes). Inter-coder reliability: κ to be reported per dimension. TD1–TD5 are theoretical dimensions derived from the framework, not B-SLR findings.
 
 ## B-SLR findings (descriptive, from the coding)
 - **F1:** Planning and cybernetic controls are predominantly associated with the capacity face (IPC/IPR codes: planning 13/5; cybernetic 31/7).
