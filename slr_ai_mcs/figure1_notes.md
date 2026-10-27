@@ -5,7 +5,7 @@ How do AI-driven changes in information-processing requirements and capacities r
 
 ## Caption
 **Figure 1.** An information-processing framework of the MCS package under AI: dual-faced controls, dynamic capabilities and trajectories of organizational change.
-*Note.* Shading reports the B-SLR coding (46 abstracts, 144 sentences, 163 codes; single coder, inter-coder reliability pending). P1–P5 are conceptual propositions derived from the framework, not B-SLR findings.
+*Note.* Shading reports the B-SLR coding (46 abstracts, 144 sentences, 163 codes; single coder, inter-coder reliability pending). TD1–TD5 are theoretical dimensions derived from the framework, not B-SLR findings.
 
 ## B-SLR findings (descriptive, from the coding)
 - **F1:** Planning and cybernetic controls are predominantly associated with the capacity face (IPC/IPR codes: planning 13/5; cybernetic 31/7).
@@ -13,12 +13,12 @@ How do AI-driven changes in information-processing requirements and capacities r
 - **F3:** Reward controls are almost absent from the reviewed literature (1 code out of 163).
 - **F4:** Sensing is mostly associated with the capacity face (47/7), transforming with the requirement face (5/61), and seizing with both (19/24).
 
-## Conceptual propositions
-- **P1:** AI and digital technologies increase the information-processing capacity of the MCS package, mainly through capacity-oriented controls (planning, cybernetic).
-- **P2:** AI and digital technologies generate new information-processing requirements, borne mainly by requirement-oriented controls (administrative, cultural).
-- **P3:** The relationship between the MCS package and information processing is reciprocal: control practices are reshaped by IPC and IPR, but they also redefine which information is required and which can be processed. Management control is thus an agent of organizational transformation, not only its object.
-- **P4:** In the seizing phase, the controller as business partner translates expanded capacities into responses to new requirements, re-coupling the two faces of the package.
-- **P5:** The trajectory of change depends on the degree of re-coupling achieved through transforming: fit leads to substantial transformation, partial fit to limited adaptation, and misfit to the persistence of existing practices or ceremonial adoption.
+## Theoretical dimensions
+- **TD1:** AI and digital technologies increase the information-processing capacity of the MCS package, mainly through capacity-oriented controls (planning, cybernetic).
+- **TD2:** AI and digital technologies generate new information-processing requirements, borne mainly by requirement-oriented controls (administrative, cultural).
+- **TD3:** The relationship between the MCS package and information processing is reciprocal: control practices are reshaped by IPC and IPR, but they also redefine which information is required and which can be processed. Management control is thus an agent of organizational transformation, not only its object.
+- **TD4:** In the seizing phase, the controller as business partner translates expanded capacities into responses to new requirements, re-coupling the two faces of the package.
+- **TD5:** The trajectory of change depends on the degree of re-coupling achieved through transforming: fit leads to substantial transformation, partial fit to limited adaptation, and misfit to the persistence of existing practices or ceremonial adoption.
 
 ## Central concept
 Informational asymmetry of the MCS package: AI expands the capacity face of some controls faster than the requirement face of others is adapted.

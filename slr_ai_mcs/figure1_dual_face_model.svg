@@ -22,18 +22,18 @@
 <text x="900.0" y="91.0" font-size="15.5" font-weight="bold" text-anchor="middle" fill="#1a1a1a">Information-processing</text>
 <text x="900.0" y="109.0" font-size="15.5" font-weight="bold" text-anchor="middle" fill="#1a1a1a">requirements (IPR)</text>
 <path d="M362 95H436" fill="none" stroke="#1a1a1a" stroke-width="1.4" marker-end="url(#a)"/>
-<circle cx="399" cy="77" r="12" fill="#fff" stroke="#1a1a1a" stroke-width="1.2"/>
-<text x="399" y="81.5" font-size="12" font-weight="bold" text-anchor="middle" fill="#1a1a1a">P1</text>
+<circle cx="399" cy="77" r="15" fill="#fff" stroke="#1a1a1a" stroke-width="1.2"/>
+<text x="399" y="81" font-size="11" font-weight="bold" text-anchor="middle" fill="#1a1a1a">TD1</text>
 <path d="M285 58V36H900V51" fill="none" stroke="#1a1a1a" stroke-width="1.4" marker-end="url(#a)"/>
-<circle cx="640" cy="36" r="12" fill="#fff" stroke="#1a1a1a" stroke-width="1.2"/>
-<text x="640" y="40.5" font-size="12" font-weight="bold" text-anchor="middle" fill="#1a1a1a">P2</text>
+<circle cx="640" cy="36" r="15" fill="#fff" stroke="#1a1a1a" stroke-width="1.2"/>
+<text x="640" y="40" font-size="11" font-weight="bold" text-anchor="middle" fill="#1a1a1a">TD2</text>
 <path d="M684 95H776" fill="none" stroke="#1a1a1a" stroke-width="1.4" marker-start="url(#a)" marker-end="url(#a)"/>
 <text x="730" y="86" font-size="14" font-weight="normal" font-style="italic" text-anchor="middle" fill="#1a1a1a">fit</text>
 <path d="M560 139V170" fill="none" stroke="#1a1a1a" stroke-width="1.4" marker-start="url(#a)" marker-end="url(#a)"/>
 <path d="M900 139V170" fill="none" stroke="#1a1a1a" stroke-width="1.4" marker-start="url(#a)" marker-end="url(#a)"/>
-<circle cx="730" cy="152" r="12" fill="#fff" stroke="#1a1a1a" stroke-width="1.2"/>
-<text x="730" y="156.5" font-size="12" font-weight="bold" text-anchor="middle" fill="#1a1a1a">P3</text>
-<text x="748" y="157" font-size="13.5" font-weight="normal" font-style="italic" text-anchor="start" fill="#1a1a1a">reciprocal shaping</text>
+<circle cx="730" cy="148" r="15" fill="#fff" stroke="#1a1a1a" stroke-width="1.2"/>
+<text x="730" y="152" font-size="11" font-weight="bold" text-anchor="middle" fill="#1a1a1a">TD3</text>
+<text x="750" y="153" font-size="13.5" font-weight="normal" font-style="italic" text-anchor="start" fill="#1a1a1a">reciprocal shaping</text>
 <rect x="202" y="174" width="876" height="296" fill="#fff" stroke="#1a1a1a" stroke-width="2"/>
 <rect x="390" y="182" width="340" height="32" fill="#e4e4e4" stroke="#1a1a1a" stroke-width="1.3"/>
 <text x="560.0" y="203" font-size="15" font-weight="bold" text-anchor="middle" fill="#1a1a1a">Capacity face</text>
@@ -98,8 +98,8 @@
 <text x="884.0" y="626" font-size="14" font-weight="normal" font-style="italic" text-anchor="middle" fill="#4d4d4d">reconfiguring controls</text>
 <path d="M345 573C345 520 470 520 470 474" fill="none" stroke="#1a1a1a" stroke-width="1.4" stroke-dasharray="5 4" marker-end="url(#a)"/>
 <path d="M612 573C612 555 730 560 730 536" fill="none" stroke="#1a1a1a" stroke-width="1.4" stroke-dasharray="5 4" marker-end="url(#a)"/>
-<circle cx="668" cy="557" r="12" fill="#fff" stroke="#1a1a1a" stroke-width="1.2"/>
-<text x="668" y="561.5" font-size="12" font-weight="bold" text-anchor="middle" fill="#1a1a1a">P4</text>
+<circle cx="668" cy="557" r="15" fill="#fff" stroke="#1a1a1a" stroke-width="1.2"/>
+<text x="668" y="561" font-size="11" font-weight="bold" text-anchor="middle" fill="#1a1a1a">TD4</text>
 <path d="M879 573C879 520 985 520 985 474" fill="none" stroke="#1a1a1a" stroke-width="1.4" stroke-dasharray="5 4" marker-end="url(#a)"/>
 <path d="M880 647C880 690 345 690 345 649" fill="none" stroke="#1a1a1a" stroke-width="1.4" stroke-dasharray="5 4" marker-end="url(#a)"/>
 <text x="612" y="704" font-size="13.5" font-weight="normal" font-style="italic" text-anchor="middle" fill="#4d4d4d">iteration: new signals</text>
@@ -121,8 +121,8 @@
 <text x="1262.5" y="721.0" font-size="14.5" font-weight="bold" text-anchor="middle" fill="#1a1a1a">ceremonial adoption</text>
 <text x="1262.5" y="739.0" font-size="13.5" font-weight="normal" font-style="italic" text-anchor="middle" fill="#4d4d4d">(misfit)</text>
 <path d="M1060 610C1120 610 1120 716 1176 716" fill="none" stroke="#1a1a1a" stroke-width="1.4" marker-end="url(#a)"/>
-<circle cx="1060" cy="610" r="12" fill="#fff" stroke="#1a1a1a" stroke-width="1.2"/>
-<text x="1060" y="614.5" font-size="12" font-weight="bold" text-anchor="middle" fill="#1a1a1a">P5</text>
+<circle cx="1060" cy="610" r="15" fill="#fff" stroke="#1a1a1a" stroke-width="1.2"/>
+<text x="1060" y="614" font-size="11" font-weight="bold" text-anchor="middle" fill="#1a1a1a">TD5</text>
 <rect x="210" y="736" width="22" height="14" fill="#4d4d4d" stroke="#1a1a1a" stroke-width="1"/>
 <text x="240" y="748" font-size="13.5" font-weight="normal" text-anchor="start" fill="#1a1a1a">predominant association</text>
 <rect x="400" y="736" width="22" height="14" fill="#e4e4e4" stroke="#1a1a1a" stroke-width="1"/>
@@ -132,7 +132,7 @@
 <text x="720" y="748" font-size="13.5" font-weight="normal" text-anchor="start" fill="#1a1a1a">under-explored</text>
 <line x1="830" y1="743" x2="865" y2="743" stroke="#1a1a1a" stroke-width="1.4" stroke-dasharray="5 4"/>
 <text x="873" y="748" font-size="13.5" font-weight="normal" text-anchor="start" fill="#1a1a1a">enacted by</text>
-<circle cx="965" cy="743" r="12" fill="#fff" stroke="#1a1a1a" stroke-width="1.2"/>
-<text x="965" y="747.5" font-size="12" font-weight="bold" text-anchor="middle" fill="#1a1a1a">Pn</text>
-<text x="985" y="748" font-size="13.5" font-weight="normal" text-anchor="start" fill="#1a1a1a">conceptual proposition</text>
+<circle cx="965" cy="743" r="15" fill="#fff" stroke="#1a1a1a" stroke-width="1.2"/>
+<text x="965" y="747" font-size="11" font-weight="bold" text-anchor="middle" fill="#1a1a1a">TDn</text>
+<text x="988" y="748" font-size="13.5" font-weight="normal" text-anchor="start" fill="#1a1a1a">theoretical dimension</text>
 </svg>
